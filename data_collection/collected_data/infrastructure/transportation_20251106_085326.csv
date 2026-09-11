@@ -1,0 +1,239 @@
+category,osm_id,osm_type,lat,lon,name,amenity,healthcare,operator,capacity,beds,emergency,phone,website,priority
+transportation,243060332,node,13.0334336,80.2679457,மைலாப்பூர்,bus_station,,,,,,,,medium
+transportation,247691544,node,13.0512112,80.2778386,V House Bus Terminus,bus_station,,,,,,,,medium
+transportation,248454339,node,13.0511602,80.0949546,Poonamallee MTC Terminus,bus_station,,,,,,,,medium
+transportation,248467412,node,13.0743424,80.242421,Chennai Chetpat,,,SR,,,,,,medium
+transportation,248545108,node,13.1143904,80.1663975,Pattaravakkam,,,SR,,,,,,medium
+transportation,261716087,node,12.7968265,79.8185833,Walajabad,,,SR,,,,,,medium
+transportation,262308384,node,13.1373759,80.0601177,Pattabiram Military Siding,,,SR,,,,,,medium
+transportation,262308388,node,13.1193895,80.065116,Pattabiram East Siding,,,SR,,,,,,medium
+transportation,278746634,node,12.9778068,80.1812484,Nanganallur Bus Terminus,bus_station,,MTC,,,,,,medium
+transportation,304278622,node,13.0985386,80.2010061,Anna Nagar West,,,SR,,,,,,medium
+transportation,306104406,node,13.06846,80.2051255,Puratchi Thalaivar Dr. M.G.R Bus Terminus,bus_station,,,,,,,,medium
+transportation,306113099,node,12.9854773,80.2405635,Taramani,bus_station,,MTC,,,,,,medium
+transportation,308032774,node,13.0533394,80.1970832,Saligramam Bus Terminus,bus_station,,,,,,,,medium
+transportation,311284385,node,13.1085691,80.2482521,Perambur MTC Terminus,bus_station,,,,,,,,medium
+transportation,311337040,node,13.1002428,80.2147138,ICF MTC Terminus,bus_station,,,,,,,,medium
+transportation,316260288,node,13.0973052,80.2998905,Chokani Jetty,ferry_terminal,,,,,,,,medium
+transportation,321652675,node,13.2820098,80.2537049,Minjur MTC Terminus,bus_station,,,,,,,,medium
+transportation,321659385,node,13.1699771,80.2571585,Manali MTC Terminus,bus_station,,,,,,,,medium
+transportation,321661962,node,13.1523676,80.2283452,மாதவரம் மாநகர பேருந்து முனையம்,bus_station,,,,,,,,medium
+transportation,340042533,node,12.9404439,80.1505864,Hasthinapuram MTC Terminus,bus_station,,,,,,,,medium
+transportation,340088810,node,12.9253393,80.1167451,Tambaram MTC Terminus,bus_station,,,,,,,,medium
+transportation,340088821,node,12.923598,80.1170906,Tambaram East MTC Terminus,bus_station,,,,,,,,medium
+transportation,344420267,node,13.0985912,80.2420039,Ayanavaram MTC Terminus,bus_station,,,,,,,,medium
+transportation,360562773,node,12.9739799,80.2029314,Puzhuthivakkam Bus Stand,bus_station,,,,,,,,medium
+transportation,373077167,node,13.214722,80.320837,Ennore MTC Terminus,bus_station,,,,,,,,medium
+transportation,389964614,node,13.0441595,80.1933034,KK Nagar West MTC Terminus,bus_station,,,,,,,,medium
+transportation,402290805,node,13.0695846,80.1240223,Thiruverkadu MTC Bus Terminus,bus_station,,,,,,,,medium
+transportation,402298612,node,12.874697,80.2097654,Semmanchery MTC Terminus,bus_station,,,,,,,,medium
+transportation,402750050,node,13.1457511,80.250441,Parvathi Nagar MTC Terminus,bus_station,,,,,,,,medium
+transportation,442132009,node,12.927719,80.1187421,Tambaram Bus Stand,bus_station,,,,,,,,medium
+transportation,442538699,node,12.9628608,80.1982835,Madipakkam Bus Stand,bus_station,,Chennai Metro Transport Services,,,,,,medium
+transportation,675894194,node,13.1398634,80.2056795,Vinayakapuram,bus_station,,MTC,,,,,,medium
+transportation,1141167996,node,12.7866073,80.2501989,Bus Stand Kovalam,bus_station,,,,,,,,medium
+transportation,1145642404,node,12.8447958,80.0618036,Guduvancheri MTC Terminus,bus_station,,,,,,,,medium
+transportation,1330414242,node,12.9213092,80.1970496,Unnamed,bus_station,,,,,,,,medium
+transportation,1391028778,node,13.0354223,80.2057167,KK Nagar MTC Terminus,bus_station,,,,,,,,medium
+transportation,1391573897,node,13.1721641,80.3050914,Thirovttriyur MTC Terminus,bus_station,,,,,,,,medium
+transportation,1428608424,node,13.1713741,80.2475064,Mathur MMDA,bus_station,,,,,,,,medium
+transportation,1693526124,node,12.91956,80.1822542,Medavakkam Bus Terminus,bus_station,,,,,,,,medium
+transportation,2048191334,node,12.7767905,79.8778012,Palayasivaram,,,SR,,,,,,medium
+transportation,2481258995,node,13.079587,80.2762947,Chennai Park Town,,,SR,,,,,,medium
+transportation,2481258999,node,13.0807537,80.2730879,Chennai Park,,,SR,,,,,,medium
+transportation,2481259002,node,13.0516624,80.2306892,Kodambakkam,,,SR,,,,,,medium
+transportation,2481259006,node,13.0380662,80.2277752,Mambalam,,,SR,,,,,,medium
+transportation,2481259029,node,13.0233098,80.2237191,Saidapet,,,SR,,,,,,medium
+transportation,2481969291,node,13.0824232,80.2759622,Puratchi Thalaivar Dr. M. G. Ramachandran Central,,,SR,,,,,,medium
+transportation,2486239287,node,13.0619312,80.280596,Chepauk,,,SR,,,,,,medium
+transportation,2486239288,node,13.0559352,80.2806044,Thiruvallikeni,,,SR,,,,,,medium
+transportation,2605993507,node,13.2813398,80.2602441,Minjur,,,SR,,,,,,medium
+transportation,3187977875,node,12.9906385,80.1879401,Palavanthangal,,,SR,,,,,,medium
+transportation,3264712327,node,13.0086685,80.2126063,Guindy,,,SR,,,,,,medium
+transportation,3678939665,node,13.1182744,80.1015427,Avadi,,,SR,,,,,,medium
+transportation,3725756379,node,12.766346,79.9069065,Palur,,,SR,,,,,,medium
+transportation,4221752111,node,12.9947654,80.1993715,St. Thomas Mount,,,SR,,,,,,medium
+transportation,4435694788,node,12.9675742,80.1520504,Pallavaram,,,SR,,,,,,medium
+transportation,4546369389,node,13.0695129,80.199087,Unnamed,bus_station,,,,,,,,medium
+transportation,4767159308,node,12.9052432,80.095046,Perungalattur,,,SR,,,,,,medium
+transportation,4885083053,node,12.9804609,80.1657933,Tirusulam,,,SR,,,,,,medium
+transportation,4885094689,node,12.9846976,80.1750925,Meenambakkam,,,SR,,,,,,medium
+transportation,5230370403,node,13.0822086,80.1704109,Mogappair West Bus Terminus,bus_station,,MTC,,,,,https://mtcbus.org/,medium
+transportation,5273733276,node,12.9521897,80.1411677,Chromepet,,,SR,,,,,,medium
+transportation,5273746526,node,12.8055581,80.0266339,Kattangulathur,,,SR,,,,,,medium
+transportation,5274094702,node,13.2174681,80.3216013,Ennore,,,SR,,,,,,medium
+transportation,5274201067,node,13.1184826,80.0744298,Hindu College,,,SR,,,,,,medium
+transportation,5274212914,node,13.1460141,80.0686194,Pattabiram E Depot,,,SR,,,,,,medium
+transportation,5274260962,node,12.8452303,80.0576503,Guduvancheri,,,SR,,,,,,medium
+transportation,5274761658,node,13.1194248,80.2784559,Korukkupet,,,SR,,,,,,medium
+transportation,5274761659,node,13.1131424,80.1841521,Korattur,,,SR,,,,,,medium
+transportation,5274913769,node,13.0137182,80.2484517,Kotturpuram,,,SR,,,,,,medium
+transportation,5275671388,node,13.096372,79.8012593,Manavur,,,SR,,,,,,medium
+transportation,5275790188,node,13.0777493,80.2612572,Chennai Egmore,,,SR,,,,,,medium
+transportation,5276187591,node,13.1072814,80.2388864,Perambur Carriage Works,,,SR,,,,,,medium
+transportation,5276205560,node,13.107719,80.2444143,Perambur,,,SR,,,,,,medium
+transportation,5276214842,node,13.1084975,80.2262155,Perambur Loco Works,,,SR,,,,,,medium
+transportation,5286945822,node,12.9257923,80.1179194,Tambaram,,,SR,,,,,,medium
+transportation,5286998286,node,13.123994,80.0297436,Tiruninravur,,,SR,,,,,,medium
+transportation,5287023932,node,13.1091961,80.2572195,Vyasarpadi Jeeva,,,SR,,,,,,medium
+transportation,5308690568,node,13.0042558,80.2014525,ஆலந்தூர்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5310778033,node,13.1140244,80.1528611,Ambattur,,,SR,,,,,,medium
+transportation,5310778035,node,13.1163563,80.1269127,Annanur,,,SR,,,,,,medium
+transportation,5310778036,node,13.1235994,79.9984223,Veppampattu,,,SR,,,,,,medium
+transportation,5310778038,node,13.1252677,79.9660618,Sevvapet Road,,,SR,,,,,,medium
+transportation,5310778041,node,13.1161924,79.9121601,Tiruvallur,,,SR,,,,,,medium
+transportation,5310778042,node,13.0998547,79.8631466,Kadambattur,,,SR,,,,,,medium
+transportation,5310778043,node,13.0901816,79.7637664,Tiruvalangadu,,,SR,,,,,,medium
+transportation,5311732458,node,13.1275202,80.2819242,Tondiarpet,,,SR,,,,,,medium
+transportation,5311732459,node,13.1586407,80.2962076,Tiruvottiyur,,,SR,,,,,,medium
+transportation,5311732501,node,13.1796833,80.3054594,Wimco Nagar,,,SR,,,,,,medium
+transportation,5311732620,node,13.2608405,80.2896478,Attippattu,,,SR,,,,,,medium
+transportation,5311732623,node,13.3041904,80.2309433,Anuppambattu,,,SR,,,,,,medium
+transportation,5311732624,node,13.3323374,80.1988838,Ponneri,,,SR,,,,,,medium
+transportation,5311755231,node,13.0737952,80.2738611,Chintadaripet,,,SR,,,,,,medium
+transportation,5311755232,node,13.0455374,80.2769885,Light House,,,SR,,,,,,medium
+transportation,5311755233,node,13.0406508,80.2698818,Mundakakanni Amman Koil,,,SR,,,,,,medium
+transportation,5311755234,node,13.0353976,80.2675129,Thirumayilai,,,SR,,,,,,medium
+transportation,5311755235,node,13.0280931,80.2606181,Mandaveli,,,SR,,,,,,medium
+transportation,5311755236,node,13.0215846,80.2527292,Greenways Road,,,SR,,,,,,medium
+transportation,5311755237,node,13.0053823,80.2478604,Kasturiba Nagar,,,SR,,,,,,medium
+transportation,5311755238,node,12.9960623,80.249716,Indira Nagar,,,SR,,,,,,medium
+transportation,5311755239,node,12.9889822,80.2515865,Tiruvanmiyur,,,SR,,,,,,medium
+transportation,5311755240,node,12.9786584,80.2416441,Taramani,,,SR,,,,,,medium
+transportation,5311755241,node,12.9760584,80.2321916,Perungudi,,,SR,,,,,,medium
+transportation,5311755242,node,12.9676192,80.2195082,Velachery,,,SR,,,,,,medium
+transportation,5311755243,node,12.9774891,80.2050018,Puzhudivakkam,,,MRTS,,,,,,medium
+transportation,5311755244,node,12.9823811,80.1968882,Adambakkam,,,MRTS,,,,,,medium
+transportation,5311775876,node,12.7619226,80.0007799,Singaperumal Koil,,,SR,,,,,,medium
+transportation,5311775879,node,12.8916061,80.084974,Vandalur,,,SR,,,,,,medium
+transportation,5311775880,node,12.9369591,80.1307034,Tambaram Sanatorium,,,SR,,,,,,medium
+transportation,5311775881,node,13.065841,80.232839,Nungambakkam,,,SR,,,,,,medium
+transportation,5318548733,node,13.0710975,80.2029962,SRM Travels,bus_station,,,,,,,,medium
+transportation,5319202812,node,12.995,80.198582,பரங்கிமலை,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5319207378,node,13.0169222,80.2054236,ஈக்காட்டுத்தாங்கல்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5319972796,node,13.0354768,80.2111075,அசோக் நகர்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5319972798,node,13.0509304,80.2120661,வடபழநி,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5319972799,node,13.0616746,80.2116557,அரும்பாக்கம்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5321248890,node,13.0685246,80.2039625,சென்னை புறநகர் பேருந்து நிலையம்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5321248896,node,13.0734496,80.1948363,கோயம்பேடு,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5329907482,node,13.0755466,80.2328522,Pachaiyappa's College,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5329907487,node,13.0776371,80.2426191,Kilpauk,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5329907490,node,13.0787841,80.250473,Nehru Park,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5329907499,node,13.0802807,80.2630546,Egmore Metro,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5337407346,node,13.0585155,80.2587833,ஆயிரம் விளக்கு,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5337407350,node,13.0643716,80.2658465,எல் ஐ சி,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5337407354,node,13.0696345,80.2730362,அரசினர் தோட்டம்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5337658083,node,13.0872681,80.2849845,High Court,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5337658088,node,13.0954465,80.2861312,Mannadi,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5337658099,node,13.1078469,80.280949,வண்ணாரப்பேட்டை,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,5984608795,node,13.0904025,79.7634037,Thiruvalangadu,,,,,,,,,medium
+transportation,6166092572,node,12.9512199,80.1406421,Chrompet,,,,,,,,,medium
+transportation,6285857237,node,12.9998798,80.1940099,நங்கநல்லூர் சாலை,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,6285857239,node,12.9876728,80.1764787,மீனம்பாக்கம்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,6285857241,node,12.9808092,80.1642026,சென்னை விமான நிலையம்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,6285857242,node,13.0368003,80.2464194,தேனாம்பேட்டை,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,6285857243,node,13.0317092,80.2411957,நந்தனம்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,6285857244,node,13.0239638,80.2280815,சைதாப்பேட்டை,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,6285857246,node,13.0146634,80.2241669,சின்னமலை,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,6285857248,node,13.0092746,80.2130846,கிண்டி,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,6285857249,node,13.0458852,80.2482846,ஏ ஜி டி.எம்.எஸ்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,6285857253,node,13.0817254,80.273916,Chennai Central,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,6354463623,node,13.124774,80.0323861,Tiruninravur Bus Stand,bus_station,,M.T.C.,,,,,,medium
+transportation,6460934200,node,13.1089648,80.2820095,Washermanpet,,,SR,,,,,,medium
+transportation,7205568985,node,12.9371949,80.1272849,தாம்பரம் சானடோரியம் பேருந்து நிலையம்,bus_station,,,,,,,,medium
+transportation,7652446224,node,13.0231848,80.1185112,Pattur Bus Stand,bus_station,,,,,,,,medium
+transportation,7796477466,node,13.0996142,80.1699229,Ambattur Industrial Estate Bus Terminus,bus_station,,,,,,,,medium
+transportation,7796591114,node,13.0937546,80.1984937,Anna Nagar West,bus_station,,,,,,,,medium
+transportation,7895958715,node,13.1196613,80.1501222,Ambattur O.T,bus_station,,MTC,,,,,,medium
+transportation,8430632406,node,13.1157545,80.2847439,தியாகராயா கல்லூரி,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,8430632416,node,13.1245276,80.2888557,தொண்டையார்பேட்டை,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,8430636713,node,13.1792903,80.3073435,விம்கோ நகர்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,8430636714,node,13.1718028,80.3052689,திருவொற்றியூர்,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,8430636715,node,13.1506672,80.2993928,காலடிபேட்டை,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,8430636716,node,13.1431344,80.2963291,சுங்கச்சாவடி,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,8430636817,node,13.1345195,80.2930011,புது வண்ணாரப்பேட்டை,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,9331600151,node,12.9852524,80.1230797,Anakaputhur Bus Stand,bus_station,,,,,,,,medium
+transportation,9580013601,node,13.1602152,80.3024483,திருவொற்றியூர் தேரடி,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,9796683105,node,12.8866626,80.2096881,Perumbakkam Bus Depot,bus_station,,,,,,,,medium
+transportation,9857416360,node,13.1839706,80.3089939,விம்கோ நகர் டிப்போ,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,10833403769,node,13.3344825,79.8937809,UTHUKOTTAI BUS STAND,bus_station,,,,,,,,medium
+transportation,10848041900,node,13.1461042,80.2216999,Madhavaram Mofussil Bus Terminus,bus_station,,,,,,,,medium
+transportation,10848041902,node,13.3081274,80.0462251,PERIYAPALAYAM BUS STAND,bus_station,,,,,,,,medium
+transportation,10951278204,node,13.1929385,80.1839872,Red Hills MTC Bus Terminus,bus_station,,,,,,,,medium
+transportation,10951379005,node,13.1967367,80.1810513,Red Hills Bypass Bus Stop,bus_station,,,,,,,,medium
+transportation,10951379006,node,13.1870262,80.1919074,Red Hills Bypass Bus Stop,bus_station,,,,,,,,medium
+transportation,10951379007,node,13.1455665,80.2213643,"Madhavarm APSRTC , TNSTC Bus Terminus",bus_station,,,,,,,,medium
+transportation,10951379008,node,13.2624366,80.154631,Janappanchataram Bus Stop,bus_station,,,,,,,,medium
+transportation,10951379009,node,13.2625431,80.1552103,Janappanchataram Bus Stop,bus_station,,,,,,,,medium
+transportation,10980207098,node,13.065835,80.2056011,Koyambedu Mofussil Bus Terminal,bus_station,,,,,,,,medium
+transportation,10980207099,node,13.0665289,80.2062855,Koyambedu Mofussil Bus Terminal,bus_station,,,,,,,,medium
+transportation,10980207100,node,13.066402,80.2049735,Koyambedu Mofussil Bus Terminal,bus_station,,,,,,,,medium
+transportation,11703420865,node,13.0579367,80.2581872,Thousand Lights Metro Rail Station - தௌசன்ட் லைட்ஸ் மெட்ரோ ரயில் ஸ்டேஷன்,,,,,,,,,medium
+transportation,11906447555,node,13.0003485,80.2657764,Besant Nagar MTC Terminus,bus_station,,,,,,,,medium
+transportation,11959766020,node,13.1299945,80.202191,Teachers Colony,bus_station,,,,,,,,medium
+transportation,12458756394,node,13.1886718,80.3149641,Bus Stop,bus_station,,Public,,,,,,medium
+transportation,23633604,way,12.9933657,80.1672985,Chennai International Airport,,,,,,,,https://www.chennaiairport.com/,medium
+transportation,26399018,way,13.1043166,80.2935584,Royapuram,,,SR,,,,,,medium
+transportation,27618346,way,13.0869232,80.2841696,Broadway Bus Terminus,bus_station,,,,,,,,medium
+transportation,28089412,way,13.0345607,80.2300795,Thyagaraya Nagar Bus Terminus,bus_station,,Metropolitan Transport Corporation,,,,,,medium
+transportation,28261189,way,12.9035141,80.1213251,Tambaram Air Force Station,,,Indian Air Force,,,,,,medium
+transportation,28342504,way,13.1085273,80.2482436,Unnamed,bus_station,,Metropolitan Transport Corporation (Chennai),,,,,,medium
+transportation,29245551,way,13.2820391,80.2537135,Minjur Bus Stand,bus_station,,,,,,,,medium
+transportation,29973807,way,12.9665035,79.9450504,Sriperumbudur Bus Stand,bus_station,,,,,,,,medium
+transportation,31956728,way,13.067044,80.205648,Chennai Mofussil Bus Terminus,bus_station,,,,,,,,medium
+transportation,35372225,way,13.0664104,80.2842959,Anna Square Bus Station,bus_station,,,,,,,,medium
+transportation,125234675,way,13.0491904,80.2070942,Vadapalani Bus Terminus,bus_station,,mtc,,,,,,medium
+transportation,125234678,way,13.0516103,80.095094,Unnamed,bus_station,,Metropolitan Transport Corporation (Chennai),,,,,,medium
+transportation,125234686,way,12.9515765,80.1400838,Chromepet Bus Stand,bus_station,,MTC,,,,,,medium
+transportation,125234691,way,13.0820121,80.2756225,சென்னை சென்ட்ரல்,bus_station,,mtc,,,,,,medium
+transportation,125234693,way,13.1721199,80.3050741,Unnamed,bus_station,,mtc,,,,,,medium
+transportation,125234699,way,12.9692951,80.150249,Pallavaram Bus Stand,bus_station,,MTC,,,,,,medium
+transportation,125234700,way,13.035374,80.2056885,Unnamed,bus_station,,mtc,,,,,,medium
+transportation,125234701,way,12.9513023,80.1404465,Chromepet Bus Stand,bus_station,,Metropolitan Transport Corporation (Chennai),,,,,,medium
+transportation,125234704,way,12.7862465,80.2220073,Kelambakkam Bus Station,bus_station,,mtc,,,,,,medium
+transportation,125234709,way,13.2147136,80.3208341,Unnamed,bus_station,,mtc,,,,,,medium
+transportation,125234712,way,13.0986131,80.242008,Unnamed,bus_station,,mtc,,,,,,medium
+transportation,125234714,way,13.0695032,80.12401,Thiruverkadu Bus Depot,bus_station,,,,,,,,medium
+transportation,125234717,way,13.139057,80.2821304,Unnamed,bus_station,,mtc,,,,,,medium
+transportation,125234718,way,12.9868356,80.2593327,Thiruvanmiyur MTC Terminus,bus_station,,mtc,,,,,,medium
+transportation,125234719,way,13.0688472,80.2050983,Unnamed,bus_station,,mtc,,,,,,medium
+transportation,125234722,way,13.0234271,80.2277199,Saidapet MTC Terminus,bus_station,,mtc,,,,,,medium
+transportation,177370822,way,12.9628125,80.1984548,Unnamed,bus_station,,,,,,,,medium
+transportation,209562041,way,13.079456,80.2627747,Egmore Railway Station,bus_station,,,,,,,,medium
+transportation,217653510,way,13.0915941,80.2918317,Chennai Beach,,,SR,,,,,,medium
+transportation,217653511,way,13.0835199,80.2830139,Chennai Fort,,,SR,,,,,,medium
+transportation,217677433,way,13.1087244,80.2823735,Washermanpet,,,,,,,,,medium
+transportation,217753807,way,13.0625142,80.215383,MMDA Colony,bus_station,,,,,,,,medium
+transportation,217845073,way,13.0865965,80.2745107,Chennai Central,,,Southern Railway,,,,,,medium
+transportation,217920756,way,13.1198805,80.2326142,Unnamed,bus_station,,,,,,,,medium
+transportation,217928912,way,13.1053831,80.2083658,Villivakkam MTC Bus Terminus,bus_station,,MTC,,,,,,medium
+transportation,217933047,way,13.11623,80.2240443,Unnamed,bus_station,,,,,,,,medium
+transportation,217954831,way,13.1020272,80.2712614,Basin Bridge Junction,,,SR,,,,,,medium
+transportation,235931387,way,13.1103186,80.209155,Villivakkam,,,SR,,,,,,medium
+transportation,251882888,way,12.8447585,80.0616393,MTC Bus Terminus,bus_station,,,,,,,,medium
+transportation,354810503,way,12.9880994,80.22373,Unnamed,bus_station,,,,,,,,medium
+transportation,369148292,way,12.9689058,80.1496185,Pallavaram Bus Stand,bus_station,,MTC,,,,,,medium
+transportation,393560244,way,13.0789536,80.225201,Shenoy Nagar Metro,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,443147288,way,13.1361771,80.2567624,Kaviarasu Kannadasan Nagar(KKD) Nagar Bus Terminus,bus_station,,,,,,,,medium
+transportation,443147289,way,13.1425554,80.2491602,Kodungaiyur Parvathi Nagar Bus Terminus,bus_station,,"MTC, Chennai",,,,,,medium
+transportation,483962057,way,12.9063466,80.0965776,Unnamed,bus_station,,,,,,,,medium
+transportation,835253326,way,13.098889,80.1695937,Unnamed,bus_station,,,,,,,,medium
+transportation,872124343,way,13.2084663,80.1518784,Cholavaram Airstrip,,,,,,,,,medium
+transportation,919654467,way,12.9252239,80.2382841,Unnamed,bus_station,,,,,,,,medium
+transportation,919654468,way,12.9248568,80.2383622,Unnamed,bus_station,,,,,,,,medium
+transportation,1032432141,way,12.9195366,80.1822493,Medavakkam Bus Terminus,,,Metropolitan Transport Corporation (Chennai) Ltd.,,,,,,medium
+transportation,1032599147,way,12.9943694,80.2067529,NGO Colony Bus Terminus,bus_station,,,,,,,,medium
+transportation,1052950343,way,12.9560273,80.1861291,Keelkattalai Bus Stand,bus_station,,,,,,,,medium
+transportation,1065815351,way,12.8725692,80.0821416,Vandalur Kelambakkam Bus Terminus,bus_station,,,,,,,,medium
+transportation,1065815367,way,12.8733789,80.0792119,Vandalur Mofussil Bus Terminus,bus_station,,,,,,,,medium
+transportation,1065815388,way,12.8723017,80.0821371,Kilambakkam Moffusil Terminus,bus_station,,,,,,,,medium
+transportation,1079915315,way,13.0707797,80.1987927,Koyambedu Omni Bus Station,bus_station,,,,,,,,medium
+transportation,1115820281,way,13.0831741,80.2740399,Chennai Suburban Terminal (Moore Market Complex),,,Chennai Metro Rail Limited,,,,,,medium
+transportation,1119111137,way,13.1289054,80.0084494,Veppampattu Bus Depot,bus_station,,,,,,,,medium
+transportation,1173910097,way,12.928162,80.1190503,Tambaram,bus_station,,,,,,,,medium
+transportation,1202024841,way,13.1059081,80.280433,Vallalar Nagar Bus Terminal,bus_station,,,,,,,,medium
+transportation,1289092308,way,13.144515,80.2202947,Unnamed,,,,,,,,,medium
+transportation,1314817095,way,13.08514,80.2086,Anna Nagar Tower,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,1314817096,way,13.08528,80.20152,Thirumangalam,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,1314817097,way,13.0846594,80.2191116,Anna Nagar East,,,Chennai Metro Rail Limited,,,,,,medium
+transportation,1358390606,way,12.791908,80.0321854,Maraimalai Nagar Bus Stand,bus_station,,MTC,,,,,,medium

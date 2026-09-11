@@ -1,0 +1,18 @@
+node_modules
+
+# Local environment files
+.env
+.env.local
+.env.*
+!.env.example
+!.env.local.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Firebase secrets / service account keys
+firebase-admin-credentials.json
+backend/serviceAccountKey.json
+**/*firebase-admin*.json
+**/*serviceAccount*.json
+**/*firebase*service*account*.json

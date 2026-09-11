@@ -1,0 +1,83 @@
+category,osm_id,osm_type,lat,lon,name,amenity,healthcare,operator,capacity,beds,emergency,phone,website,priority
+emergency_shelters,1760696030,node,12.9622746,80.193572,Karthikeyapuran Co-operative Community Hall,community_centre,,,,,,,,medium
+emergency_shelters,3488025507,node,13.0440387,80.2429829,Andhra Social & Cultural Association,social_facility,,,,,,,,medium
+emergency_shelters,3744461963,node,13.0281256,80.2192144,Mahal,community_centre,,,,,,,,medium
+emergency_shelters,3750671376,node,12.9705654,80.1446668,Mars Marriage Hall,community_centre,,,,,,,,medium
+emergency_shelters,4056624163,node,12.8650618,80.0721834,PRN Wedding hall,community_centre,,PRN,,,,,,medium
+emergency_shelters,4238565190,node,13.0856146,80.2814171,Madras United Club,community_centre,,,,,,,,medium
+emergency_shelters,4262044189,node,13.0438561,80.2429363,Andhra Social Club,community_centre,,,,,,,,medium
+emergency_shelters,4271007589,node,13.1463058,80.2182801,Ramlakshmi Paradise,community_centre,,,,,,,,medium
+emergency_shelters,4338130031,node,13.0241341,80.2175909,MOHANAMBAL KALYANA MANDABAM,community_centre,,,,,,,,medium
+emergency_shelters,4411852991,node,13.0105608,80.1957762,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,4438519491,node,13.2547145,80.2770546,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,4542269889,node,13.3363879,80.1933099,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,4623114495,node,12.9790011,80.2003464,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,4672611189,node,12.9111841,80.1610274,Sree Amruthaa Palace,community_centre,,,,,,+91 934 417 2567,https://www.amruthaapalace.com/,medium
+emergency_shelters,4707360804,node,13.037191,80.265593,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,4720481590,node,13.0455148,80.2484363,AG-DMS Metro,community_centre,,,,,,,,medium
+emergency_shelters,4740540121,node,13.0735338,80.2010076,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,5104848529,node,12.7676467,80.153791,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,5229852804,node,13.3357582,80.1904177,MLA Office,community_centre,,,,,,,,medium
+emergency_shelters,5258898323,node,12.9167242,80.1445979,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,5258898326,node,12.9105302,80.1433321,Unnamed,community_centre,,,,,,04422292025,,medium
+emergency_shelters,5306605011,node,13.0873874,80.2046738,Kalyan Kendra Community Hall,community_centre,,,,,,,,medium
+emergency_shelters,5313567021,node,12.9649935,80.0936155,Dhamma Setu Vipassana Center,community_centre,,,,,,,,medium
+emergency_shelters,5321370166,node,12.8345148,80.2285832,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,5321370601,node,12.8356951,80.2283224,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,5436842821,node,12.8139753,80.2424275,National Institute for Empowerment of Persons with Multiple Disabilities,community_centre,,,,,,00914427472104,https://www.niepmd.tn.nic.in,medium
+emergency_shelters,5474584419,node,13.081808,80.1798957,Square space,community_centre,,,,,,,,medium
+emergency_shelters,5487610049,node,13.0555141,80.2712694,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,5714965849,node,12.9698305,80.2330226,Kallukuttai Community Network Place II,community_centre,,,,,,,,medium
+emergency_shelters,5724412721,node,13.0683427,80.2565851,இக்சா அரங்கம்,community_centre,,,,,,,,medium
+emergency_shelters,5756218859,node,12.8710918,80.2055283,Community Network Possible Places,community_centre,,,,,,,,medium
+emergency_shelters,5850471689,node,12.9397977,80.2563514,ராணி மஹால்,community_centre,,,,,,,,medium
+emergency_shelters,5963981285,node,12.9271815,80.1286389,பகிர்ந்து உண்,community_centre,,,,,,+918610707784,,medium
+emergency_shelters,6087420486,node,12.9226473,80.0953569,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,6125974285,node,13.06801,80.13179,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,6354645937,node,13.1263386,80.0268469,Gospel Hall,community_centre,,,,,,,,medium
+emergency_shelters,6945677921,node,12.9532329,80.2334136,OMR Activists Collective,community_centre,,,,,,,,medium
+emergency_shelters,7006350087,node,13.0770675,80.2634442,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,7185733585,node,13.0606876,80.1378102,SRS திருமண மண்டபம்,community_centre,,,,,,,,medium
+emergency_shelters,7252136539,node,13.1086733,80.2920414,Royapuram Brahma Theertham,community_centre,,,,,,,,medium
+emergency_shelters,7257415985,node,13.0819511,80.243808,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,7320949185,node,13.0757587,80.2131901,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,8003301385,node,12.7641043,80.0048865,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,8669165842,node,12.9586134,80.1872722,Shelter Home for Urban Homeless,social_facility,,,,,,,,medium
+emergency_shelters,11521276770,node,12.9135314,80.1918796,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,11695898569,node,12.9152689,80.1918825,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,11699821870,node,12.9223656,80.1480506,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,12103741413,node,12.9581488,80.1422422,Magizh Mahal Thirumana Mandapam,community_centre,,,,,,,,medium
+emergency_shelters,12458295540,node,13.0825153,80.2197811,Amma Arangam,community_centre,,,,,,,,medium
+emergency_shelters,12458738606,node,13.191354,80.3137518,Ashok Leyland Community Hall Kasi Koil Kuppam,community_centre,,,,,,,,medium
+emergency_shelters,12458756395,node,13.1885268,80.3147845,Community Stage,community_centre,,Private,,,,,,medium
+emergency_shelters,12458756396,node,13.1901112,80.3131683,Housing Board,social_facility,,Government,,,,,,medium
+emergency_shelters,12458759001,node,13.1938086,80.3139191,Asbestos Sheet Houses,social_facility,,,,,,,,medium
+emergency_shelters,12458790374,node,13.1784816,80.308474,"பெண்கள் தங்கும் விடுதி, ரெக்கோபாத் ‌கல்வ அறக்கட்டளை ி",social_facility,,,,,,,,medium
+emergency_shelters,12458790380,node,13.1769504,80.3131363,கே. பரசுராமன் Ex. Member Of Council கலையரங்கம்,community_centre,,,,,,,,medium
+emergency_shelters,12513296201,node,12.9147924,80.1922426,Medavakkam Cooperative Society,community_centre,,,,,,,,medium
+emergency_shelters,23885061,way,13.0820074,80.2726366,Victoria Public Hall,community_centre,,,,,,,,medium
+emergency_shelters,234104731,way,13.0158209,80.1750672,Manapakkam Community Hall,community_centre,,,,,,,,medium
+emergency_shelters,354262443,way,13.1029067,80.1568317,Sam Mahal,community_centre,,,,,,,,medium
+emergency_shelters,354736399,way,13.0464393,80.2461876,Kanthimathi Kalyana Mandapam,community_centre,,,,,,,,medium
+emergency_shelters,354748230,way,12.9622774,80.1935672,Karthikeyapuram Co-Operative Community Hall,community_centre,,,,,,,,medium
+emergency_shelters,354751871,way,13.1053631,80.2089318,K.S.R. Hall,community_centre,,,,,,,,medium
+emergency_shelters,354767727,way,12.9849882,80.2239728,Rajalakshmi Kalyana Mandapam,community_centre,,,,,,,,medium
+emergency_shelters,354775532,way,12.9602576,80.2632931,Meenavar Palnokku Maiya Kattidam,community_centre,,,,,,,,medium
+emergency_shelters,355014887,way,12.9254403,80.1068656,Kone Krishna Reddiyar Marriage Hall,community_centre,,,,,,,,medium
+emergency_shelters,355074680,way,12.8518545,80.0669532,Unnamed,community_centre,,,,,,,,medium
+emergency_shelters,355085375,way,12.9781931,80.1844918,Hindu Colony Community Center,community_centre,,,,,,,,medium
+emergency_shelters,355610397,way,12.9248158,80.1137835,Sun Shine Party Hall,community_centre,,,,,,,,medium
+emergency_shelters,355717461,way,12.9698025,80.1457034,Inayath Mahal,community_centre,,,,,,,,medium
+emergency_shelters,369718053,way,13.0293941,80.1118593,Kalyani Kalyana Mandapam,community_centre,,,,,,,,medium
+emergency_shelters,370546681,way,12.9733181,80.1384201,Sulochana Kalyana Mandapam,community_centre,,,,,,,,medium
+emergency_shelters,778758340,way,13.0556606,80.2448994,Uswatham Human Community Hall,community_centre,,,,,,,,medium
+emergency_shelters,922534630,way,12.9698139,80.1869896,Unnamed,social_facility,,Government of Tamil Nadu,,,,,,medium
+emergency_shelters,1021331581,way,13.0499246,80.2804026,Vivekananda Cultural Centre,community_centre,,,,,,,,medium
+emergency_shelters,1126031841,way,13.0170217,80.2278268,St. Thomas Community Hall,community_centre,,,,,,,,medium
+emergency_shelters,1130609524,way,13.0828251,80.2783209,Memorial Hall,community_centre,,,,,,,,medium
+emergency_shelters,1188619727,way,13.088091,80.2842174,Shelter for Homeless Men,social_facility,,Corporation of Chennai,,,,,,medium
+emergency_shelters,1267840671,way,13.2853469,80.2455975,Nalur Community Hall,community_centre,,,,,,,,medium
+emergency_shelters,1360872917,way,12.8034202,80.0280997,Community Hall,community_centre,,,,,,,,medium
+emergency_shelters,1391062203,way,12.9835255,79.9193236,Sunshine Old Age Home,social_facility,,,,,,,https://www.sunshineoldagehome.com/,medium
+emergency_shelters,1391073981,way,12.9352289,79.875458,St. Joseph's Community Hall Sunguvarchatram,community_centre,,,,,,,,medium
+emergency_shelters,1424951155,way,13.0024783,80.2716945,SPACES,community_centre,,,,,,,,medium

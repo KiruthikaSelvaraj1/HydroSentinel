@@ -1,0 +1,29 @@
+{
+  "name": "flood-management-dashboard",
+  "version": "2.0.0",
+  "description": "HydroSentinel Flood Management Dashboard - Enhanced with Live Data",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "backend": "cd backend && python enhanced_api.py",
+    "start": "concurrently \"npm run dev\" \"npm run backend\""
+  },
+  "dependencies": {
+    "@types/leaflet": "^1.9.21",
+    "firebase": "^12.4.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.545.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-leaflet": "^5.0.0",
+    "recharts": "^3.2.1",
+    "socket.io-client": "^4.8.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "concurrently": "^8.2.2",
+    "vite": "^5.4.8"
+  }
+}

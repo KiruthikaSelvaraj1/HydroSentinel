@@ -1,0 +1,25 @@
+{
+  "generated": "2025-11-06T09:14:41.850040",
+  "total_points": 10596,
+  "coverage": {
+    "lat_min": 12.75,
+    "lat_max": 13.345000000000093,
+    "lon_min": 79.75,
+    "lon_max": 80.44999999999936,
+    "lat_percent": 99.16666666668218,
+    "lon_percent": 99.99999999990906
+  },
+  "elevation": {
+    "min": -2.0,
+    "max": 214.0,
+    "mean": 45.40992827482069,
+    "median": 28.0
+  },
+  "flood_risk_distribution": {
+    "minimal": 4067,
+    "critical": 2005,
+    "low": 1916,
+    "high": 1603,
+    "medium": 1005
+  }
+}

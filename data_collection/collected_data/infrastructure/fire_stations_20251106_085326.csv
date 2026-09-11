@@ -1,0 +1,18 @@
+category,osm_id,osm_type,lat,lon,name,amenity,healthcare,operator,capacity,beds,emergency,phone,website,priority
+fire_stations,264480826,node,13.0637765,80.2356816,Unnamed,fire_station,,,,,,,,medium
+fire_stations,302899362,node,13.0474469,80.249119,Teynampet FS,fire_station,,,,,,,,medium
+fire_stations,2427727851,node,13.0351313,80.2306922,Unnamed,fire_station,,,,,,,,medium
+fire_stations,3029313653,node,12.9436361,80.1335964,Tamil Nadu Fire and Rescue Services,fire_station,,,,,,"+91-44-22380206, 22382204",,medium
+fire_stations,5304198425,node,12.8310173,80.2224311,Unnamed,fire_station,,,,,,,,medium
+fire_stations,5354315736,node,12.9768528,80.2276341,Fire service station;Fire Force Service center,fire_station,,Government,,,,,,medium
+fire_stations,12181440340,node,13.1378247,79.907707,Thiruvallur fire station,fire_station,,,,,,,,medium
+fire_stations,211274291,way,13.0429393,80.2777191,Unnamed,fire_station,,,,,,,,medium
+fire_stations,217731034,way,13.0352121,80.2306257,Fire and Rescue station,fire_station,,,,,,,,medium
+fire_stations,620705901,way,12.9925029,80.1660222,Chennai International Airport Fire Station 2,fire_station,,,,,,,,medium
+fire_stations,1074457140,way,13.2512323,80.3272453,NCTPS Fire Station,fire_station,,,,,,,,medium
+fire_stations,1075921840,way,13.1133322,80.2963723,Unnamed,fire_station,,,,,,,,medium
+fire_stations,1096512891,way,12.9884768,80.1716794,Unnamed,fire_station,,,,,,,,medium
+fire_stations,1105414357,way,13.1055078,80.2782141,Moolakothalam Fire Station,fire_station,,,,,,,,medium
+fire_stations,1107911283,way,13.0686327,80.2613334,Unnamed,fire_station,,,,,,,,medium
+fire_stations,1122111815,way,13.0864782,80.2860635,Esplanade Fire Station,fire_station,,,,,,,,medium
+fire_stations,1172399106,way,13.1024404,80.2744007,Washermanpet Fire & Rescue Station,fire_station,,,,,,,,medium

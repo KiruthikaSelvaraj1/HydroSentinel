@@ -1,0 +1,62 @@
+{
+  "timeline": [
+    {
+      "year": 2015,
+      "casualties": 500,
+      "affected": 1800000,
+      "event": "Chennai Floods 2015"
+    },
+    {
+      "year": 2021,
+      "casualties": 35,
+      "affected": 450000,
+      "event": "Northeast Monsoon 2021"
+    },
+    {
+      "year": 2023,
+      "casualties": 17,
+      "affected": 850000,
+      "event": "Cyclone Michaung"
+    },
+    {
+      "year": 2017,
+      "casualties": 12,
+      "affected": 200000,
+      "event": "November Floods 2017"
+    },
+    {
+      "year": 2020,
+      "casualties": 28,
+      "affected": 600000,
+      "event": "Cyclone Nivar"
+    },
+    {
+      "year": 2005,
+      "casualties": 75,
+      "affected": 500000,
+      "event": "Floods 2005"
+    }
+  ],
+  "severity_counts": {
+    "critical": 1,
+    "high": 4,
+    "medium": 1
+  },
+  "top_areas": {
+    "Velachery": 2,
+    "Saidapet": 2,
+    "T Nagar": 2,
+    "Anna Nagar": 2,
+    "Sholinganallur": 2,
+    "Adyar": 1,
+    "Tambaram": 1,
+    "Pallavaram": 1,
+    "Kotturpuram": 1,
+    "Nandanam": 1,
+    "Madipakkam": 1,
+    "Madhavaram": 1,
+    "Manali": 1,
+    "Perambur": 1,
+    "Puzhuthivakkam": 1
+  }
+}

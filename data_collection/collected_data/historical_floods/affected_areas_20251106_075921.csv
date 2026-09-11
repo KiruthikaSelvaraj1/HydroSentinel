@@ -1,0 +1,39 @@
+id,event_name,date,affected_areas,severity
+1,Chennai Floods 2015,2015-12-01,Adyar,critical
+1,Chennai Floods 2015,2015-12-01,Velachery,critical
+1,Chennai Floods 2015,2015-12-01,Tambaram,critical
+1,Chennai Floods 2015,2015-12-01,Pallavaram,critical
+1,Chennai Floods 2015,2015-12-01,Kotturpuram,critical
+1,Chennai Floods 2015,2015-12-01,Nandanam,critical
+1,Chennai Floods 2015,2015-12-01,Saidapet,critical
+1,Chennai Floods 2015,2015-12-01,T Nagar,critical
+1,Chennai Floods 2015,2015-12-01,Anna Nagar,critical
+1,Chennai Floods 2015,2015-12-01,Madipakkam,critical
+2,Northeast Monsoon 2021,2021-11-11,Madhavaram,high
+2,Northeast Monsoon 2021,2021-11-11,Manali,high
+2,Northeast Monsoon 2021,2021-11-11,Perambur,high
+2,Northeast Monsoon 2021,2021-11-11,Anna Nagar,high
+2,Northeast Monsoon 2021,2021-11-11,Puzhuthivakkam,high
+2,Northeast Monsoon 2021,2021-11-11,Mudichur,high
+2,Northeast Monsoon 2021,2021-11-11,Palavakkam,high
+3,Cyclone Michaung,2023-12-04,Velachery,high
+3,Cyclone Michaung,2023-12-04,Pallikaranai,high
+3,Cyclone Michaung,2023-12-04,Chromepet,high
+3,Cyclone Michaung,2023-12-04,Porur,high
+3,Cyclone Michaung,2023-12-04,ECR coastal areas,high
+3,Cyclone Michaung,2023-12-04,OMR IT corridor,high
+3,Cyclone Michaung,2023-12-04,Sholinganallur,high
+4,November Floods 2017,2017-11-09,T Nagar,medium
+4,November Floods 2017,2017-11-09,Nungambakkam,medium
+4,November Floods 2017,2017-11-09,Saidapet,medium
+4,November Floods 2017,2017-11-09,Kodambakkam,medium
+5,Cyclone Nivar,2020-11-27,Sholinganallur,high
+5,Cyclone Nivar,2020-11-27,OMR,high
+5,Cyclone Nivar,2020-11-27,ECR Coastal Areas,high
+5,Cyclone Nivar,2020-11-27,Neelankarai,high
+5,Cyclone Nivar,2020-11-27,Injambakkam,high
+5,Cyclone Nivar,2020-11-27,Thiruvanmiyur,high
+6,Floods 2005,2005-11-14,North Chennai,high
+6,Floods 2005,2005-11-14,Ambattur,high
+6,Floods 2005,2005-11-14,Avadi,high
+6,Floods 2005,2005-11-14,Poonamallee,high

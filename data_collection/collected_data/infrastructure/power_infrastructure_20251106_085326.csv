@@ -1,0 +1,168 @@
+category,osm_id,osm_type,lat,lon,name,amenity,healthcare,operator,capacity,beds,emergency,phone,website,priority
+power_infrastructure,335527138,node,13.0002782,80.2556245,Unnamed,,,,,,,,,medium
+power_infrastructure,335527174,node,13.0064206,80.2485804,Unnamed,,,,,,,,,medium
+power_infrastructure,1597174757,node,13.0594778,80.2009363,Unnamed,,,,,,,,,medium
+power_infrastructure,9062742770,node,13.2980013,80.1504584,Panjetty substation,,,,,,,,,medium
+power_infrastructure,25850550,way,13.2823822,80.310264,Ennore SEZ Super Critical Thermal Power Project (Vayalur),,,,,,,,,medium
+power_infrastructure,28342737,way,13.0981662,80.2697294,Basin Bridge Gas Turbine Power Station,,,Tamil Nadu State Electricity Board,,,,,,medium
+power_infrastructure,30738573,way,13.1995006,80.3094811,Ennore Thermal Power Station,,,Tamil Nadu Generation and Distribution Corporation,,,,,,medium
+power_infrastructure,30787653,way,12.9466836,80.1309352,Kadaperi,,,TANTRANSCO,,,,,,medium
+power_infrastructure,30789370,way,13.0026812,79.9970719,Unnamed,,,,,,,,,medium
+power_infrastructure,30814111,way,12.9828999,79.976806,Pennalur TNEB Substation,,,TANTRANSCO,,,,,,medium
+power_infrastructure,31957160,way,13.0685667,80.20859,Unnamed,,,TNEB,,,,,,medium
+power_infrastructure,34654567,way,13.2066712,80.0989958,Alamathi,,,,,,,,,medium
+power_infrastructure,35283414,way,13.1086565,80.2689496,Vyasarpadi,,,TANTRANSCO,,,,,,medium
+power_infrastructure,38424061,way,12.9808819,79.975063,Sriperumbudur,,,Power Grid Corporation of India Limited,,,,,,medium
+power_infrastructure,102546589,way,13.2489467,80.3277584,North Chennai Thermal Station,,,Tamil Nadu Generation and Distribution Corporation,,,,,,medium
+power_infrastructure,102565511,way,13.1750535,80.2730827,Manali,,,TANTRANSCO,,,,,,medium
+power_infrastructure,131425319,way,12.975704,80.2422485,Taramani,,,TANTRANSCO,,,,,,medium
+power_infrastructure,133591372,way,13.2369124,80.3067214,Vallur Thermal Power Station,,,,,,,,,medium
+power_infrastructure,155204896,way,12.9849411,80.2507804,Unnamed,,,,,,,,,medium
+power_infrastructure,179249267,way,12.9418717,80.1871146,Kovilam Palkam,,,,,,,,,medium
+power_infrastructure,245547198,way,13.2978581,80.1497319,Panjetty substation,,,TANTRANSCO,,,,,,medium
+power_infrastructure,245547226,way,13.2400615,80.3022605,VallurTPS,,,NTECL,,,,,,medium
+power_infrastructure,245547231,way,13.3261974,80.1452711,Unnamed,,,,,,,,,medium
+power_infrastructure,245697641,way,13.2604343,80.2733334,Melur,,,TANTRANSCO,,,,,,medium
+power_infrastructure,245697642,way,13.2536846,80.1721689,Sothuperumbedu,,,TANTRANSCO,,,,,,medium
+power_infrastructure,245697668,way,13.1797167,80.2791021,Unnamed,,,,,,,,,medium
+power_infrastructure,245697669,way,13.175536,80.274977,Unnamed,,,,,,,,,medium
+power_infrastructure,245697670,way,13.1587691,80.2662045,Unnamed,,,,,,,,,medium
+power_infrastructure,245697671,way,13.1706802,80.2762689,Unnamed,,,,,,,,,medium
+power_infrastructure,245697672,way,13.3179851,80.3373269,Unnamed,,,,,,,,,medium
+power_infrastructure,245697674,way,13.1788167,80.2809331,Unnamed,,,,,,,,,medium
+power_infrastructure,245697676,way,13.1729006,80.2674139,Unnamed,,,,,,,,,medium
+power_infrastructure,245697677,way,13.1777221,80.26313,Unnamed,,,,,,,,,medium
+power_infrastructure,245697678,way,13.1741315,80.2787188,Unnamed,,,,,,,,,medium
+power_infrastructure,245697679,way,13.1886061,80.2651711,Unnamed,,,,,,,,,medium
+power_infrastructure,245697680,way,13.2739912,80.3167902,Unnamed,,,,,,,,,medium
+power_infrastructure,245697697,way,13.2678202,80.31169,Athipattu,,,TANTRANSCO,,,,,,medium
+power_infrastructure,245697699,way,13.2918376,80.3220836,Unnamed,,,,,,,,,medium
+power_infrastructure,245697700,way,13.1731174,80.272727,Unnamed,,,,,,,,,medium
+power_infrastructure,245697701,way,13.1281058,80.2764289,Unnamed,,,,,,,,,medium
+power_infrastructure,245726104,way,12.8637072,79.9413303,Oragadam,,,TANTRANSCO,,,,,,medium
+power_infrastructure,245726128,way,12.8545681,79.8928411,Unnamed,,,,,,,,,medium
+power_infrastructure,245726129,way,12.8952528,80.0391692,Unnamed,,,,,,,,,medium
+power_infrastructure,245726130,way,12.9137412,79.8801894,Unnamed,,,,,,,,,medium
+power_infrastructure,245726131,way,12.9408791,79.9990564,Unnamed,,,,,,,,,medium
+power_infrastructure,245726133,way,12.8443676,79.9431176,Unnamed,,,,,,,,,medium
+power_infrastructure,245726134,way,12.854654,79.9473888,Unnamed,,,,,,,,,medium
+power_infrastructure,245726135,way,12.9221164,79.9067674,Unnamed,,,,,,,,,medium
+power_infrastructure,245726156,way,12.9034498,79.877457,Sungavarchatram,,,TANTRANSCO,,,,,,medium
+power_infrastructure,245726159,way,12.9381565,79.9148206,Unnamed,,,,,,,,,medium
+power_infrastructure,247337873,way,13.1103676,79.9087796,Tiruvallur,,,TANTRANSCO,,,,,,medium
+power_infrastructure,247337906,way,13.0998815,80.1812561,Korattur Sub Station,,,,,,,,,medium
+power_infrastructure,247337918,way,13.1335725,80.0932481,Unnamed,,,,,,,,,medium
+power_infrastructure,247337923,way,13.177223,80.1362055,Unnamed,,,,,,,,,medium
+power_infrastructure,247337930,way,12.9380645,80.1218398,Unnamed,,,,,,,,,medium
+power_infrastructure,247337948,way,13.1112558,80.1904493,Unnamed,,,,,,,,,medium
+power_infrastructure,247337951,way,13.0384711,79.8085117,Perambakkam,,,TANTRANSCO,,,,,,medium
+power_infrastructure,247545779,way,12.8254771,80.0513307,Unnamed,,,,,,,,,medium
+power_infrastructure,247545781,way,12.8205354,80.2105927,Siruseri,,,TANTRANSCO,,,,,,medium
+power_infrastructure,247545783,way,12.9024193,80.1634417,Unnamed,,,,,,,,,medium
+power_infrastructure,247545803,way,12.9047563,80.2142105,KITZ Park,,,TANTRANSCO,,,,,,medium
+power_infrastructure,247545805,way,12.8621671,80.1009773,Unamancheri,,,TANTRANSCO,,,,,,medium
+power_infrastructure,247545812,way,12.8264476,80.1627313,Unnamed,,,,,,,,,medium
+power_infrastructure,247545813,way,12.8264131,80.2166678,Unnamed,,,,,,,,,medium
+power_infrastructure,247545815,way,12.8968789,80.2085418,Unnamed,,,,,,,,,medium
+power_infrastructure,247545816,way,12.8921938,80.2263227,Unnamed,,,,,,,,,medium
+power_infrastructure,247545819,way,12.8222516,80.2104447,Unnamed,,,,,,,,,medium
+power_infrastructure,247545824,way,12.7836369,80.0170373,Unnamed,,,,,,,,,medium
+power_infrastructure,247545829,way,12.7869383,80.0159927,Unnamed,,,,,,,,,medium
+power_infrastructure,247571173,way,12.7893445,80.0758441,Kalivanthapattu,,,Power Grid Corporation of India Limited,,,,,,medium
+power_infrastructure,342204878,way,13.0402473,80.0669137,Unnamed,,,,,,,,,medium
+power_infrastructure,342204883,way,13.1040562,80.1291939,Unnamed,,,,,,,,,medium
+power_infrastructure,342204885,way,13.1269689,80.1193411,Unnamed,,,,,,,,,medium
+power_infrastructure,342204889,way,13.1562826,80.1992725,Unnamed,,,,,,,,,medium
+power_infrastructure,348294608,way,13.0342016,80.225698,TANGEDCO,,,,,,,,,medium
+power_infrastructure,355019636,way,12.9792659,80.1844145,Unnamed,,,,,,,,,medium
+power_infrastructure,409304427,way,13.2034545,80.3116852,Unnamed,,,,,,,,,medium
+power_infrastructure,409304579,way,13.0688838,80.1148825,Unnamed,,,,,,,,,medium
+power_infrastructure,409304631,way,13.0311134,80.1535487,Unnamed,,,,,,,,,medium
+power_infrastructure,441455217,way,13.1120049,80.130931,Unnamed,,,,,,,,,medium
+power_infrastructure,492327202,way,13.2895235,80.0469875,Periyapalayam,,,TANTRANSCO,,,,,,medium
+power_infrastructure,554919772,way,13.2744535,80.3196334,Unnamed,,,,,,,,,medium
+power_infrastructure,618807558,way,13.0869947,80.1974231,Thirumangalam Electricity Sub Station,,,,,,,,,medium
+power_infrastructure,660323546,way,12.9185442,79.8919843,Unnamed,,,,,,,,,medium
+power_infrastructure,660334019,way,12.9117211,79.8815397,Unnamed,,,,,,,,,medium
+power_infrastructure,661546321,way,12.8446444,79.9327154,Unnamed,,,,,,,,,medium
+power_infrastructure,661546340,way,12.7779769,79.868861,Unnamed,,,,,,,,,medium
+power_infrastructure,661546343,way,12.7762373,79.8627504,Unnamed,,,,,,,,,medium
+power_infrastructure,707951548,way,12.9887258,80.0133499,Unnamed,,,,,,,,,medium
+power_infrastructure,707951554,way,12.9561408,79.9830771,Pillaipakkam,,,TANTRANSCO,,,,,,medium
+power_infrastructure,749986012,way,12.9369395,79.92214,Unnamed,,,,,,,,,medium
+power_infrastructure,749986032,way,12.9001164,79.9025107,Unnamed,,,,,,,,,medium
+power_infrastructure,749986033,way,12.9000273,79.8994634,Unnamed,,,,,,,,,medium
+power_infrastructure,775147264,way,12.8734764,79.9694234,Unnamed,,,,,,,,,medium
+power_infrastructure,775147268,way,12.8704656,79.9580854,Unnamed,,,,,,,,,medium
+power_infrastructure,775147269,way,12.8701983,79.9587416,Unnamed,,,,,,,,,medium
+power_infrastructure,775147270,way,12.8690582,79.9587898,Unnamed,,,,,,,,,medium
+power_infrastructure,775147271,way,12.8702272,79.9604748,Unnamed,,,,,,,,,medium
+power_infrastructure,775147272,way,12.8714451,79.9596278,Unnamed,,,,,,,,,medium
+power_infrastructure,775147273,way,12.8708286,79.9567701,Unnamed,,,,,,,,,medium
+power_infrastructure,775147274,way,12.8701043,79.9525603,Unnamed,,,,,,,,,medium
+power_infrastructure,775147275,way,12.8686061,79.9524645,Unnamed,,,,,,,,,medium
+power_infrastructure,775147276,way,12.8690622,79.9532761,Unnamed,,,,,,,,,medium
+power_infrastructure,775147277,way,12.8702701,79.9545234,Unnamed,,,,,,,,,medium
+power_infrastructure,775147278,way,12.865724,79.9525543,Unnamed,,,,,,,,,medium
+power_infrastructure,840971225,way,12.7819701,80.0280091,Unnamed,,,,,,,,,medium
+power_infrastructure,840971234,way,12.7868738,80.022256,Unnamed,,,,,,,,,medium
+power_infrastructure,840971238,way,12.7680898,80.0229499,Unnamed,,,,,,,,,medium
+power_infrastructure,863280025,way,12.979878,80.22067,Unnamed,,,TANGEDCO,,,,,,medium
+power_infrastructure,892117511,way,13.0800003,80.2712756,Unnamed,,,,,,,,,medium
+power_infrastructure,910151268,way,13.2099593,80.2948032,NCPS,,,TANTRANSCO,,,,,,medium
+power_infrastructure,958874759,way,13.1321039,80.0979552,Unnamed,,,,,,,,,medium
+power_infrastructure,959123779,way,12.8801473,80.2055293,Unnamed,,,,,,,,,medium
+power_infrastructure,959123795,way,12.8731362,79.8236983,Unnamed,,,,,,,,,medium
+power_infrastructure,986209814,way,13.1377126,80.1071602,Unnamed,,,,,,,,,medium
+power_infrastructure,986209815,way,13.1333917,80.0967318,Unnamed,,,,,,,,,medium
+power_infrastructure,1002708449,way,12.8459042,79.9553418,Unnamed,,,,,,,,,medium
+power_infrastructure,1021334136,way,13.0716838,80.1942838,Koyambedu Substation,,,,,,,,,medium
+power_infrastructure,1045532471,way,12.9291287,80.1016218,Unnamed,,,,,,,,,medium
+power_infrastructure,1053243959,way,12.8356007,79.9512337,Unnamed,,,,,,,,,medium
+power_infrastructure,1060236016,way,13.239936,80.3084114,Unnamed,,,,,,,,,medium
+power_infrastructure,1065760049,way,13.258515,80.3044153,Unnamed,,,,,,,,,medium
+power_infrastructure,1066036368,way,12.8528164,80.1935294,Ottiyambakkam Substation,,,TANTRANSCO,,,,,,medium
+power_infrastructure,1074489047,way,13.2459923,80.3212246,North Chennai TPS Stage III,,,TANGEDCO,,,,,,medium
+power_infrastructure,1091138293,way,12.8363231,80.2309655,Hiranandani Substation,,,,,,,,,medium
+power_infrastructure,1095915227,way,13.0315334,80.2440545,Chennai Metro Rail Headquarters Substation,,,,,,,,,medium
+power_infrastructure,1103973200,way,13.0939871,80.2915157,Unnamed,,,,,,,,,medium
+power_infrastructure,1105965966,way,13.0089174,80.2239608,Unnamed,,,,,,,,,medium
+power_infrastructure,1116254830,way,13.0997092,80.2670762,Pulianthope Substation,,,Tamil Nadu Transmission Corporation,,,,,,medium
+power_infrastructure,1122111818,way,13.0856855,80.2859491,High Court Substation,,,,,,,,,medium
+power_infrastructure,1128434723,way,13.0184133,80.2390123,Madras School of Economics Substation,,,,,,,,,medium
+power_infrastructure,1131700802,way,13.0701615,80.2788415,Island Grounds Solar Farm,,,,,,,,,medium
+power_infrastructure,1134607892,way,13.1675279,80.2824164,CPCL Manali Refinery Captive Power Station,,,,,,,,,medium
+power_infrastructure,1136394921,way,13.0118422,80.2119147,Guindy Substation,,,,,,,,,medium
+power_infrastructure,1176898230,way,13.0963305,80.2791881,Unnamed,,,,,,,,,medium
+power_infrastructure,1188946019,way,13.0753007,80.2734169,Chintadripet Traction,,,SR,,,,,,medium
+power_infrastructure,1199316502,way,13.1178249,80.1203334,Avadi Traction,,,SR,,,,,,medium
+power_infrastructure,1199316547,way,13.205795,80.3167427,Ennore Traction,,,SR,,,,,,medium
+power_infrastructure,1199694670,way,12.9568195,79.9669083,Unnamed,,,,,,,,,medium
+power_infrastructure,1202754436,way,12.9625348,79.8197259,CEAT Tyres,,,,,,,,,medium
+power_infrastructure,1203093950,way,13.092366,79.8568655,Kadambattur,,,TANTRANSCO,,,,,,medium
+power_infrastructure,1203094343,way,13.1182134,80.0279307,Thiruninravur,,,TANTRANSCO,,,,,,medium
+power_infrastructure,1239294302,way,13.1019074,80.2840561,Unnamed,,,,,,,,,medium
+power_infrastructure,1264712769,way,12.9188771,79.8764424,Unnamed,,,,,,,,,medium
+power_infrastructure,1270596257,way,12.8872422,79.797412,Neervalur Substation,,,,,,,,,medium
+power_infrastructure,1307945724,way,13.1317049,80.1688482,Unnamed,,,,,,,,,medium
+power_infrastructure,1320691208,way,13.1013183,80.2691899,TNEB HQ,,,TNEB,,,,,,medium
+power_infrastructure,1320696033,way,13.0879682,80.232706,Kilpauk Sub Station,,,,,,,,,medium
+power_infrastructure,1322442723,way,12.9827265,80.2549163,Thiruvamiyur,,,TANTRANSCO,,,,,,medium
+power_infrastructure,1327505682,way,13.039335,80.2396165,MAMBALAM,,,TANTRANSCO,,,,,,medium
+power_infrastructure,1331641044,way,13.0397209,80.1463749,Unnamed,,,,,,,,,medium
+power_infrastructure,1354435847,way,12.9508038,80.209121,Unnamed,,,,,,,,,medium
+power_infrastructure,1391096993,way,12.8787952,79.9102576,Unnamed,,,,,,,,,medium
+power_infrastructure,1426122468,way,12.9023554,79.9066658,Unnamed,,,,,,,,,medium
+power_infrastructure,1426163519,way,12.9203301,79.9068316,Araneri Substation,,,,,,,,,medium
+power_infrastructure,1427092746,way,12.9498839,79.9296543,Nokia West Substation,,,,,,,,,medium
+power_infrastructure,1427092748,way,12.9438949,79.9357481,Nokia East Substation,,,,,,,,,medium
+power_infrastructure,1427646909,way,12.851835,79.9233489,Unnamed,,,,,,,,,medium
+power_infrastructure,1431966127,way,12.9960209,80.0199482,Unnamed,,,,,,,,,medium
+power_infrastructure,1431966128,way,12.9404783,80.003645,Unnamed,,,,,,,,,medium
+power_infrastructure,1431966129,way,12.9384007,80.0020444,Unnamed,,,,,,,,,medium
+power_infrastructure,1432137531,way,13.2629198,80.1280506,Unnamed,,,,,,,,,medium
+power_infrastructure,1432137532,way,13.3447368,80.1665469,Unnamed,,,,,,,,,medium
+power_infrastructure,1432137535,way,13.3279056,80.1977572,Unnamed,,,,,,,,,medium
+power_infrastructure,1432137536,way,13.3382285,80.2852166,Unnamed,,,,,,,,,medium
+power_infrastructure,1432137537,way,13.3345571,80.1141661,Unnamed,,,,,,,,,medium
+power_infrastructure,1441829143,way,13.1275596,80.2055961,GANESH NAGAR,,,TAN TRANSCO,,,,,,medium

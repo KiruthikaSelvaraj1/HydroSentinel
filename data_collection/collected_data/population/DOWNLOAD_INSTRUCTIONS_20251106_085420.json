@@ -1,0 +1,15 @@
+{
+  "dataset": "WorldPop Unconstrained Global 2020",
+  "url": "https://hub.worldpop.org/geodata/summary?id=49793",
+  "alternative_url": "ftp://ftp.worldpop.org.uk/GIS/Population/Global_2000_2020_1km/",
+  "file_name": "ind_ppp_2020_1km_Aggregated.tif",
+  "resolution": "1km (for quick analysis) or 100m (for detailed)",
+  "coverage": "All of India (includes Chennai)",
+  "steps": [
+    "1. Visit: https://hub.worldpop.org/geodata/listing?id=29",
+    "2. Select: India > 2020 > Constrained",
+    "3. Download: ind_ppp_2020_constrained.tif (~500MB)",
+    "4. Place in: collected_data/population/",
+    "5. Run this script again to process it"
+  ]
+}

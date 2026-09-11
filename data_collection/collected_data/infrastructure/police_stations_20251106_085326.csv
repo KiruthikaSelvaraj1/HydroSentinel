@@ -1,0 +1,121 @@
+category,osm_id,osm_type,lat,lon,name,amenity,healthcare,operator,capacity,beds,emergency,phone,website,priority
+police_stations,250363729,node,13.0349573,80.22946,Mambalam Police Station,police,,,,,,,,medium
+police_stations,259773441,node,13.0520106,80.2637348,Royapettah PS,police,,,,,,,,medium
+police_stations,264481213,node,13.0596173,80.2427681,Unnamed,police,,,,,,,,medium
+police_stations,300468066,node,12.9893957,80.2019683,S-8 Adambakkam Police Station,police,,,,,,,,medium
+police_stations,301949978,node,13.048651,80.2494881,Teynampet E3 PS,police,,,,,,,,medium
+police_stations,312025133,node,12.997814,80.2557176,Adyar J2,police,,,,,,,,medium
+police_stations,313951548,node,12.9814685,80.192063,Unnamed,police,,,,,,,,medium
+police_stations,320968223,node,13.0818276,80.2755071,Central Station PS,police,,,,,,,,medium
+police_stations,320968578,node,13.0830613,80.2732996,Chennai Central RPF,police,,,,,,,,medium
+police_stations,339282419,node,12.9991212,80.200262,B1 Saint Thomas Mount PS,police,,,,,,,,medium
+police_stations,366075241,node,13.0696407,80.2004587,Koyambedu Police Station,police,,,,,,,,medium
+police_stations,370481197,node,13.0100865,80.1990931,"Office, Police Commissioner",police,,,,,,,,medium
+police_stations,370969674,node,13.0341993,80.1602489,T15 SRMC PS,police,,,,,,,,medium
+police_stations,389948945,node,13.0415108,80.2054415,KK Nagar PS,police,,,,,,,,medium
+police_stations,390852677,node,13.1345408,80.2974596,N4 PS,police,,,,,,,,medium
+police_stations,411318042,node,13.0491123,80.1992562,Virugambakkam Police Station,police,,,,,,,,medium
+police_stations,416412274,node,13.03694,80.2674177,Unnamed,police,,,,,,,,medium
+police_stations,687175330,node,13.0737484,80.1923421,Police Booth,police,,,,,,,,medium
+police_stations,687177364,node,13.0656907,80.1935705,Police Booth,police,,,,,,,,medium
+police_stations,747616884,node,12.9850126,80.2208713,Velachery,police,,,,,,,,medium
+police_stations,934859086,node,13.0447322,80.1862162,Police Booth,police,,,,,,,,medium
+police_stations,951833229,node,13.2718063,80.2625092,E6,police,,,,,,,,medium
+police_stations,966556101,node,13.0749088,80.2725042,Chintadripet,police,,,,,,,,medium
+police_stations,983961147,node,12.9692797,80.1257959,S6 Shankar Nagar Police Station,police,,,,,,,,medium
+police_stations,984217571,node,13.049673,80.2117315,Vadapalani Police station,police,,,,,,,,medium
+police_stations,1015569835,node,13.0317737,80.1790069,Ramapuram Police Station,police,,,,,,,,medium
+police_stations,1315141190,node,12.9651635,80.2060352,Police booth,police,,,,,,,,medium
+police_stations,1391252125,node,13.1244932,80.2771688,Unnamed,police,,,,,,,,medium
+police_stations,1451946829,node,13.0343074,80.1601292,Porur Police Station,police,,,,,,,,medium
+police_stations,1597178645,node,13.0576855,80.2041548,Unnamed,police,,,,,,,,medium
+police_stations,1711627907,node,13.0006116,80.2659307,Shastri Nagar Police Station,police,,,,,,,,medium
+police_stations,1865961947,node,13.2156173,80.1694388,Police Outpost,police,,,,,,,,medium
+police_stations,1896342668,node,13.1291456,80.1073794,HVF,police,,,,,,,,medium
+police_stations,1948632616,node,13.0687012,80.2046669,Unnamed,police,,,,,,,,medium
+police_stations,2061123092,node,12.947613,80.2416251,J9 Police Station,police,,,,,,,,medium
+police_stations,2086712180,node,12.9559858,80.1853072,Madipalkam police stations,police,,,,,,,,medium
+police_stations,2139742510,node,13.0229741,80.1999165,Unnamed,police,,,,,,,,medium
+police_stations,2210021510,node,12.8975662,80.1823209,Police Booth,police,,,,,,,,medium
+police_stations,2221603034,node,13.0207162,80.1663239,Police Assistance Booth Mugalivakam,police,,,,,,,,medium
+police_stations,2587520257,node,12.9874599,80.2559315,J6 Police Station,police,,,,,,,,medium
+police_stations,3026674742,node,12.9372924,80.1379265,Chitlapakam Police Station,police,,,,,,,,medium
+police_stations,3097014588,node,12.9173825,80.1950805,S-10 Police Station (Pallikaranai),police,,,,,,,,medium
+police_stations,3195423909,node,13.0706907,80.2421194,Chetpet,police,,,,,,,,medium
+police_stations,4308319495,node,13.0283677,80.2163105,R6 KUMARAN NAGAR POLICE STATION ,police,,,,,,044 2345 2629,tnpolice.gov.in,medium
+police_stations,4445183306,node,12.7937471,79.8162163,Walajabad police station,police,,,,,,+(91)4427256044,,medium
+police_stations,4445204054,node,12.9163861,80.0398418,c3 police station Manimangalam,police,,,,,,+(91)4427178131,,medium
+police_stations,4445363957,node,12.8439226,80.0615864,Guduvancherry Police Station,police,,,,,,+91 (044 )– 27465331,,medium
+police_stations,4445488162,node,13.0874523,80.2458786,Otteri Police Station,police,,,,,,044 – 22750987,,medium
+police_stations,4445825097,node,12.7676644,79.9034914,Palur Police station,police,,,,,,044-27437100,,medium
+police_stations,4446984572,node,12.9254171,80.1128984,police station s11,police,,,,,,044 2345 2769,,medium
+police_stations,4446987278,node,12.9459306,80.0355638,Somangalam police station,police,,,,,,044 – 27178126,,medium
+police_stations,4446999051,node,12.9637993,79.9491741,Sriperumbudur Police Station,police,,,,,,+(91)4427162224,,medium
+police_stations,4449967759,node,13.0876952,80.1878894,J.J Nagar Police Booth (V3),police,,,,,,N/A,tnpolice.gov.in,medium
+police_stations,4449998376,node,12.7890654,80.0309867,D6 Police Station,police,,,,,,044 2745 272,,medium
+police_stations,4450010503,node,12.8469006,80.2271771,Thalambur Police Station,police,,,,,,044-27437100,,medium
+police_stations,5079397364,node,13.0699263,80.2714181,Police Assistance Booth,police,,,,,,,,medium
+police_stations,5226071789,node,13.1037724,80.0585425,Police Booth,police,,,,,,,,medium
+police_stations,5226197960,node,13.1222511,80.0624155,T9 Police Station Pattabiram,police,,,,,,,,medium
+police_stations,5226262920,node,12.9008558,80.2280156,J-10 Semmenchery Police Station,police,,,,,,,,medium
+police_stations,5367536437,node,13.0149758,80.1816427,Police Booth,police,,Chennai Police,,,,,,medium
+police_stations,6354550885,node,13.1251137,80.0286037,T-11 Tiruninravur Police Station,police,,,,,,,,medium
+police_stations,6780251054,node,13.0341367,80.2664405,Railway Police,police,,,,,,,,medium
+police_stations,6854765885,node,12.9931857,80.2674928,Unnamed,police,,,,,,,,medium
+police_stations,7060019586,node,13.1188229,80.2974617,Unnamed,police,,,,,,,,medium
+police_stations,7060026186,node,13.0757377,80.2775929,Unnamed,police,,,,,,,,medium
+police_stations,7994867411,node,12.9738305,80.186835,Unnamed,police,,,,,,,,medium
+police_stations,8096280337,node,13.0310886,80.2017034,R10 MGR Nagar Police Station,police,,,,,,,tnpolice.gov.in,medium
+police_stations,8108600154,node,13.026501,80.2116238,R6 Police Booth,police,,,,,,,,medium
+police_stations,8495842126,node,13.0504496,80.1828617,Unnamed,police,,,,,,,,medium
+police_stations,8645780209,node,12.9809435,80.2209233,Velachery Police Station,police,,,,,,+91 44 2345 2605;+91 44 2345 2606,,medium
+police_stations,9994034342,node,13.0414828,80.1331364,Unnamed,police,,,,,,,,medium
+police_stations,10741550765,node,13.0352881,80.114521,mangadu police station,police,,,,,,44 – 27178126,,medium
+police_stations,12169790434,node,13.0848694,80.2182466,Control Room,police,,,,,,,,medium
+police_stations,12459049285,node,13.1864179,80.3076057,M5 Ennore Police Booth,police,,,,,,,,medium
+police_stations,13127975757,node,13.0125062,80.2272456,Srinagar colony police booth,police,,,,,,,,medium
+police_stations,208569725,way,13.0359873,80.2701421,Mylapore E1 PS,police,,,,,,,,medium
+police_stations,211435479,way,13.0831121,80.2709138,Periamet PS,police,,,,,,,,medium
+police_stations,211864592,way,13.0590491,80.2706569,Unnamed,police,,,,,,,,medium
+police_stations,214356712,way,13.0347642,80.2294897,R1 Police Station,police,,,,,,044 2345 2608,,medium
+police_stations,217637688,way,13.0864715,80.2853702,Esplanade PS,police,,,,,,,,medium
+police_stations,217767201,way,13.0598386,80.2547972,F4 Greams Road PS,police,,,,,,,,medium
+police_stations,217864794,way,13.1231943,80.2873206,Unnamed,police,,,,,,,,medium
+police_stations,217878794,way,13.1000303,80.2601445,Unnamed,police,,,,,,,,medium
+police_stations,217920494,way,13.1113985,80.2263784,Peravallur Police Station,police,,,,,,,,medium
+police_stations,217921152,way,13.0934393,80.2434556,Unnamed,police,,,,,,,,medium
+police_stations,217960575,way,13.0672549,80.2736489,D1 Triplicane Police Station,police,,,,,,,,medium
+police_stations,231052535,way,13.0925447,80.21797,K4 Police Station,police,,,,,,,,medium
+police_stations,240511203,way,13.0440809,80.2173045,R3 Ashok Nagar Police Station,police,,,,,,044 2345 2617,tnpolice.gov.in,medium
+police_stations,241007895,way,13.0332562,80.2559671,Abhiramapuram,police,,,,,,,,medium
+police_stations,241027985,way,13.0750725,80.257014,F2 Egmore Police Station,police,,,,,,044 2345 2678,,medium
+police_stations,297495780,way,12.9229459,80.1352359,Selaiyur Police Station,police,,,,,,,,medium
+police_stations,343141650,way,13.0224076,80.226078,Police Station - J1 - Saidapet,police,,,,,,,,medium
+police_stations,354469200,way,13.0245553,80.2748155,E5 Foreshore Estate Police Station,police,,,,,,,,medium
+police_stations,355104205,way,12.8439997,80.0603546,D3 Guduvancheri Police Station,police,,,,,,044 – 27465331,,medium
+police_stations,677255714,way,12.9845863,80.2611458,Unnamed,police,,,,,,,,medium
+police_stations,835251736,way,13.1073143,80.1525569,Ambattur T1 Police Station,police,,,,,,,,medium
+police_stations,1038741390,way,13.0093531,80.2106918,Guindy J3 Police station,police,,,,,,,,medium
+police_stations,1076586613,way,13.0899215,80.2904578,B1 North Beach Police Station,police,,,,,,,,medium
+police_stations,1089835073,way,13.0988879,80.2816945,C3 Seven Wells Police Station,police,,,,,,,,medium
+police_stations,1089863482,way,13.0940347,80.2854602,C5 Kothavalchavadi Police Station,police,,,,,,,,medium
+police_stations,1090653955,way,13.0884077,80.2817032,C1 Flower Bazaar Police Station,police,,,,,,,,medium
+police_stations,1090653956,way,13.0883718,80.2823944,C1 Flower Bazaar Police Booth,police,,,,,,,,medium
+police_stations,1090950056,way,13.1086614,80.2809199,H1 Washermanpet Police Station,police,,,,,,,,medium
+police_stations,1091003580,way,13.1003326,80.2515633,P2 Otteri Police Station,police,,,,,,,,medium
+police_stations,1095915240,way,13.0313112,80.2398324,E3 Teynampet Police Assistance Booth,police,,,,,,,,medium
+police_stations,1095915254,way,13.0300516,80.2432354,Office of the Director General of Police Civil Supplies CID Chennai,police,,,,,,,,medium
+police_stations,1105971900,way,13.0926307,80.2750124,C2 Elephant Gate Police Station,police,,,,,,,,medium
+police_stations,1107911282,way,13.0686386,80.2620582,"Office of the Deputy Commissioner of Police, Pudupet",police,,,,,,,,medium
+police_stations,1110191293,way,13.0998376,80.2870248,N3 Muthialpet Police Station,police,,,,,,,,medium
+police_stations,1112851437,way,13.0391513,80.2793207,D5 Marina Police Station,police,,,,,,,,medium
+police_stations,1116154383,way,13.0966217,80.2915125,B1 North Beach Police Station,police,,,,,,,,medium
+police_stations,1122926992,way,13.0725347,80.2520681,G7 Chetpet Police Station,police,,,,,,,,medium
+police_stations,1123051523,way,13.061062,80.262232,D2 Anna Salai (Mount Road) Poice Station,police,,,,,,,,medium
+police_stations,1131693908,way,13.0225066,80.271388,Tamil Nadu Police Computer Communication Centre,police,,,,,,,,medium
+police_stations,1131693910,way,13.022806,80.2716339,Tamil Nadu State Crime Records Bureau,police,,,,,,,,medium
+police_stations,1132145713,way,13.0007139,80.2712201,Elliots Beach Police Outpost,police,,,,,,,,medium
+police_stations,1176848837,way,13.0953439,80.2807237,C5 Kothavalchavadi Police Station,police,,,,,,,,medium
+police_stations,1231867886,way,13.1468874,79.8387584,Police Recruit School Thiruvallur,police,,,,,,,,medium
+police_stations,1236765220,way,12.9974051,80.0918523,T13 Kundrathur Police Station,police,,,,,,,,medium
+police_stations,1330398918,way,13.1306625,80.1587027,T-1 Police Station,police,,,,,,,,medium

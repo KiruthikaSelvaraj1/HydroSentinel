@@ -1,0 +1,39 @@
+event_id,event_name,date,location,rainfall_mm,water_depth_m,flooded,severity
+1,Chennai Floods 2015,2015-12-01,Adyar,494,3.5,1,critical
+1,Chennai Floods 2015,2015-12-01,Velachery,494,3.5,1,critical
+1,Chennai Floods 2015,2015-12-01,Tambaram,494,3.5,1,critical
+1,Chennai Floods 2015,2015-12-01,Pallavaram,494,3.5,1,critical
+1,Chennai Floods 2015,2015-12-01,Kotturpuram,494,3.5,1,critical
+1,Chennai Floods 2015,2015-12-01,Nandanam,494,3.5,1,critical
+1,Chennai Floods 2015,2015-12-01,Saidapet,494,3.5,1,critical
+1,Chennai Floods 2015,2015-12-01,T Nagar,494,3.5,1,critical
+1,Chennai Floods 2015,2015-12-01,Anna Nagar,494,3.5,1,critical
+1,Chennai Floods 2015,2015-12-01,Madipakkam,494,3.5,1,critical
+2,Northeast Monsoon 2021,2021-11-11,Madhavaram,210,2.0,1,high
+2,Northeast Monsoon 2021,2021-11-11,Manali,210,2.0,1,high
+2,Northeast Monsoon 2021,2021-11-11,Perambur,210,2.0,1,high
+2,Northeast Monsoon 2021,2021-11-11,Anna Nagar,210,2.0,1,high
+2,Northeast Monsoon 2021,2021-11-11,Puzhuthivakkam,210,2.0,1,high
+2,Northeast Monsoon 2021,2021-11-11,Mudichur,210,2.0,1,high
+2,Northeast Monsoon 2021,2021-11-11,Palavakkam,210,2.0,1,high
+3,Cyclone Michaung,2023-12-04,Velachery,320,2.8,1,high
+3,Cyclone Michaung,2023-12-04,Pallikaranai,320,2.8,1,high
+3,Cyclone Michaung,2023-12-04,Chromepet,320,2.8,1,high
+3,Cyclone Michaung,2023-12-04,Porur,320,2.8,1,high
+3,Cyclone Michaung,2023-12-04,ECR coastal areas,320,2.8,1,high
+3,Cyclone Michaung,2023-12-04,OMR IT corridor,320,2.8,1,high
+3,Cyclone Michaung,2023-12-04,Sholinganallur,320,2.8,1,high
+4,November Floods 2017,2017-11-09,T Nagar,165,1.5,1,medium
+4,November Floods 2017,2017-11-09,Nungambakkam,165,1.5,1,medium
+4,November Floods 2017,2017-11-09,Saidapet,165,1.5,1,medium
+4,November Floods 2017,2017-11-09,Kodambakkam,165,1.5,1,medium
+5,Cyclone Nivar,2020-11-27,Sholinganallur,287,2.3,1,high
+5,Cyclone Nivar,2020-11-27,OMR,287,2.3,1,high
+5,Cyclone Nivar,2020-11-27,ECR Coastal Areas,287,2.3,1,high
+5,Cyclone Nivar,2020-11-27,Neelankarai,287,2.3,1,high
+5,Cyclone Nivar,2020-11-27,Injambakkam,287,2.3,1,high
+5,Cyclone Nivar,2020-11-27,Thiruvanmiyur,287,2.3,1,high
+6,Floods 2005,2005-11-14,North Chennai,320,2.5,1,high
+6,Floods 2005,2005-11-14,Ambattur,320,2.5,1,high
+6,Floods 2005,2005-11-14,Avadi,320,2.5,1,high
+6,Floods 2005,2005-11-14,Poonamallee,320,2.5,1,high

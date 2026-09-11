@@ -1,0 +1,965 @@
+category,osm_id,osm_type,lat,lon,name,amenity,healthcare,operator,capacity,beds,emergency,phone,website,priority
+schools,247432808,node,12.9864437,79.9717629,Sri Venkateswara College of Engineering - SVCE,college,,,,,,,,medium
+schools,300467984,node,12.9853147,80.2029459,New Prince Higher Secondary,school,,,,,,,,medium
+schools,300468062,node,12.9868373,80.206505,St. Marks School,school,,,,,,,,medium
+schools,312014519,node,12.9704142,80.186583,Brilliant Matriculation School,school,,,,,,,,medium
+schools,312015795,node,12.985101,80.1894583,Mowbray's Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,325787792,node,12.8861992,80.2460833,Shri Sakthi Vidyalaya,school,,,,,,,,medium
+schools,347356350,node,13.0542557,80.1943992,Balalok Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,347362882,node,13.0530994,80.1967081,JaiGopal Garodia Girls High school,school,,,,,,,,medium
+schools,364997861,node,13.0141314,80.2052179,Central Institute of Petrochemicals Engineering and Technology,college,,,,,,+914422254780,https://www.cipet.gov.in/,medium
+schools,417776186,node,13.0034528,80.2677285,Olcott Memorial HSS,school,,,,,,,,medium
+schools,432468191,node,12.9489729,80.1397503,DCOE Office,college,,,,,,,,medium
+schools,432468195,node,12.9481562,80.1397886,Lecture Hall Complex,college,,,,,,,,medium
+schools,432468196,node,12.9486173,80.1407986,Department of Aeronautical Engineering,college,,,,,,,,medium
+schools,432468200,node,12.9491126,80.1409786,Mechatronics,college,,,,,,,,medium
+schools,432468201,node,12.9492943,80.1410981,Department of Production Technology,college,,,,,,,,medium
+schools,432468205,node,12.9478814,80.1403398,Department of Automobile Engineering,college,,,,,,,,medium
+schools,432468246,node,12.9484691,80.1398525,RLHC (Rajam Lecture Hall Complex),college,,,,,,,,medium
+schools,454193658,node,12.9888607,79.9711278,Research and Deevelopment,college,,,,,,,,medium
+schools,454194685,node,12.9885262,79.9716513,Workshop,college,,,,,,,,medium
+schools,454194870,node,12.9884426,79.972338,Workshop,college,,,,,,,,medium
+schools,454195125,node,12.9874229,79.9730427,Computer Science,college,,,,,,,,medium
+schools,454195129,node,12.9877986,79.9727414,Mechanical,college,,,,,,,,medium
+schools,454195516,node,12.9871211,79.9726813,Applied Science,college,,,,,,,,medium
+schools,454195584,node,12.9874306,79.9723723,Electronics,college,,,,,,,,medium
+schools,454195601,node,12.9878153,79.9722092,Chemical,college,,,,,,,,medium
+schools,454195953,node,12.9872298,79.9725783,MCA,college,,,,,,,,medium
+schools,454196897,node,12.9869873,79.9720461,Administration,college,,,,,,,,medium
+schools,454201394,node,12.9877902,79.9714711,Marine,college,,,,,,,,medium
+schools,454201424,node,12.9878404,79.9711192,Workshop,college,,,,,,,,medium
+schools,454201428,node,12.9878738,79.9718659,Workshop,college,,,,,,,,medium
+schools,454201440,node,12.9873176,79.9714898,Biotechnology,college,,,,,,,,medium
+schools,454205428,node,12.9870716,79.973147,Information Technology,college,,,,,,,,medium
+schools,454207145,node,12.9880407,79.9727033,CRB3,college,,,,,,,,medium
+schools,454207263,node,12.986636,79.972398,CRB1,college,,,,,,,,medium
+schools,454207328,node,12.9868033,79.9725869,CRB2,college,,,,,,,,medium
+schools,459641978,node,13.0542712,80.2036334,LaClarence Matriculation Higher Secondary Schoolt,school,,,,,,,,medium
+schools,459652832,node,13.0438348,80.1981602,Thai Sathia School,school,,,,,,,,medium
+schools,473396856,node,13.0074771,80.2613841,Starlight Abacus School,school,,,,,,,,medium
+schools,560231368,node,12.9426246,80.1416397,NSN School,school,,,,,,,,medium
+schools,595654418,node,12.953827,80.1368303,Government Boys Higher Secondary School,school,,,,,,,,medium
+schools,595655153,node,12.9519873,80.1345334,Lakshmi Ammal School,school,,,,,,,,medium
+schools,595657131,node,13.060167,80.1937294,Chinmaya Vidyalaya,school,,,,,,,,medium
+schools,595735861,node,13.0474865,80.1873415,St. John's Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,597659101,node,13.0261044,80.0162591,Saveetha Engineering College,college,,,,,,,,medium
+schools,598059387,node,12.9523982,80.1344901,Government Girls Higher Secondary School,school,,,,,,,,medium
+schools,612546126,node,13.0735855,80.2088301,Kanmani Montessori School,school,,,,,,,,medium
+schools,612556884,node,13.0798455,80.2106862,Anna Adharsh College for Women,college,,,,,,,,medium
+schools,614436617,node,13.0734099,80.2062046,Ambal Metriculation School,school,,,,,,,,medium
+schools,747616456,node,12.9787977,80.2224844,Akshaya,school,,,,,,,,medium
+schools,761949200,node,12.9214424,80.1869452,Christ King School,school,,,,,,,,medium
+schools,934859077,node,13.0442984,80.1853388,La Chatlaine,school,,,,,,,,medium
+schools,941467495,node,13.0745115,80.2139192,Kolla Perumal (KPVCSS),school,,,,,,,,medium
+schools,953110024,node,13.1285206,80.149466,Velammal School (Ambattur),school,,,,,,,,medium
+schools,968597207,node,12.9940844,80.2470141,The Institute of Mathematical Sciences,college,,,,,,+91 44 2254 3100,https://www.imsc.res.in/,medium
+schools,983957835,node,12.9674323,80.1281637,Sarada Matriculation School,school,,,,,,,,medium
+schools,983957836,node,12.9656183,80.1275092,Meenakshi Krishan Polytechnic College,college,,,,,,+91 94897 06198,https://www.mkpt.org/,medium
+schools,983959722,node,12.9660634,80.1263205,Ammaniammal School,school,,,,,,,,medium
+schools,1003378082,node,12.9831591,80.2104214,Bala Saravana Matriculation School,school,,,,,,,,medium
+schools,1015568367,node,13.0301954,80.1774604,Assisi School,school,,,,,,,,medium
+schools,1015578645,node,13.0397071,80.1996798,PSBB School,school,,,,,,,,medium
+schools,1015585631,node,13.0382542,80.1976842,Sri Krishna Swamy Mat. Hr. Sec. School,school,,,,,,,,medium
+schools,1044780333,node,12.9515892,80.2606515,German School Chennai,school,,,,,,,,medium
+schools,1069491369,node,13.0885001,80.2777394,SSV Hr Sec School,school,,,,,,,,medium
+schools,1069491576,node,13.0883355,80.2772191,AB Parekh Hr Sec School,school,,,,,,,,medium
+schools,1127295227,node,13.0538146,80.2143813,Janaki Ramachandran Matriculation Scool,school,,,,,,,,medium
+schools,1185700733,node,13.1040356,80.1014998,RCM Hr Sec School,school,,,,,,,,medium
+schools,1185701481,node,13.1111306,80.0989678,Nazereth Metriculation School,school,,,,,,,,medium
+schools,1306385769,node,13.0247563,80.189912,Amrita Vidyalaya,school,,,,,,,,medium
+schools,1329321951,node,12.9284826,80.2024966,St Peters School,school,,,,,,,,medium
+schools,1329326250,node,12.9079132,80.2016416,Bharatha Vidhyalaya School,school,,,,,,,,medium
+schools,1329336746,node,12.9242267,80.1982298,Pallikarani Govt Higher Secondary School,school,,,,,,,,medium
+schools,1330443392,node,12.9253386,80.2003719,Asan Memorial College,school,,,,,,,,medium
+schools,1446841958,node,13.0542995,80.2028196,Govt School,school,,,,,,,,medium
+schools,1446842407,node,13.0543125,80.2059776,Barathi Vidayala School - Block 1,school,,,,,,,,medium
+schools,1446842408,node,13.0538945,80.2061707,Barathi Vidayala School - Block 2,school,,,,,,,,medium
+schools,1596154407,node,12.9758373,80.221575,Lets do Something - Activity center,school,,,,,,,,medium
+schools,1621240490,node,13.1195338,80.1549408,Maha Ganesa Vidyalaya,school,,,,,,,,medium
+schools,1636170540,node,12.9667572,80.2155154,Pon Vidhyashram School,school,,,,,,,,medium
+schools,1636171309,node,12.9757851,80.2123879,SAN Academy,school,,,,,,,,medium
+schools,1636178008,node,12.9579014,80.1928829,Vailankanni Silver Jubilee Matriculation Higher Secondary School,school,,,,,,+91 44 2247 6880,,medium
+schools,1653993044,node,13.0916188,80.2075894,"Chinmaya Vidhyalaya, Anna Nagar",school,,,,,,,,medium
+schools,1672262615,node,13.0017,80.266308,St.Johns English School,school,,,,,,,,medium
+schools,1760694106,node,12.9694641,80.1944308,Prince Matric Hr Sec School,school,,,,,,,,medium
+schools,1760907465,node,12.9705025,80.1970465,Thandai Periyar Govt High School,school,,,,,,,,medium
+schools,1825978766,node,13.1355943,80.2515179,FES Matriculation Higher Secoundary School,school,,,,,,,,medium
+schools,1836798405,node,12.9156126,80.1872129,Unnamed,school,,,,,,,,medium
+schools,1896333049,node,13.1303994,80.1050834,Vijayantha,school,,,,,,,,medium
+schools,1896342348,node,13.1299083,80.1108341,KV HVF,school,,,,,,,,medium
+schools,1896345709,node,13.1242505,80.1062261,VHHS,school,,,,,,,,medium
+schools,1926709450,node,12.9862277,80.1855109,Jawaharlal Nehru Government Boys School,school,,,,,,,,medium
+schools,2053800293,node,12.9454618,80.1945713,Himayam Matric School,school,,,,,,,,medium
+schools,2059560611,node,12.9459767,80.239775,Dhanraj Baid Jain College,school,,,,,,,,medium
+schools,2064178200,node,12.9456616,80.2395863,CL Baid Metha College Of Pharmacy,school,,,,,,,,medium
+schools,2071087259,node,12.9456667,80.2395755,CL Baid Metha College of Pharmacy,school,,,,,,,,medium
+schools,2071090050,node,12.9457912,80.239551,CL Baid Sishya School,school,,,,,,,,medium
+schools,2086712181,node,12.956025,80.1850444,Goverment school,school,,,,,,,,medium
+schools,2115851259,node,12.9215926,80.2488853,Vael's Bilabong School,school,,,,,,,,medium
+schools,2117666024,node,12.9214372,80.2416769,KCG College of Technology,school,,,,,,,,medium
+schools,2117671390,node,12.9177981,80.2410536,National Institute of Management Studies,school,,,,,,,,medium
+schools,2123575602,node,12.9530789,80.2446878,Chettinadu A School,school,,,,,,,,medium
+schools,2124725682,node,12.9334921,80.2365085,Akshara School,school,,,,,,,,medium
+schools,2124849459,node,12.9766406,80.2505858,YMCA SCHOOL,school,,,,,,,,medium
+schools,2124854755,node,12.9554398,80.2482807,Global Institute Of Gaming And Animation,school,,,,,,,,medium
+schools,2125926272,node,12.766665,80.2046545,SMK Fomra Institute Of Technology,school,,,,,,,,medium
+schools,2125926806,node,12.7645723,80.2094611,PSB Polytechnic College,school,,,,,,,,medium
+schools,2125931152,node,12.7948315,80.218881,Professor Dhanapalan College For Women,school,,,,,,,,medium
+schools,2125931156,node,12.7729222,80.2075084,Unnamed,school,,,,,,,,medium
+schools,2127107074,node,12.9647302,80.2433123,St.Pius school,school,,,,,,,,medium
+schools,2210024243,node,12.8961318,80.1828607,Sithalapakkam Government High School,school,,,,,,,,medium
+schools,2270917857,node,12.9895379,80.1000841,Vivekananda School,school,,,,,,,,medium
+schools,2270917858,node,12.9873006,80.1065161,Sivanthi Public School,school,,,,,,,,medium
+schools,2296733697,node,13.0756063,80.2720867,Dhanakoti Middle School,school,,,,,,,,medium
+schools,2296734281,node,13.0755096,80.2722477,Kalyanam Girls High School,school,,,,,,,,medium
+schools,2296735136,node,13.0763065,80.2719607,Kalyanam Girls Higher Secondary School,school,,,,,,,,medium
+schools,2296736065,node,13.075008,80.2732159,Chintadripet Boys Higher Secondary School,school,,,,,,,,medium
+schools,2296739472,node,13.076586,80.2666606,சென்னை மாநகராட்ச்சி பள்ளி-சிந்தாரிபேட்டை,school,,,,,,,,medium
+schools,2296744654,node,13.0736154,80.2678488,Chintadripet Middle School,school,,,,,,,,medium
+schools,2296745323,node,13.074522,80.2694716,Rao Bahadur Calavala Cunnan Chetty Middle School,school,,,,,,,,medium
+schools,2381473122,node,13.089879,80.2862748,NIIT,college,,,,,,,,medium
+schools,2394711912,node,13.0687761,80.218961,IID Community College,college,,,,,,,,medium
+schools,2427727852,node,13.0350686,80.2324195,Unnamed,school,,,,,,,,medium
+schools,2517035812,node,12.9657555,80.1970157,King's Matric Hr Sec School,school,,,,,,,,medium
+schools,2583555357,node,13.1511436,80.2987442,Revoor Padmanabha Chetty Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,2728294977,node,12.9298318,80.2045907,Infant jesus high school,school,,,,,,,,medium
+schools,2779907360,node,13.054758,80.2412002,Padma Seshadri Bala Bhavan Higher Secondary School,school,,,,,,+91 44 2817 2459,,medium
+schools,3027045820,node,12.8956004,80.1214822,GKM College of Engineering,college,,,,,,,https://gkmcet.net.in/,medium
+schools,3029365065,node,12.8645028,79.991994,HIET Polytechnic College,college,,,,,,,,medium
+schools,3029387357,node,12.8641206,79.973316,Sri Krishna Engineering College,college,,,,,,,,medium
+schools,3071893249,node,12.928648,80.1453706,Sreevatsa Viswanathan Vivekananda Vidhyalaya,school,,,,,,,,medium
+schools,3097012397,node,12.926285,80.1978774,Chennai School (Corporation),school,,,,,,,,medium
+schools,3149264021,node,13.02092,80.1692038,St. Christopher Nursery And Primary School,school,,,,,,,,medium
+schools,3397754749,node,13.0231287,80.2180065,Diana Nursery & Primary School,school,,Private,,,,+91 98401 41553,http://www.dianaschool.org/,medium
+schools,3615415200,node,12.9961623,80.2462804,Asian College of Journalism,college,,,,,,+91 44 2254 2842,https://www.asianmedia.org/,medium
+schools,3714628813,node,13.3311034,79.8881774,vivekananda matriculation higher secondary school,school,,,,,,,,medium
+schools,3998858427,node,13.0348934,80.238973,தென் இந்திய இந்தி பரப்புரை கூட்டமைப்பு,school,,,,,,,,medium
+schools,4035159042,node,13.0977041,80.2285669,Soundara Pandiya Nadar School,school,,,,,,,,medium
+schools,4090239218,node,12.968849,80.1920857,Rajkumar Sulochana Matric Higher Secondary School,school,,,,,,,,medium
+schools,4153810890,node,13.0286604,80.2243406,Oxford Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,4195222607,node,12.8684808,80.0619303,Govt School,school,,,,,,,,medium
+schools,4195239801,node,12.8682533,80.0617444,4th Cross Street,school,,,,,,,,medium
+schools,4213294489,node,13.0504588,80.1798944,Good Shepherd Matriculation School,school,,,,,,04424862003,,medium
+schools,4231249091,node,13.045989,80.1422888,Alpha Arts and Science College,school,,,,,,,,medium
+schools,4290851202,node,13.0679752,80.2242291,PANIMALAR POLYTECHNIC COLLEGE,school,,,,,,,,medium
+schools,4294274187,node,12.9801464,80.2320468,Chennai Primary School,school,,,,,,,,medium
+schools,4300667140,node,12.9852163,80.218948,Chennai Higher Secondary School,school,,,,,,,,medium
+schools,4310590233,node,12.9510813,80.1488697,St Mark's School,school,,,,,,,,medium
+schools,4315323191,node,13.0352427,80.1609081,St.Johns MHSS,school,,,,,,,,medium
+schools,4351216397,node,13.1185939,80.2792156,RJR Middle School,school,,,,,,,,medium
+schools,4358935393,node,13.0270459,80.1819043,Unnamed,school,,,,,,04422490156,,medium
+schools,4377440092,node,13.0372385,80.2334005,Target soft solution,school,,,,,,,,medium
+schools,4377440093,node,13.0371111,80.2333714,Unnamed,school,,,,,,,,medium
+schools,4383204790,node,13.0784245,80.282892,KYM,school,,,,,,,,medium
+schools,4406456514,node,12.9157009,80.2364655,Tamilnadu Teachers Education University,university,,,,,,,https://www.tnteu.in/,medium
+schools,4411778295,node,12.9874465,80.2184533,Unnamed,school,,,,,,,,medium
+schools,4411841291,node,13.0234374,80.1816259,Unnamed,school,,,,,,,,medium
+schools,4421925894,node,13.0654103,80.2336977,Unnamed,school,,,,,,,,medium
+schools,4421948894,node,13.0681334,80.2491591,Unnamed,school,,,,,,,,medium
+schools,4447008637,node,13.0048641,80.252718,Aathichudy Special School,school,,,,,,+91 44 2726 4422,,medium
+schools,4447073028,node,13.0404737,80.1545457,Grace Matriculation Higher Secondary School,school,,,,,,(044) 24765432,,medium
+schools,4447078989,node,13.1179517,80.1306967,grace school,school,,,,,,044-27231788,,medium
+schools,4447081480,node,12.7970554,80.2217236,Hello Kids - Ilanthalir,school,,,,,,+91 9994379967,,medium
+schools,4447101707,node,12.8144437,80.2284467,Kidzee - Guduvancheri,school,,,,,,+91 9187546 70166,,medium
+schools,4447110198,node,13.0227521,80.027318,Loyola International Residential,school,,,,,,(044) 67130745,,medium
+schools,4447246138,node,12.9715673,80.1265543,Sri Sankara Vidyalaya Matriculation School,school,,,,,,044 2248 4960,,medium
+schools,4447298329,node,13.0502159,80.2699958,Gill Adarsh Matriculation Higher Secondary School,school,,,,,,+91 44 2847 4808,,medium
+schools,4450042008,node,13.0363635,79.8137105,Loyola International Residential and Day School - LIRS,school,,,,,,(044) 67130745,,medium
+schools,4450536979,node,12.9767972,80.226075,St Antony School,school,,,,,,,,medium
+schools,4517223590,node,13.1232153,80.169752,Unnamed,school,,,,,,,,medium
+schools,4584956489,node,12.9887139,80.2306876,Department of Electrical Engineering;Electrical Engineering Department,university,,,,,,,,medium
+schools,4604870491,node,13.1101564,80.2431365,Unnamed,school,,,,,,,,medium
+schools,4633798289,node,13.1128208,80.2388201,Unnamed,school,,,,,,,,medium
+schools,4727968819,node,12.9914769,80.2336786,IIT Madras,university,,Goverment of India,,,,+91 44 2257 8101,https://www.iitm.ac.in/,medium
+schools,4929975722,node,13.2148462,80.048777,Unnamed,school,,DEVADASS nayagam,,,,,,medium
+schools,5087492821,node,12.9228716,80.132183,Sri Sankara Vidyalaya Matriculation Higher Secondary School,school,,,,,,+91 44 2239 3183,https://srisankaraglobalacademy.com/,medium
+schools,5090924223,node,12.9239351,80.1583508,Unnamed,school,,,,,,+91-44-22270454,https://www.alphagroup.edu,medium
+schools,5224673128,node,13.115483,80.0625214,Sri RamaKrishna Matric. Higher Sec. School,school,,Sri RamaKrishna Matric. Higher Sec. School,,,,,,medium
+schools,5225756935,node,12.9360597,80.1609096,Zion matriculation higher secondary school,school,,,,,,,,medium
+schools,5226289023,node,12.9428412,80.1502698,Saviour Jesus Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,5227517601,node,13.0352594,79.815072,Unnamed,school,,,,,,,,medium
+schools,5227520899,node,13.1551824,79.86994,Sri Venkateswara Institute of Science and Technlogy,college,,,,,,,,medium
+schools,5227522820,node,13.1507029,79.8684738,Thirumurugan College of Arts and Science,college,,,,,,,,medium
+schools,5227805797,node,13.1155935,79.9231614,John Boscho College,college,,,,,,,,medium
+schools,5227829210,node,13.1231039,80.0453846,Jaya College of Arts and Science,university,,,,,,,,medium
+schools,5227831036,node,13.1229735,80.04647,Jaya College of Pharmacy,college,,,,,,,,medium
+schools,5227831082,node,13.1252713,80.0446713,Jaya Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,5227841397,node,13.1207845,80.061702,Holy Infant Jesus Matric Higher Secondary School,school,,,,,,,,medium
+schools,5229579151,node,13.1195044,80.0744657,Hindu College,college,,,,,,,,medium
+schools,5229840661,node,13.3343065,80.1948277,L.E.F. Eaden Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,5229848239,node,13.3334231,80.1928596,Gengu swami naidu School,school,,Latha Mageshwari,,,,,,medium
+schools,5229848620,node,13.3393094,80.1945821,Adarsh Matriculation Higher Secondary school,school,,,,,,,,medium
+schools,5231956170,node,13.0655003,80.1108509,S.A Engineering College,college,,,,,,+914426801999,https://www.saec.ac.in/,medium
+schools,5234697499,node,12.9404891,80.1561516,Shikshaa Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,5246576324,node,12.9229848,80.1168286,Unnamed,school,,,,,,,,medium
+schools,5246751821,node,12.9221572,80.1163643,Christ king metric hr sec school,school,,,,,,,,medium
+schools,5246751823,node,12.9170277,80.1155469,St Mary's metric hr sec school,school,,,,,,,,medium
+schools,5246751824,node,12.9161721,80.1156075,CSI Middle school,school,,CSI,,,,,,medium
+schools,5259088434,node,12.8839707,80.1524806,Unnamed,school,,,,,,,,medium
+schools,5282745421,node,13.0592368,80.2337307,Loyola-Icam College of Engineering and Technology,college,,,,,,+91 44 2817 8490,,medium
+schools,5300479623,node,12.7919469,79.8163488,Unnamed,school,,,,,,,,medium
+schools,5302949922,node,12.9223303,80.1429628,St Mark matric school,school,,,,,,,,medium
+schools,5320053509,node,13.0361057,80.2365642,செ.தெ நாயகம் தியாகராய நகர் மேனிலைப் பள்ளி,school,,,,,,,,medium
+schools,5332419164,node,12.938573,80.2528173,St. Joseph Higher Secondary School,school,,,,,,,,medium
+schools,5336398867,node,13.1031947,80.2093113,St. John Williams Matriculation School,school,,,,,,,,medium
+schools,5346397021,node,13.0557408,80.2719053,மணிஸ் நர்சரி மற்றும் பிரைமரி பள்ளி,school,,,,,,,,medium
+schools,5372322923,node,13.059306,80.2367708,Unnamed,college,,,,,,,,medium
+schools,5372361521,node,13.05904,80.2367929,Loyola Institute of Business Administration,college,,,,,,+91 44 28177100,https://liba.edu/,medium
+schools,5484076358,node,13.0358756,80.2374395,குண்டூர் சுப்பையா பிள்ளை தி.நகர் பெண்கள் மேல் நிலைப்பள்ளி,school,,,,,,,,medium
+schools,5485650822,node,13.0407103,80.2643936,Unnamed,college,,,,,,,,medium
+schools,5570545748,node,12.9853379,80.2277188,Unnamed,school,,,,,,,,medium
+schools,5846492985,node,13.0105838,80.2353736,அண்ணா பல்கலைக்கழகம்,college,,,,,,,https://www.annauniv.edu/,medium
+schools,5875330425,node,13.0278146,80.2444728,Govt.Hr secondary school,school,,,,,,,,medium
+schools,5936040585,node,13.07553,80.2202914,Government Yoga And Naturopathy Medical College & Hospital,college,,,,,,+91 44 2622 2516,https://www.gynmc.com/,medium
+schools,5964208543,node,12.9480327,80.1396335,Admin Block & Dean Office,college,,,,,,,,medium
+schools,5992069281,node,13.0383691,80.1628252,Rajiv School of Excellence Matriculation & Higher Secondary,school,,,,,,,,medium
+schools,6036590821,node,13.1084682,80.208451,Singaram Pillai Girls High School,school,,,,,,,,medium
+schools,6189376285,node,12.8256554,80.2316079,Unnamed,school,,,,,,,,medium
+schools,6356479646,node,13.0490522,80.2465644,Bala Mandir Kamaraj Trust,school,,,,,,,,medium
+schools,6367914546,node,13.0383738,80.0528694,Unnamed,college,,,,,,,,medium
+schools,6367916011,node,13.0245844,80.0174597,Unnamed,college,,,,,,,,medium
+schools,6527322712,node,13.18822,80.1061083,Vel Tech Engineering College,college,,,,,,073587 01998,https://www.velhightech.com/,medium
+schools,6914937634,node,13.0390969,80.1419659,Sri Ramachandra Medical College And Research Institute,college,,,,,,,,medium
+schools,7017176677,node,13.1490453,80.0669083,Carmel School,school,,,,,,,,medium
+schools,7053805485,node,12.9097665,80.249499,Unnamed,school,,,,,,,,medium
+schools,7090003132,node,12.9956265,80.2040906,St Brittos College,college,,,,,,,https://stbrittoscollege.edu.in/,medium
+schools,7130308740,node,13.1654449,80.2630526,Unnamed,college,,,,,,,,medium
+schools,7134517787,node,12.9418372,80.1016436,Unnamed,school,,,,,,,,medium
+schools,7136008687,node,13.0494342,80.2581387,National Public School,school,,,,,,+91 44 2835 1973,https://www.npschennai.com/,medium
+schools,7136010486,node,13.0499352,80.2566304,ஸ்ரீ சாரதா பள்ளி,school,,,,,,,,medium
+schools,7136028385,node,13.0502398,80.2566442,D.A.V Boys Higher Secondary School,school,,,,,,,,medium
+schools,7266228885,node,12.8346111,79.8886105,Unnamed,school,,,,,,,,medium
+schools,7266257988,node,12.7935247,79.8128399,Unnamed,school,,,,,,,,medium
+schools,7266259389,node,12.8087639,79.7568579,Unnamed,school,,,,,,,,medium
+schools,7592381392,node,13.051694,80.2108108,Unnamed,school,,,,,,,,medium
+schools,7653029483,node,13.1227532,79.9948579,Raja National Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,7653041586,node,13.1204266,79.9958798,Sriram Engineering College,school,,,,,,,,medium
+schools,7723762942,node,13.039242,80.2563567,Peace Academy Chennai,school,,,,,,+91 72997 17700,https://peaceacademy.in/info/,medium
+schools,7930758686,node,12.9250033,80.228667,Unnamed,school,,Orchids International School,,,,6366412971,https://www.orchidsinternationalschool.com/chennai-branches/thoraipakkam/,medium
+schools,7990935245,node,13.1230861,80.0460099,Jaya College of Physiotheraphy,university,,,,,,,,medium
+schools,8095515268,node,13.0260311,80.2114987,Manimegalai Vidhyalaya Nursery and Primary School,school,,,,,,044 2474 0896,,medium
+schools,8096237707,node,13.0293598,80.2068015,Seethalakshmi Vidhyalaya School,school,,,,,,,,medium
+schools,8096940514,node,13.0294143,80.2124208,Chennai High School,school,,,,,,,,medium
+schools,8100718329,node,13.0283513,80.2091487,Apple Kids International Pre School,school,,,,,,+91 99404 42258,http://applekids.in/,medium
+schools,8597345825,node,12.969047,80.1942822,Prince Srivari Vidyalaya,school,,,,,,,,medium
+schools,8597345826,node,12.9694645,80.1949092,Shri Venkateshwara Highter Secondary School,school,,,,,,,,medium
+schools,8628194990,node,12.9602888,80.18651,Holy Family Convent Matric. Hr. Sec. School,school,,,,,,+91 44 2247 3008,https://www.holyfamilyconvent.com/,medium
+schools,8669165865,node,12.9689235,80.1849511,Government Higher Secondary School,school,,Government of Tamil Nadu,,,,,,medium
+schools,8669165867,node,12.9688048,80.1844534,Government Primary School,school,,Government of Tamil Nadu,,,,,,medium
+schools,8935540225,node,13.0482979,80.2464292,Satyamurthi high school,school,,,,,,,,medium
+schools,9106660530,node,13.048451,80.2801127,Unnamed,school,,,,,,,,medium
+schools,9333222435,node,12.9217681,80.2404146,Kcg college of techology,college,,,,,,,,medium
+schools,9348174751,node,13.0537478,80.2591932,MEASI Academy of Architecture,college,,,,,,,,medium
+schools,9378879818,node,12.8438802,80.2050179,The School - KFI,school,,Krishnamurti Foundation,,,,,,medium
+schools,9391105251,node,12.9761444,80.138181,Nadar Sangam Matric Hr Sec School,school,,,,,,044 43168089,,medium
+schools,9581019680,node,13.1176823,79.9916159,Sri Ram Engineering College Veppampattu,university,,Anna University,,,,,http://sriramec.edu.in/,medium
+schools,9920582502,node,12.9430359,80.1928444,Netaji Vidyalaya School,school,,,,,,,,medium
+schools,9994034445,node,13.0401285,80.1309534,Government Higher secondary school,school,,,,,,,,medium
+schools,10057687022,node,13.0614063,80.279333,ground,university,,,,,,,,medium
+schools,10266829567,node,13.1211345,80.1486086,R Square Academy,university,,,,,,,,medium
+schools,10266877855,node,13.0307877,80.1638766,"R Square Academy for Tnpsc, Tnusrb SI, Tet, Police, Ssc, Rrb, Bank Exam Coaching Centre",university,,,,,,,https://www.rsquareacademy.in/tnpsc-coaching-center/,medium
+schools,10289598933,node,13.1956454,80.1801373,St. Mary's School,school,,,,,,,,medium
+schools,10653634259,node,12.8373375,80.1369635,Indian Institute of Information Technology Design and Manufacturing Kancheepuram,college,,,,,,,https://iiitdm.ac.in,medium
+schools,10792813774,node,13.1243707,80.0213364,Angel School,school,,,,,,,,medium
+schools,10792813775,node,13.1235458,80.0346686,Vivekananda Vidyalaya,school,,,,,,,,medium
+schools,10792844389,node,13.0539345,80.1484837,SV High School,school,,,,,,,,medium
+schools,11004539754,node,12.8727912,80.2353855,Indian Maritime University,university,,,,,,,,medium
+schools,11004539791,node,12.9230904,80.22918,Thangavelu Engineering Collage,college,,,,,,,,medium
+schools,11010424405,node,12.763461,80.1581385,Vellore International School (VIS) - Chennai,school,,,,,,,,medium
+schools,11013406019,node,12.7936971,80.1850698,"IIT Madras, Thaiyur Campus",college,,,,,,,,medium
+schools,11176612212,node,12.8602215,80.1327545,Tagore Engineering Clg,college,,,,,,,,medium
+schools,11253282590,node,12.8948995,80.2267708,model school,school,,,,,,,,medium
+schools,11703493086,node,12.9218101,80.0925259,SKB Vidhyashram Play School - எஸ்கேபி வித்யாஸ்ரம் பிளே ஸ்கூல்,school,,Play School,,,,,https://skbvidhyashram.in/,medium
+schools,11804254206,node,12.870649,80.2203849,Department of Fashion Design,college,,,,,,,,medium
+schools,11805421003,node,13.0950602,80.2892677,C.S.I. Anderson Rajagopaul Girls Higher Secondary School,school,,,,,,,,medium
+schools,11835034706,node,13.0501982,80.2402338,Venkatasubba Rao matrix Hr Secy School,school,,,,,,,,medium
+schools,11848217940,node,12.8738339,80.2211671,Department of Computer science,school,,Department of Higher Education,,,,,,medium
+schools,11848217941,node,12.8739157,80.2209903,Department of Electronics,school,,Department of Higher Education,,,,,,medium
+schools,11848217942,node,12.8739625,80.2208615,Computer Science Laboratory,school,,Department of Higher Education,,,,,,medium
+schools,11848217943,node,12.8739858,80.2207237,Department of Electrical & Electronics Engg.,school,,Department of Higher Education,,,,,,medium
+schools,11848217944,node,12.8737589,80.2203054,Department of Mechanical Engg.,school,,Department of Higher Education,,,,,,medium
+schools,11848217946,node,12.8739875,80.2202971,Machine Shop & Drawing Hall,school,,Department of Higher Education,,,,,,medium
+schools,11848217947,node,12.8741787,80.2203513,Bio Medical Laboratory,school,,Department of Higher Education,,,,,,medium
+schools,11917025570,node,12.9129483,80.1918098,Unnamed,school,,,,,,,,medium
+schools,12192792965,node,13.0719886,80.1894086,LBEAAR Matric Hr. Sec. School,school,,,,,,,,medium
+schools,12301257361,node,13.1213298,80.1472642,Hussain Memorial Matric & Hr. Sec. School,school,,,,,,,,medium
+schools,12407599025,node,12.8703348,80.215186,Chemical department,school,,Department of Higher Education,,,,,,medium
+schools,12470984409,node,12.8636768,80.2424078,Indian Maritime University Chennai Campus,university,,,,,,,,medium
+schools,12523043426,node,12.870235,80.2263607,st.joseph's college of engineering,college,,,,,,,,medium
+schools,12581554805,node,13.1333596,80.2334549,St Anne's Arts And Science College,college,,,,,,,,medium
+schools,12581554806,node,13.132247,80.2361716,St Anne's School,school,,,,,,,,medium
+schools,12581645343,node,13.1320397,80.2388481,St Anne's Matriculation School,school,,,,,,,,medium
+schools,12581658602,node,13.1416026,80.2366698,St Anns Metric Secondary School,school,,,,,,,,medium
+schools,12712993989,node,12.8233083,80.0424496,SRM University Building,university,,,,,,,,medium
+schools,12829845453,node,13.1223606,80.0970668,OCF ESTATE FOOTBALL / CRICKET GROUND,school,,,,,,,,medium
+schools,12829899530,node,13.1224641,80.0999386,HVF ESTATE FOOTBALL / CRICKET GROUND,school,,,,,,,,medium
+schools,12829904769,node,13.1223606,80.0970668,OCF ESTATE FOOTBALL / CRICKET GROUND,school,,,,,,,,medium
+schools,12894184501,node,12.9156431,80.1945578,Zemcode Medical Coding Training,school,,,,,,,,medium
+schools,13135440842,node,13.055503,80.1230486,Saveetha school of management,college,,,,,,,,medium
+schools,13276785999,node,12.9078648,80.1403182,BIHER CSE Block,university,,,,,,,,medium
+schools,23186297,way,13.042298,80.2315228,Sarada Vidyalaya Girls,school,,,,,,,,medium
+schools,23186325,way,13.0445699,80.2457577,Anjuman Orphanage,school,,,,,,,,medium
+schools,23186327,way,13.0509149,80.2417567,Vidyodaya Girls HSS,school,,,,,,,,medium
+schools,23186336,way,13.0468454,80.2311907,Ramakrishna Mission Matric HSS,school,,,,,,,,medium
+schools,23251115,way,12.9450098,80.1429732,Unnamed,school,,,,,,,,medium
+schools,23649046,way,12.9870845,79.9719977,Sri Venkateswara College of Engineering,college,,,,,,+91 44 27152000,https://www.svce.ac.in/,medium
+schools,23813849,way,13.0461854,80.2531696,Stella Maris College,college,,,,,,,https://stellamariscollege.edu.in/,medium
+schools,23839275,way,13.0363649,80.2483071,Justice Basheer Ahmed Sayeed College For Women,college,,,,,,+91 44 2436 4152,https://www.jbascollege.edu.in/,medium
+schools,23895842,way,13.0660477,80.2825558,University of Madras (Chepauk),university,,,,,,,,medium
+schools,23929780,way,13.0376003,80.259123,M. Ct. M Chidambaram Chettyar International School,school,,,,,,+91 44 2467 0120,https://www.mctminternational.com/,medium
+schools,23929908,way,13.0410925,80.2630619,Vivekananda College,college,,,,,,,,medium
+schools,23929941,way,13.0438578,80.2625838,St Ebbas Girls HS School,school,,,,,,,,medium
+schools,23954873,way,13.0533698,80.2594617,The New College,college,,,,,,,https://thenewcollege.edu.in/,medium
+schools,23962542,way,13.0528627,80.267902,Saint Williams High School,school,,,,,,,,medium
+schools,23970133,way,13.085659,80.2188306,Kandasamy Naidu College,college,,,,,,,,medium
+schools,23970134,way,13.0856206,80.2198624,Valliammal College for Women,college,,,,,,,,medium
+schools,23970143,way,13.0852301,80.2234734,Valliaammal Matriculation,school,,,,,,,,medium
+schools,24240072,way,13.0894724,80.2141743,JGVV School,school,,,,,,,,medium
+schools,24260624,way,13.0518505,80.2748218,NKT National Girls HSS,school,,,,,,,,medium
+schools,24261527,way,13.0484885,80.2792054,Lady Willingdon High School,school,,,,,,,,medium
+schools,24261542,way,13.0449729,80.2783216,Queen Marys College,college,,,,,,+91 44 2844 5910,https://www.queenmaryscollege.edu.in/,medium
+schools,24262150,way,13.0185558,80.2534687,Anna Institute of Management,college,,,,,,,,medium
+schools,24270339,way,13.037591,80.2687091,Vidya Mandir SSS,school,,,,,,,,medium
+schools,24270393,way,13.0341174,80.2782775,Saint Bede's Anglo Indian Higher Secondary School,school,,,,,,+91 44 2498 3450,https://stbedeschennai.org/,medium
+schools,24270394,way,13.0352054,80.2762298,Rosary Matriculation HSS,school,,,,,,,,medium
+schools,24270411,way,13.03668,80.277385,CSI School for Deaf,school,,,,,,,,medium
+schools,24270436,way,13.0312706,80.266086,P. S. Senior Secondary School,school,,,,,,+91 44 2495 6021,https://pssenior.edu.in/,medium
+schools,24270517,way,13.0318613,80.2767882,Santhome HSS,school,,,,,,,,medium
+schools,24339608,way,13.023896,80.276677,Foreshore Estate Elementary School,school,,,,,,,,medium
+schools,24339616,way,13.0224623,80.2612604,Raja Muthiah School,school,,,,,,,,medium
+schools,24339617,way,13.0223655,80.2628535,Harishri Vidyalayam,school,,,,,,,,medium
+schools,24339620,way,13.0175726,80.2686937,Chettinad Vidyashram School,school,,,,,,+91 44 2493 8040,https://chettinadvidyashram.org/,medium
+schools,24375417,way,13.0619177,80.2347055,Loyola College,college,,,,,,+91 44 2817 8200,https://www.loyolacollege.edu/,medium
+schools,24375531,way,13.0553827,80.2504191,MOP Vaishnav College for Women,college,,,,,,+91 44 2833 0262,https://mopvc.edu.in/,medium
+schools,24375563,way,13.0651061,80.2448873,Good Shepherd Convent,school,,,,,,,,medium
+schools,24375609,way,13.0642125,80.2519329,Asan Memorial Senior Secondary School,school,,,,,,+91 44 2827 5858,https://www.asancbse.com/,medium
+schools,24483959,way,13.0635638,80.2582261,Ethiraj College for Women,college,,,,,,+91 44 28279189,https://ethirajcollege.edu.in/,medium
+schools,24483965,way,13.0643719,80.2624764,Quaid-E-Millath College for Women,college,,,,,,+91-44-2852-0793,http://www.qmgcw.in/,medium
+schools,24730814,way,12.994664,80.233383,Indian Institute of Technology Madras,university,,Govt. of India,,,,,https://www.iitm.ac.in/,medium
+schools,24831558,way,13.0132621,80.2356267,"College of Engineering, Guindy",college,,,,,,,https://ceg.annauniv.edu/,medium
+schools,25618840,way,12.9739295,80.1854264,Modern Senior Secondary School,school,,,,,,,,medium
+schools,25619926,way,12.9746813,80.1846588,Modern Senior Secondary School (Primary),school,,,,,,,,medium
+schools,26422007,way,13.1384681,80.2966793,Corporation School,school,,,,,,,,medium
+schools,26562014,way,12.9501682,80.1408004,Hangar 1,college,,,,,,,,medium
+schools,26562015,way,12.9493305,80.1402225,Hangar 2,college,,,,,,,,medium
+schools,27199950,way,13.0501097,80.226315,Loyola and Fatima Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,27199951,way,13.0522676,80.2232472,Kodambakkam HSS,school,,,,,,,,medium
+schools,27199952,way,13.0417998,80.2244498,SRM NIGHTINGALE MATRICULATION HIGHER SECONDARY SCHOOL,school,,Valliammai Trust,,,,,,medium
+schools,27311864,way,13.0006185,80.2682376,Anna High School,school,,,,,,,,medium
+schools,27433214,way,13.0415427,80.2103041,Nirmala Girls HSS,school,,,,,,,,medium
+schools,27433215,way,13.0409326,80.2098343,Stella Matric,school,,,,,,,,medium
+schools,27433218,way,13.0368462,80.2092485,Kendriya Vidyalaya,school,,,,,,,,medium
+schools,27433219,way,13.0324807,80.2139365,Govt Girls School,school,,,,,,,,medium
+schools,27435143,way,13.0439936,80.1981562,Thai Sathia School,school,,,,,,,,medium
+schools,27460554,way,13.0585071,80.2046161,General Cariappa HSS,school,,,,,,,,medium
+schools,27483786,way,13.0386334,80.2511367,Corporation School,school,,,,,,,,medium
+schools,27484068,way,13.0449298,80.2491725,Reserve Bank Staff College,college,,,,,,,,medium
+schools,27618365,way,13.0861426,80.2827291,Unnamed,college,,,,,,,,medium
+schools,27618369,way,13.0833112,80.2809483,Unnamed,college,,,,,,,,medium
+schools,27642526,way,13.0329159,80.2540545,Unnamed,school,,,,,,,,medium
+schools,27643187,way,13.029455,80.2507695,Saint Francis Xavier,school,,,,,,,,medium
+schools,27768551,way,12.9927689,80.2329275,IIT Kendriya Vdyalaya,school,,,,,,,,medium
+schools,28068665,way,13.0409928,80.2414919,Holy Angels Convent,school,,,,,,+91 44 2815 5715,,medium
+schools,28068671,way,13.0404666,80.2459299,Kesari HSS,school,,,,,,,,medium
+schools,28085709,way,13.0406478,80.2342546,Ramakrishna Mission HSS,school,,,,,,,,medium
+schools,28085862,way,13.0348263,80.2341401,Ramakrishna HSS,school,,,,,,,,medium
+schools,28085986,way,13.0385835,80.251487,Unnamed,school,,,,,,,,medium
+schools,28120384,way,12.8636381,80.2448165,Indian Maritime University,college,,,,,,,,medium
+schools,28151245,way,13.0534088,80.2546021,Sacred Heart Matric,school,,,,,,,,medium
+schools,28152150,way,13.069234,80.2487861,Womens Christian College,college,,,,,,,https://wcc.edu.in/,medium
+schools,28162037,way,13.0728554,80.233605,Pachaiyappa's College,college,,,,,,044 42146843,https://pachaiyappascollege.edu.in/,medium
+schools,28162212,way,13.0745704,80.2349976,Maharishi Vidya Mandir,school,,,,,,+91 44 2642 7088,https://www.maharishividyamandirch.com/,medium
+schools,28163137,way,13.0767483,80.232009,St George's Anglo Indian Higher Secondary School,school,,,,,,,,medium
+schools,28234120,way,12.9992325,80.2467215,Unnamed,college,,,,,,,,medium
+schools,28260605,way,12.9181427,80.1220464,Madras Christian College,college,,,,,,,https://mcc.edu.in/,medium
+schools,28261437,way,12.9241582,80.1670784,SIVET College,college,,,,,,,,medium
+schools,28281732,way,13.005196,80.2632835,The School Krishnamurti Foundation India,school,,,,,,,,medium
+schools,28296057,way,13.079261,80.2460699,Kalki Saraswathi HSS,school,,,,,,,,medium
+schools,28318877,way,13.0402249,80.2685683,Sanskrit College,college,,,,,,,,medium
+schools,28318885,way,13.0402918,80.2692807,Savithri Ammal HSS,school,,,,,,,,medium
+schools,28345287,way,13.1060068,80.28712,Stanley Medical College,college,,,,,,,https://www.stanleymedicalcollege.in/,medium
+schools,28345323,way,13.1036514,80.2862843,Bharathi Womens College,college,,,,,,,,medium
+schools,28345325,way,13.1033651,80.2874295,Arts College Hostel,college,,,,,,,,medium
+schools,28402530,way,13.0320168,80.2714051,Ladies Sivasamy School,school,,,,,,,,medium
+schools,28402586,way,13.0326105,80.272233,Sivasamy Kalyana SSS,school,,,,,,,,medium
+schools,28405012,way,12.9785681,80.1839874,The Hindu Colony Chellammal Vidyalaya Senior Secondary School,school,,,,,,,,medium
+schools,28405027,way,12.9772163,80.1966351,New Prince Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,28405056,way,12.9680931,80.1913509,Sai Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,28405760,way,12.9973932,80.2535757,The Hindu Senior Secondary School,school,,,,,,,,medium
+schools,28502342,way,13.0621997,80.2541746,Asan Memorial HSS,school,,,,,,,,medium
+schools,28503858,way,13.0550804,80.2488452,Assumption HSS,school,,,,,,,,medium
+schools,28504274,way,13.0506551,80.2479803,Little Flower School for the Blind and Deaf,school,,,,,,,,medium
+schools,28507306,way,12.9905975,80.2209053,Guru Nanak School,school,,,,,,,,medium
+schools,28507322,way,12.9918201,80.2217491,Guru Nanak College,college,,,,,,,,medium
+schools,28534579,way,13.0047269,80.1937449,Marian Matriculation,school,,,,,,,,medium
+schools,28534585,way,13.0038167,80.1918103,St Johns Matriculation,school,,,,,,,,medium
+schools,28563208,way,13.0099118,80.2609781,Sri Sankara Senior Secondary School,school,,,,,,+91 44 2491 2510,https://www.srisankaraschools.org/seniorsecondary/,medium
+schools,28563210,way,13.0090265,80.2612144,Avvai Home,school,,,,,,,,medium
+schools,28563224,way,13.0058262,80.2593114,Sishya,school,,,,,,,,medium
+schools,28732095,way,13.0571428,80.2616819,Govt Hobart Girls HSS,school,,,,,,,,medium
+schools,28764650,way,13.1093264,80.2952174,St Peters HSS,school,,,,,,,,medium
+schools,28764688,way,13.110479,80.2922565,St Annes HSS,school,,,,,,,,medium
+schools,28764714,way,13.1116744,80.2944667,Kevins Anglo-Indian High School,school,,,,,,,,medium
+schools,28856428,way,12.9465362,80.2111621,National Institute of Ocean Technology,college,,,,,,+914466783300,https://www.niot.res.in/,medium
+schools,29044877,way,13.0705507,80.2555172,Don Bosco Matriculation Higher Secondary School,school,,,,,,+91 44 2819 4223,https://dbegmore.com/,medium
+schools,29044902,way,13.0699428,80.2544888,Don Bosco Primary,school,,,,,,,,medium
+schools,29046739,way,12.9899172,80.2547682,Corporation School,school,,,,,,,,medium
+schools,29046944,way,12.9874124,80.2658,Kalakshetra School of Fine Arts,college,,Trust,,,,,,medium
+schools,29047565,way,12.9914971,80.2643816,Besant Theosophical High School,school,,,,,,,,medium
+schools,29069721,way,13.077638,80.2780944,Kendriya Vidyalaya Island Grounds,school,,,,,,,,medium
+schools,29115468,way,13.0750067,80.2529694,Presidency Girls HSS,school,,,,,,,,medium
+schools,29115914,way,13.0725112,80.2616955,St Anthony's Anglo Indian HSS,school,,,,,,,,medium
+schools,29116127,way,13.0697243,80.2616973,School of Optometry,college,,,,,,,,medium
+schools,29252766,way,13.0497847,80.2465557,Bala Mandir School,school,,,,,,,,medium
+schools,29973860,way,12.9801245,79.9588482,Rajiv Gandhi National Institute of Youth Development,college,,,,,,,https://www.rgniyd.gov.in/,medium
+schools,30026135,way,12.9981742,80.2384114,Vanavani Matriculation Higher Secondary School,school,,,,,,,https://vanavani.iitm.ac.in/,medium
+schools,30026139,way,12.999392,80.2384706,Unnamed,school,,,,,,,,medium
+schools,30077687,way,13.1090843,80.1829591,Bakthavachalam Vidhyashram School,school,,,,,,,,medium
+schools,30246473,way,13.086112,80.2679044,Madras Veterinary College,college,,,,,,,,medium
+schools,30342333,way,12.981507,80.2611061,Thiruvanmiyur Corporation School,school,,,,,,,,medium
+schools,30342450,way,12.9765207,80.2599526,Sankara School,school,,,,,,,,medium
+schools,30342858,way,12.9729215,80.2623184,Nellai Nadar Matric HSS,school,,,,,,,,medium
+schools,30343118,way,12.9852776,80.2570368,Sri Sankara Vidyashram HSS,school,,,,,,,,medium
+schools,30343814,way,12.9932126,80.270383,Corpn School,school,,,,,,,,medium
+schools,30347103,way,13.0135619,80.2498096,Patrician College of Arts & Science,college,,,,,,,,medium
+schools,30347104,way,13.0121731,80.2494678,Saint Louis School for the Deaf and Blind,school,,,,,,,,medium
+schools,30347107,way,13.0107256,80.2503752,Saint Michaels Academy,school,,,,,,,,medium
+schools,30347109,way,13.0122023,80.2512049,Saint Patricks HSS,school,,,,,,,,medium
+schools,30347111,way,13.0109906,80.251801,KRMM School and Kumararani Meena Mutthaiah College,college,,,,,,,,medium
+schools,30347113,way,13.0100106,80.2512067,Bala Vidya Mandir,school,,,,,,,,medium
+schools,30348389,way,13.0099271,80.2572895,Rani Meyammai School,college,,,,,,,,medium
+schools,30394432,way,13.0018062,80.2537825,Corporation High School,school,,,,,,,,medium
+schools,30394613,way,13.0049308,80.2562415,Corporation Primary School,school,,,,,,,,medium
+schools,30394615,way,13.00166,80.2559352,Bharath HSS,school,,,,,,,,medium
+schools,30402674,way,13.0028334,80.2626097,Corporation Middle School,school,,,,,,,,medium
+schools,30606820,way,12.9847793,80.2071983,G. K. Shetty Hindu Vidhyalaya School,school,,,,,,,,medium
+schools,30749075,way,12.9488811,80.1407514,Madras Insitute of Technology - MIT Chromepet,college,,,,,,,,medium
+schools,30853376,way,13.0740652,80.2128089,DG Vaishnav College,college,,,,,,,https://www.dgvaishnavcollege.edu.in/,medium
+schools,30890106,way,13.055853,80.2036242,Karthikeyan Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,30973303,way,13.0899543,80.2385128,Institute of Mental Health - Kilpauk,college,,,,,,,,medium
+schools,30982264,way,13.0938196,80.2643719,Unnamed,school,,,,,,,,medium
+schools,31240968,way,12.9390299,80.1282978,National Institute for Siddha,college,,,,,,+91 44 22411611,https://nischennai.org/main/,medium
+schools,31276227,way,12.9490154,80.1397323,DCOE Office,college,,,,,,,,medium
+schools,31276228,way,12.9482974,80.139628,Lecture Hall Complex,college,,,,,,,,medium
+schools,31276232,way,12.9474415,80.1402109,Rubber and Plastics Technology,college,,,,,,,,medium
+schools,31276233,way,12.9480003,80.1400764,Department of Information Technology,college,,,,,,,,medium
+schools,31276234,way,12.948241,80.1402407,Department of Electonics Engineering - Old  Block,college,,,,,,,,medium
+schools,31796038,way,13.0848992,80.2601242,Unnamed,school,,,,,,,,medium
+schools,32510191,way,13.0399927,80.1998578,Padma Seshadri Bala Bhavan Senior Secondary School - PSBB KK Nagar,school,,,,,,,,medium
+schools,32544617,way,13.0097199,80.2177354,தமிழ்நாடு டாக்டர் எம்.ஜி.ஆர் மருத்துவப் பல்கலைக்கழகம்,university,,,,,,,,medium
+schools,32551130,way,13.0743699,80.2138581,Kolaperumal Chetty Vaishnav School,school,,,,,,,,medium
+schools,32551143,way,13.0799122,80.21069,Anna Adarsh College for Women,college,,,,,,+914426212089,https://annaadarsh.edu.in/,medium
+schools,32575333,way,13.0284231,80.2046269,M.A.Krishnasamy Matriculation School,school,,,,,,044 2489 6433,,medium
+schools,32589617,way,13.0660695,80.2700325,Christ Church Anglo Indian High Secondary School,school,,,,,,,,medium
+schools,32616590,way,13.036397,80.2110534,Police Training College,college,,,,,,,,medium
+schools,32666151,way,13.0140278,80.2211904,Chellammal College,college,,,,,,,,medium
+schools,32686279,way,13.0239605,80.1953267,Army School,school,,,,,,,,medium
+schools,32827402,way,13.082219,80.2565905,CSI Ewarts School,school,,,,,,,,medium
+schools,32896974,way,13.0116305,80.19484,St. Joseph School,school,,,,,,,,medium
+schools,32896988,way,13.008899,80.1952137,RC School,school,,,,,,,,medium
+schools,33010477,way,13.0291499,80.273823,Saint Lazarus School,school,,,,,,,,medium
+schools,33069085,way,13.225311,80.3222459,Kathivakkam HSS,school,,,,,,,,medium
+schools,33076141,way,13.159854,80.3011837,Government School,school,,,,,,,,medium
+schools,33076143,way,13.1589697,80.3014512,Dharam Hinduja Matric HSS,school,,,,,,,,medium
+schools,33076157,way,13.1568904,80.3026674,Sri Ram Dayal Khemka Vivekananda Vidyalaya Junior College,school,,,,,,+91 44 2345 5940,https://srdkvv.org/Home.aspx,medium
+schools,33076158,way,13.1550763,80.3018522,Our Lady's Convent,school,,,,,,,,medium
+schools,33077485,way,13.1675715,80.3061768,Vellayan Chettiar HSS,school,,,,,,,,medium
+schools,33267223,way,13.0299972,80.2510158,Bon Secours Convent,school,,,,,,,,medium
+schools,33300163,way,12.9822529,80.2465338,American International School Chennai,school,,,,,,+91 44 2254 9000,https://www.aischennai.org/,medium
+schools,33622104,way,13.0827778,80.2453168,CSI Bains School,school,,,,,,,,medium
+schools,33622438,way,13.0838787,80.2405025,Bhavans,school,,,,,,,,medium
+schools,33622823,way,13.0798919,80.266335,Government College of Arts and Crafts,college,,,,,,+91 44 25610878,https://artandculture.tn.gov.in/fine-arts-college-chennai,medium
+schools,33629938,way,13.0503886,80.0915019,Holy Crescent School,school,,,,,,,,medium
+schools,33630537,way,13.0506716,80.106446,Sarojini Girls HSS,school,,,,,,,,medium
+schools,33630558,way,13.0500445,80.1084716,Poonamallee Government HSS,school,,,,,,,,medium
+schools,33630846,way,13.0472309,80.1069481,Poonamallee Blind School,school,,,,,,,,medium
+schools,33630851,way,13.0439659,80.1102483,Sacred Heart Seminary,college,,,,,,+91 44 2627 2171,https://www.shschennai.org/,medium
+schools,33630904,way,13.0457467,80.1106732,Don Guanella Major Seminary,school,,,,,,,,medium
+schools,33744319,way,13.0293238,80.2389881,Government Arts College for Men,college,,,,,,+91 44 2435 1048,https://gacnandanam.com/,medium
+schools,33938373,way,13.0273288,80.244254,Government HSS,school,,,,,,,,medium
+schools,33938568,way,13.027496,80.2433399,Boston Matriculation,school,,,,,,,,medium
+schools,34016632,way,13.0426429,80.1983611,Unnamed,school,,,,,,,,medium
+schools,34023081,way,13.0382345,80.197693,Unnamed,school,,,,,,,,medium
+schools,34028125,way,13.0344616,80.202591,Government HSS,school,,,,,,,,medium
+schools,34133590,way,13.0506806,80.1979979,AV Meiyappan MHSS,school,,,,,,+91 44 4264 2222,,medium
+schools,34140559,way,13.0573182,80.1814563,M.R Matriculation Higher Secondary School,school,,,,,,+91 44 2479 8941,https://www.mrschool.in/index.php,medium
+schools,34159270,way,13.0863632,80.1827096,Velammal Matriculation Higher Secondary School,school,,,,,,+91 44 2656 0063,https://velammalmatric.com/,medium
+schools,34159305,way,13.0828622,80.1818479,MGR Adarsh school,school,,,,,,,,medium
+schools,34159306,way,13.0833215,80.1856988,Unnamed,school,,,,,,,,medium
+schools,34159543,way,13.0064187,80.2021367,Hindustan Institute of Engineering Technology,college,,,,,,+91 44 2234 1389,https://www.hiet.in/,medium
+schools,34159548,way,13.0064695,80.1983139,Montfort Matriculation,school,,,,,,,,medium
+schools,34159549,way,13.0068841,80.1972781,St Helens HSS,school,,,,,,,,medium
+schools,34159550,way,13.0061506,80.1972354,Dominics Girls HSS,school,,,,,,,,medium
+schools,34159551,way,13.0079735,80.1982503,St Thomas HSS,school,,,,,,,,medium
+schools,34230318,way,13.0346786,80.2389465,Hindi Prachar Sabha,school,,,,,,,,medium
+schools,34326336,way,13.0911959,80.2847705,St. Thomas Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,34326337,way,13.091516,80.2833071,Sri Kanyaka Parameswari Arts & Science College for Women,college,,,,,,,,medium
+schools,34552720,way,13.0837844,80.211866,Krinshnaswamy School,school,,,,,,,,medium
+schools,34618436,way,12.9307741,80.0446872,Dhanalakshmi College of Engineering,college,,,,,,,,medium
+schools,34629719,way,13.1183275,80.1548504,Government Girls HSS,school,,,,,,,,medium
+schools,34690677,way,13.0834739,80.2068235,Unnamed,school,,,,,,,,medium
+schools,34690678,way,13.0836693,80.2016179,Unnamed,school,,,,,,,,medium
+schools,34690679,way,13.0835703,80.2042416,Unnamed,school,,,,,,,,medium
+schools,35008212,way,13.0166587,80.2628383,Tamil Nadu Government College of Classical Music,college,,,,,,,,medium
+schools,35013506,way,13.0166563,80.264162,Ambedkar Law University - School of Excellence,college,,,,,,,,medium
+schools,35015054,way,13.0190589,80.242,AMM School,school,,,,,,,,medium
+schools,35070068,way,13.0485157,80.197904,Avichi School,school,,,,,,,,medium
+schools,35457616,way,12.9450354,80.2437758,MNM Jain Engineering College,college,,,,,,,https://mnmjec.ac.in/,medium
+schools,35464251,way,13.0771021,80.2367047,Unnamed,school,,,,,,,,medium
+schools,35464358,way,13.0714734,80.2368742,Madras Christian College Higher Secondary School,school,,,,,,+91 44 2836 5205,http://www.mccschool.edu.in/,medium
+schools,35475184,way,13.025514,80.2193208,Chennai Boys Higher Secondary School,school,,Corporation of Chennai,,,,,,medium
+schools,35572295,way,12.985188,80.2499978,Spastic Society of india,school,,,,,,,,medium
+schools,35572308,way,12.984388,80.2515083,National Institute of Fashion Technology - NIFT Chennai,college,,,,,,,,medium
+schools,35572368,way,12.987717,80.2496996,National Institute of Technical Teachers' Training and Research,college,,Ministry of Education-Govt. of India,,,,,https://www.nitttrc.ac.in/,medium
+schools,35572405,way,12.9882189,80.2446482,Council of Scientific and Industrial Research - CSIR Taramani,college,,,,,,,,medium
+schools,35573178,way,12.9846435,80.2422064,Shri A. M. M. Murugappa Chettiar Research Centre,college,,,,,,,https://amm-mcrc.org/,medium
+schools,35678097,way,12.9989601,80.266042,Vidya Vinaya Vinoda Matriculation Hr. Sec. School,school,,,,,,,,medium
+schools,37133364,way,12.9473629,80.139608,Instrumentation Engineering Block-1,college,,,,,,,,medium
+schools,37133365,way,12.9480126,80.1393658,Admin Block & Dean Office,college,,,,,,,,medium
+schools,37133367,way,12.9475477,80.1392671,Instrumentation Engineering Block-2,college,,,,,,,,medium
+schools,39398169,way,13.0397476,80.2703868,Unnamed,school,,,,,,,,medium
+schools,43157498,way,13.1168767,80.1494176,Ramaswamy Mudaliar School,school,,,,,,,,medium
+schools,43442316,way,12.9496986,80.140615,Central Workshop,college,,,,,,,,medium
+schools,43826805,way,12.9432926,80.1410436,ayyasami school,school,,,,,,,,medium
+schools,43826806,way,12.9426898,80.1416877,NSN school,school,,,,,,,,medium
+schools,43826808,way,12.9485579,80.1396563,Rajam Lecture Hall Complex,college,,,,,,,,medium
+schools,44008445,way,12.8283765,80.2203926,Chennai Mathematical Institute,university,,,,,,,https://www.cmi.ac.in/,medium
+schools,47109372,way,13.0974826,80.2914535,Measi Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,47415265,way,13.0984059,80.2760399,Doctor Guruswamy HSS,school,,,,,,,,medium
+schools,47416286,way,13.0993397,80.2817921,Unnamed,school,,,,,,,,medium
+schools,47473073,way,13.0434177,80.2659655,Kesari High School,school,,,,,,,,medium
+schools,47474025,way,13.0455546,80.2693652,The Children's Garden Higher Secondary School,school,,,,,,,,medium
+schools,47474028,way,13.0471241,80.2719879,Unnamed,school,,,,,,,,medium
+schools,47474044,way,13.0487339,80.2751488,Unnamed,school,,,,,,,,medium
+schools,47497700,way,13.0556162,80.2708897,Unnamed,school,,,,,,,,medium
+schools,47497705,way,13.055744,80.2751646,Unnamed,school,,,,,,,,medium
+schools,47497714,way,13.0576857,80.275294,Unnamed,school,,,,,,,,medium
+schools,47497716,way,13.0541072,80.2810315,Unnamed,college,,,,,,,,medium
+schools,47497721,way,13.0554783,80.2812299,Bharat Scouts and Guides,school,,,,,,,,medium
+schools,47498761,way,13.0599602,80.2751833,Unnamed,school,,,,,,,,medium
+schools,47498772,way,13.0639178,80.276132,Unnamed,school,,,,,,,,medium
+schools,47798613,way,12.9840888,80.1786726,Agurchand Manmull Jain College,college,,,,,,,https://www.amjaincollege.edu.in/;http://www.amjaincollege.edu.in/,medium
+schools,47997864,way,13.0860811,80.2637419,Unnamed,school,,,,,,,,medium
+schools,48048694,way,13.1030929,80.2662174,St Joseph Technical Institute,college,,,,,,,,medium
+schools,48048704,way,13.0970728,80.2588707,Unnamed,school,,,,,,,,medium
+schools,48048742,way,13.1048406,80.2652473,Unnamed,school,,,,,,,,medium
+schools,48048748,way,13.1078533,80.2627471,Unnamed,school,,,,,,,,medium
+schools,48049861,way,13.0892083,80.2593851,Unnamed,school,,,,,,,,medium
+schools,48049865,way,13.0897518,80.2631589,Unnamed,school,,,,,,,,medium
+schools,48049879,way,13.090993,80.264858,Unnamed,school,,,,,,,,medium
+schools,48057016,way,13.0900483,80.2593295,Unnamed,school,,,,,,,,medium
+schools,48057022,way,13.0869696,80.2531474,Unnamed,school,,,,,,,,medium
+schools,48057024,way,13.0898534,80.2542218,Unnamed,school,,,,,,,,medium
+schools,48057029,way,13.0936059,80.2476055,Unnamed,college,,,,,,,,medium
+schools,48132807,way,13.1045869,80.2529058,Unnamed,school,,,,,,,,medium
+schools,48133615,way,13.1071017,80.2483687,Unnamed,school,,,,,,,,medium
+schools,48133626,way,13.1000869,80.2510846,Unnamed,school,,,,,,,,medium
+schools,48133638,way,13.1036471,80.246705,Unnamed,school,,,,,,,,medium
+schools,48737650,way,13.1047945,80.2432041,Unnamed,school,,,,,,,,medium
+schools,48738650,way,13.0856463,80.2394411,Unnamed,school,,,,,,,,medium
+schools,48741304,way,13.1027793,80.2214077,ICF School,school,,,,,,,,medium
+schools,48741330,way,13.1004554,80.218993,ICF School,school,,,,,,,,medium
+schools,48741372,way,13.0995297,80.220804,ICF School,school,,,,,,,,medium
+schools,51132532,way,13.1088874,80.2400279,St Joseph's Higher Secondary School,school,,,,,,,,medium
+schools,51541566,way,13.0219805,80.2273664,Teacher Training College,college,,,,,,,,medium
+schools,53470463,way,13.111005,80.2412523,Unnamed,school,,,,,,,,medium
+schools,53470466,way,13.1096862,80.2411617,Savio School,school,,,,,,,,medium
+schools,53470477,way,13.1123629,80.2411788,Higher Secondary School,school,,,,,,,,medium
+schools,53473824,way,13.1142544,80.2425634,Unnamed,school,,,,,,,,medium
+schools,53473826,way,13.1113287,80.2449433,Unnamed,school,,,,,,,,medium
+schools,54584266,way,13.0745285,80.1925083,Daniel Thomas HSS,school,,,,,,,,medium
+schools,55058244,way,13.0635335,80.2570839,Ethiraj Annex,college,,,,,,,,medium
+schools,55570584,way,12.9817682,80.2554298,Sacred Heart College,college,,,,,,,,medium
+schools,84087729,way,12.9543604,79.9416185,Unnamed,school,,,,,,,,medium
+schools,84723041,way,12.9650593,80.1281996,Unnamed,university,,,,,,,,medium
+schools,85733338,way,13.0566099,80.263521,Wesley Higher Secondary School,school,,,,,,+91 44 2858 9010,http://wesleyschool.in/,medium
+schools,95639900,way,13.0529583,80.0751953,Panimalar Engineering College,college,,,,,,,https://www.panimalar.ac.in/,medium
+schools,95639919,way,13.0268465,80.0168579,Unnamed,college,,,,,,,,medium
+schools,95639920,way,13.0263951,80.0324653,Unnamed,college,,,,,,,,medium
+schools,98357283,way,12.865304,80.0768452,Urapakkam High School,school,,,,,,,,medium
+schools,100554435,way,12.8564378,80.0982614,Police Academy,school,,,,,,,,medium
+schools,102550222,way,13.1253331,80.2492854,"Don  Bosco Mat.Hr.Sec. School,Erukkancheri",school,,,,,,,,medium
+schools,102577588,way,13.0375821,80.0552079,Unnamed,college,,,,,,,,medium
+schools,102655671,way,12.9603903,80.0568453,Sairam Group of Private Penitary,college,,Balu,,,,,,medium
+schools,102664282,way,13.1800144,80.1964701,Unnamed,college,,,,,,,,medium
+schools,104677233,way,13.0152425,80.2237755,Unnamed,school,,,,,,,,medium
+schools,106356406,way,13.0014138,80.2066514,Unnamed,school,,,,,,,,medium
+schools,106356412,way,13.0012883,80.2056884,Unnamed,school,,,,,,,,medium
+schools,106356414,way,13.00196,80.2062973,Unnamed,school,,,,,,,,medium
+schools,118695817,way,13.0376442,80.2127136,Jawahar Higher Secondary School,school,,,,,,,,medium
+schools,122063613,way,13.0367124,80.1709592,Unnamed,school,,,,,,,,medium
+schools,122770270,way,12.8404877,80.0604478,Government Girls Higher Secondary School,school,,,,,,,,medium
+schools,123059912,way,12.8416707,80.0626888,Government Boys Higher Secondary School,school,,Government,,,,,,medium
+schools,125234674,way,13.1171223,80.2602347,Dr. Ambedkar Government Arts College,college,,,,,,044 2552 0151,http://www.daga.co.in/,medium
+schools,128920944,way,12.7520143,80.196255,SSN College of Engineering,college,,,,,,,https://www.ssn.edu.in/,medium
+schools,131961752,way,12.9719793,80.2552339,Antony School,school,,,,,,,,medium
+schools,132063266,way,12.9665913,80.2567007,Govt School,school,,,,,,,,medium
+schools,132065414,way,12.9760543,80.2496736,YMCA Boys HSS,school,,,,,,,,medium
+schools,132073185,way,12.9780788,80.2439157,Unnamed,college,,,,,,,,medium
+schools,132191278,way,12.9792288,80.2462895,University Of Madras - Taramani Campus,university,,,,,,,,medium
+schools,132510315,way,12.9824332,80.244412,The Institute of Road Transport,college,,,,,,,https://irtchennai.in/index.php/en/,medium
+schools,138307647,way,13.1056111,80.1831878,Unnamed,school,,,,,,,,medium
+schools,144877281,way,13.1114072,80.2639223,Don Bosco Higher Secondary School,school,,,,,,,,medium
+schools,144877283,way,13.1115714,80.2661184,Unnamed,school,,,,,,,,medium
+schools,157121739,way,12.9212147,80.1810426,Quaid-e-milleth College,college,,,,,,,,medium
+schools,157547514,way,13.0248763,80.2672667,St. Johns Matriculation School,school,,,,,,,,medium
+schools,157549275,way,13.0254382,80.2676865,St.Johns Senior Secondary School,school,,,,,,,,medium
+schools,158851236,way,12.8748595,80.0833803,BS Abdur Rahman University,university,,,,,,,,medium
+schools,164933758,way,12.9722987,80.2225998,D.A.V Public School,school,,,,,,+91 44 6606 9806,https://davpsvelacherychennai.edu.in/,medium
+schools,166562081,way,12.851704,80.1730022,Unnamed,college,,,,,,,,medium
+schools,172830294,way,12.9156067,80.1872569,New Prince Shri Bhavani Arts and Science College,college,,,,,,,,medium
+schools,179246857,way,12.942884,80.191395,Goverment School,school,,,,,,,,medium
+schools,183882478,way,13.0349671,80.2256323,Sri Ahobila Math Oriental Higher Secondary School,school,,,,,,+91 44 2471 7555,http://sriahobilamathschool.com,medium
+schools,183882994,way,13.0360024,80.226848,Sri Narayana Mission School,school,,,,,,,,medium
+schools,185282947,way,13.0095884,80.2388727,"University of Madras, Guindy Campus",college,,,,,,,,medium
+schools,185284099,way,13.0081052,80.2383995,Alagappa College of Technology,college,,,,,,,https://www.annauniv.edu/act/,medium
+schools,185284100,way,13.0078314,80.2398204,School of Architecture and Planning,college,,,,,,,https://www.annauniv.edu/Architecture/,medium
+schools,185317256,way,13.0094393,80.2325852,Unnamed,college,,,,,,,,medium
+schools,188162845,way,12.9726497,80.2202855,Shri A Ganesan Matric School,school,,,,,,,,medium
+schools,203214270,way,12.9409635,80.1987888,A School,school,,,,,,,,medium
+schools,205219589,way,12.9877136,80.1859178,Municipal Primary School,school,,,,,,,,medium
+schools,208569732,way,13.0285552,80.2740988,Unnamed,school,,,,,,,,medium
+schools,208570709,way,13.0342613,80.2761306,St Raphael's Girls HSS,school,,,,,,,,medium
+schools,208570719,way,13.0341048,80.2771915,Unnamed,school,,,,,,,,medium
+schools,208570720,way,13.0328819,80.2707645,Unnamed,school,,,,,,,,medium
+schools,208570721,way,13.0349663,80.2771417,Unnamed,college,,,,,,,,medium
+schools,208587952,way,13.038546,80.2707215,Unnamed,school,,,,,,,,medium
+schools,209551264,way,12.981372,80.2027284,D. A. V School,school,,,,,,+91 44 2260 1845,https://www.davadambakkam.org/index.html,medium
+schools,211121332,way,12.8655355,80.2282105,Balaji Seamen Training Institute,college,,,,,,,,medium
+schools,211531361,way,13.0256271,80.2602387,Unnamed,school,,,,,,,,medium
+schools,211900028,way,13.0161095,80.2388871,Anna GEM Science Park Matriculation Higher Secondary School,school,,,,,,+91 44 2235 5757,https://annagemschool.com/,medium
+schools,211900030,way,13.00909,80.2439623,Central Leather Research Institute - CLRI,college,,Govt. of India,,,,,https://www.clri.org/,medium
+schools,211900080,way,13.0107985,80.2460166,Unnamed,school,,,,,,,,medium
+schools,214202947,way,13.0351659,80.2184234,Unnamed,school,,,,,,,,medium
+schools,214366887,way,13.0193473,80.2148644,Annai Velankanni College,college,,,,,,,,medium
+schools,214375582,way,13.0551886,80.2527807,Unnamed,school,,,,,,,,medium
+schools,214379309,way,13.0253273,80.2145078,Saint Mary's School,school,,,,,,,,medium
+schools,214599859,way,13.0286287,80.2248339,Unnamed,school,,,,,,,,medium
+schools,214599861,way,13.0131022,80.2253516,Unnamed,school,,,,,,,,medium
+schools,214599871,way,13.010221,80.231514,Unnamed,college,,,,,,,,medium
+schools,214698653,way,13.0759011,80.2719402,Unnamed,school,,,,,,,,medium
+schools,214698661,way,13.0764819,80.271938,Unnamed,school,,,,,,,,medium
+schools,215526716,way,13.0515531,80.2212919,Unnamed,school,,,,,,,,medium
+schools,215526717,way,13.0471669,80.2177246,Unnamed,school,,,,,,,,medium
+schools,215526719,way,13.0431125,80.2177446,Unnamed,school,,,,,,,,medium
+schools,215529547,way,13.0411917,80.2153852,Jawahar Senior Secondary School,school,,,,,,,,medium
+schools,215529553,way,13.0403183,80.2142775,Unnamed,school,,,,,,,,medium
+schools,215762564,way,13.0324798,80.2170155,Unnamed,school,,,,,,,,medium
+schools,217637692,way,13.1084478,80.2720023,Chennai Corporation School,school,,,,,,,,medium
+schools,217657447,way,13.0500499,80.2699726,Unnamed,school,,,,,,,,medium
+schools,217684164,way,13.0842141,80.2645193,Unnamed,college,,,,,,,,medium
+schools,217691748,way,13.0349386,80.2369303,Unnamed,school,,,,,,,,medium
+schools,217731073,way,13.0351945,80.2322138,sri ramakrishna mission sarada vidyalaya model higher secondary school for girls,school,,,,,,,,medium
+schools,217745267,way,13.0622065,80.2307061,Corporation Boys Higher Secondary School,school,,,,,,,,medium
+schools,217745268,way,13.0599925,80.2311335,Government Girls Higher Secondary School,school,,,,,,,,medium
+schools,217745269,way,13.0635331,80.224639,"Kendriya Vidyalaya, Gill Nagar",school,,,,,,,,medium
+schools,217747553,way,13.0636149,80.2281297,Kidzee School,school,,,,,,,,medium
+schools,217750108,way,13.054902,80.2275017,Meenakshi College for Women,college,,,,,,+91 44 2472 5466,https://www.meenakshicollege.com/,medium
+schools,217750109,way,13.0552675,80.2270922,Meenakshi Sunderarajan College of Engineering,college,,,,,,,,medium
+schools,217750136,way,13.059506,80.2276236,Unnamed,school,,,,,,,,medium
+schools,217750138,way,13.0600774,80.2292018,Unnamed,school,,,,,,,,medium
+schools,217753848,way,13.051748,80.2170217,Unnamed,school,,,,,,,,medium
+schools,217753849,way,13.051167,80.2145862,Unnamed,school,,,,,,,,medium
+schools,217757168,way,13.0644647,80.2153464,Unnamed,school,,,,,,,,medium
+schools,217757169,way,13.0674961,80.2154423,Unnamed,school,,,,,,,,medium
+schools,217760906,way,13.0658388,80.213478,Unnamed,school,,,,,,,,medium
+schools,217760908,way,13.0694698,80.2145593,Unnamed,school,,,,,,,,medium
+schools,217763975,way,13.0002357,80.2583504,Vidya Ratna PTS Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,217767228,way,13.0592924,80.2524818,Unnamed,school,,,,,,,,medium
+schools,217767931,way,13.0295245,80.2345421,Unnamed,school,,,,,,,,medium
+schools,217797447,way,13.07283,80.2299005,Unnamed,school,,,,,,,,medium
+schools,217797451,way,13.0736742,80.2285916,Unnamed,school,,,,,,,,medium
+schools,217797453,way,13.0694311,80.2328466,Unnamed,school,,,,,,,,medium
+schools,217802907,way,13.0517607,80.2109849,SRM University - City Campus,college,,,,,,,,medium
+schools,217860912,way,13.1165171,80.2843681,Sir Theagaraya College,college,,,,,,04425951300,https://stcchennai.edu.in/,medium
+schools,217864792,way,13.1174704,80.2914582,Unnamed,school,,,,,,,,medium
+schools,217864793,way,13.1242592,80.2907515,Unnamed,school,,,,,,,,medium
+schools,217864796,way,13.1186909,80.291712,Unnamed,school,,,,,,,,medium
+schools,217864799,way,13.1166062,80.2901856,Unnamed,school,,,,,,,,medium
+schools,217864800,way,13.1179732,80.2924605,Unnamed,school,,,,,,,,medium
+schools,217865455,way,13.1178695,80.296362,C.S.I. Northwick Girls' Higher Secondary School,school,,,,,,,,medium
+schools,217865828,way,13.1187477,80.2977955,Unnamed,school,,,,,,,,medium
+schools,217870939,way,13.1170683,80.2792334,Unnamed,school,,,,,,,,medium
+schools,217870941,way,13.1207385,80.2806296,Unnamed,college,,,,,,,,medium
+schools,217875245,way,13.1082569,80.2788643,Unnamed,college,,,,,,,,medium
+schools,217904437,way,13.115473,80.2592524,Unnamed,school,,,,,,,,medium
+schools,217904441,way,13.1177675,80.2568464,Unnamed,school,,,,,,,,medium
+schools,217906527,way,13.109304,80.2367009,Unnamed,school,,,,,,,,medium
+schools,217906528,way,13.120885,80.2418874,Unnamed,college,,,,,,,,medium
+schools,217906531,way,13.122061,80.262288,Unnamed,school,,,,,,,,medium
+schools,217906534,way,13.1196956,80.2391542,School Ground,school,,,,,,,,medium
+schools,217920755,way,13.1218333,80.2339192,Unnamed,school,,,,,,,,medium
+schools,217922859,way,13.0987875,80.2310963,Unnamed,school,,,,,,,,medium
+schools,217930035,way,13.1072147,80.2016713,Unnamed,school,,,,,,,,medium
+schools,217933046,way,13.113031,80.2253707,Periyar Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,217933049,way,13.1139135,80.2290139,Unnamed,school,,,,,,,,medium
+schools,217940549,way,13.1135045,80.2470848,Unnamed,college,,,,,,,,medium
+schools,217952453,way,13.1109331,80.2731211,Chennai Corporation School,school,,,,,,,,medium
+schools,218144562,way,13.0493178,80.2410069,Padma Seshadri Bala Bhavan School,school,,,,,,,,medium
+schools,218144573,way,13.0325438,80.2378997,Thakkar Bapa Vidyalaya,school,,,,,,,,medium
+schools,218144939,way,13.0571663,80.2387791,Unnamed,school,,,,,,,,medium
+schools,218191086,way,13.0745641,80.2394695,Unnamed,college,,,,,,,,medium
+schools,218191088,way,13.080777,80.2541408,Sir M. Ct. Muthiah Chettiar Boys Higher Secondary School,school,,,,,,,,medium
+schools,218212412,way,13.1315787,80.2595112,Unnamed,school,,,,,,,,medium
+schools,218212413,way,13.1442892,80.2903912,Unnamed,school,,,,,,,,medium
+schools,218212415,way,13.1450763,80.2905359,Unnamed,school,,,,,,,,medium
+schools,218216037,way,13.083967,80.2385919,Unnamed,school,,,,,,,,medium
+schools,218216038,way,13.0877791,80.2621687,Unnamed,school,,,,,,,,medium
+schools,218221723,way,13.0561209,80.2005854,Unnamed,school,,,,,,,,medium
+schools,219390038,way,12.9455385,80.2078132,Jerusalem College of Engineering,college,,,,,,+91 44 6619 9500,http://www.jerusalemengg.ac.in/,medium
+schools,219390066,way,12.9440152,80.207759,Balaji Dental college,college,,,,,,,,medium
+schools,219558917,way,13.0753222,80.2076747,Unnamed,school,,,,,,,,medium
+schools,237099388,way,12.8625382,80.2067658,HLC International,school,,,,,,+91 9962805259,https://www.headstartschool.org/,medium
+schools,240461919,way,13.0546307,80.2608934,PN Dhawan Adasrsh Vidyalaya,school,,Punjab Association,,,,,,medium
+schools,240494399,way,13.0708994,80.252654,Madras School of Social Work,college,,,,,,,,medium
+schools,240501600,way,13.0574917,80.2408633,Nungambakkam Boys HSS,school,,,,,,,,medium
+schools,240501608,way,13.0502156,80.2394937,Unnamed,school,,,,,,,,medium
+schools,240525449,way,13.0567696,80.2371635,Unnamed,school,,,,,,,,medium
+schools,240869137,way,13.0267791,80.2753523,Unnamed,school,,,,,,,,medium
+schools,240919858,way,13.0645723,80.2701087,Unnamed,school,,,,,,,,medium
+schools,240980215,way,13.0845285,80.2671366,Unnamed,school,,,,,,,,medium
+schools,240980217,way,13.0826405,80.2550926,Unnamed,school,,,,,,,,medium
+schools,241028007,way,13.0794261,80.2229336,Thiru-Vi-Ka Boys Higher Secondary School,school,,,,,,,,medium
+schools,243880686,way,13.0025398,80.1484193,Lalaji Memorial Omega International School,school,,,,,,,,medium
+schools,249316576,way,13.1264773,79.9121636,Shri Niketan School,school,,,,,,,,medium
+schools,254797755,way,13.2779608,80.2590196,DV Reddy Government Higher School,school,,,,,,,,medium
+schools,254983805,way,13.2767831,80.2572773,Vikekananda vidhyalaya,school,,,,,,,,medium
+schools,255505185,way,13.0254727,80.2185845,Chennai Girls Higher Secondary School,school,,Corporation of Chennai,,,,,,medium
+schools,265587323,way,12.837076,80.0662056,St. Mary's Matriculation Hr. Sec School,school,,Good Shepherd Church,,,,,,medium
+schools,279278869,way,12.7914493,80.034144,Sivananda Women's ITI (proposed),school,,,,,,,,medium
+schools,297184670,way,12.8279013,80.0481424,Vidya Mandir,school,,,,,,,,medium
+schools,297184907,way,12.9215511,80.1266749,MCC Campus School,school,,,,,,,,medium
+schools,297497481,way,12.9233908,80.1320689,Sri Sankara Vidyalaya Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,297497796,way,12.9222092,80.1319031,Christ King Girls Higher Secondary School Ground,school,,,,,,,,medium
+schools,297497842,way,12.9255665,80.1286518,Sita devi garodia hindu vidyalaya play ground,school,,,,,,,,medium
+schools,297517645,way,12.9080286,80.1394614,Bharath Institute of Higher Education and Research,university,,,,,,,https://www.bharathuniv.ac.in/,medium
+schools,297691511,way,12.9169457,80.1163495,Corley Higher Secondary School Ground,school,,,,,,,,medium
+schools,301242245,way,12.9316372,80.1286451,Jaigopal Garodia National Higher Secondary School,school,,,,,,,,medium
+schools,326514371,way,13.1082117,80.1196135,"St.Peter’s Institute of Higher Education and Research,Avadi,",college,,,,,,,,medium
+schools,333385672,way,13.0265816,80.2362229,Unnamed,college,,,,,,,,medium
+schools,336095563,way,12.8419815,80.154934,Vellore Institute of Technology - Chennai,university,,VIT,,,,,https://chennai.vit.ac.in/,medium
+schools,336952245,way,13.2133483,80.147186,Gojan School of Business and Technology,college,,,,,,,https://www.gojaneducation.com/,medium
+schools,337543765,way,13.0231547,80.2179272,Unnamed,school,,,,,,,,medium
+schools,339508304,way,13.0200875,80.2206527,C.S.I. Middle School,school,,,,,,,,medium
+schools,339533629,way,13.0198473,80.2221127,Unnamed,school,,,,,,,,medium
+schools,339877359,way,13.0241408,80.2260961,Vidhya Sagara Brotherhood aided Middle School,school,,Saidapet Annadhana & School Charity Trust,,,,,,medium
+schools,339882890,way,13.0359645,80.2208609,Sri Sitaram Vidhyalaya,school,,Sri Ram Samaj,,,,,,medium
+schools,344469663,way,12.9990644,80.2143443,Unnamed,school,,,,,,,,medium
+schools,348294605,way,13.0417604,80.2280973,B.S.Mootha Girls Senior Secondary School,school,,,,,,,,medium
+schools,348495070,way,13.0165648,80.2445274,Chennai Primary School,school,,Corporation of Chennai,,,,,,medium
+schools,348495071,way,13.0188201,80.2450928,Advent Primary School,school,,Advent Christian Confrence,,,,,,medium
+schools,349586216,way,13.1169159,80.1441995,Thiruvengada Nagar School,school,,,,,,,,medium
+schools,349587480,way,13.1164942,80.1480196,TI Matriculation Higher Secondary School,school,,,,,,,https://tischool.org/,medium
+schools,354250115,way,13.1022152,80.199169,Padma Sarangapani School,school,,,,,,,,medium
+schools,354496960,way,13.0349719,80.2287092,Building I,college,,,,,,,,medium
+schools,354496963,way,13.0342727,80.228584,Tarachand Galada jain Matriculation School,school,,,,,,,,medium
+schools,354497099,way,13.034713,80.2284609,Building III,college,,,,,,,,medium
+schools,354497301,way,13.0342679,80.228855,Building II,college,,,,,,,,medium
+schools,354569784,way,12.9817436,80.2261918,St. Savio Matriculation Higher secondary school,school,,,,,,,,medium
+schools,354794621,way,12.9806116,80.244802,Unnamed,university,,,,,,,,medium
+schools,354803312,way,13.0418722,80.2240541,SRM (Primary Section),school,,Valliammai Trust,,,,,,medium
+schools,354814768,way,13.0649343,80.2225596,DAV Primary Secondary School,school,,,,,,,,medium
+schools,354821517,way,13.0415574,80.2223614,Unnamed,school,,,,,,,,medium
+schools,355020654,way,12.9595717,80.2401239,Panchayat School,school,,,,,,,,medium
+schools,355049844,way,12.93586,80.2046868,St. Antony's School,school,,,,,,,,medium
+schools,355074376,way,13.0350817,80.2256742,Sri Maharishi Vasudeva Vidyalaya,school,,,,,,,,medium
+schools,367932380,way,12.9986824,79.9834284,Kings Engineering College,college,,,,,,,,medium
+schools,368728398,way,12.7783002,79.8518803,Unnamed,college,,,,,,,,medium
+schools,369457521,way,13.0512116,80.2580623,Gopalapuram Boys Higher Secondary School,school,,,,,,,,medium
+schools,369893918,way,12.9565502,80.1335869,Srimathi Sundaravalli Memorial School,school,,,,,,,,medium
+schools,371688528,way,13.0083107,80.0033108,Rajalakshmi Engineering College,college,,,,,,+91 44 67181111,https://www.rajalakshmi.org/,medium
+schools,373792906,way,13.0357893,80.2377712,Guntur Subbiah Pillai Girls Higher Secondary,school,,,,,,,,medium
+schools,374049782,way,12.9986398,80.2580196,Sri Mylai Karpagavalli Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,384143056,way,12.9926535,80.0860538,Unnamed,college,,,,,,,,medium
+schools,387329867,way,13.0514923,80.2747099,Unnamed,school,,,,,,,,medium
+schools,393946464,way,12.9727309,80.1465367,St. Sebastian Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,393946466,way,12.9718961,80.1453268,St. Theresa Girls' Higher Secondary School,school,,,,,,,,medium
+schools,395753402,way,13.1134103,80.0623531,Sri Rama Krishna Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,396836344,way,12.8963403,80.2172188,Unnamed,school,,,,,,,,medium
+schools,428427513,way,12.9543539,80.0439998,Unnamed,school,,,,,,,,medium
+schools,428484763,way,12.9879534,80.2198749,"Government Higher Secondary School, Velachery",school,,Tamilnadu Govt.,,,,,,medium
+schools,438356555,way,12.919116,80.2480548,Unnamed,school,,,,,,,,medium
+schools,438356558,way,12.9179369,80.2475975,Pon Vidhyashram School,school,,,,,,,,medium
+schools,440897489,way,12.9646286,80.2583329,AMM School,school,,,,,,,,medium
+schools,442607342,way,13.0119445,80.1545542,St. Francis International School,school,,,,,,+91 44 2989 1001,https://stfrancisinternationalschool.com/,medium
+schools,459623619,way,13.1126594,80.0968481,DAV,school,,,,,,,,medium
+schools,487967169,way,13.1035239,80.2000852,Singaram Pillai Higher Secondary School,school,,Tamil Nadu Government,,,,,,medium
+schools,487967170,way,13.0920638,80.1952248,S.B.O.A School and Junior College,school,,,,,,+91 44 2615 1145,http://www.sboajc.org/,medium
+schools,487967171,way,13.1019963,80.1958986,Singaram Pillai School,school,,,,,,,,medium
+schools,503338455,way,13.0046818,80.1134473,Madha Medical College & Research Institute,college,,,,,,+91 81480 66666,https://mmcri.in/,medium
+schools,506143532,way,12.9229613,80.1624159,Unnamed,school,,,,,,,,medium
+schools,509668153,way,12.8670812,80.2179374,St Joseph's Instittute of Technology,college,,Anna University,,,,044 2450 3132,https://stjosephstechnology.ac.in/web/index.html,medium
+schools,523736872,way,12.7992422,80.2281533,Hindustan University,university,,,,,,,https://www.hindustanuniv.ac.in/,medium
+schools,526445239,way,13.0570581,80.1235545,Saveetha University,university,,,,,,,,medium
+schools,540117491,way,12.8691261,80.2148406,St. Joseph's College of Engineering,college,,,,,,,https://www.stjosephs.ac.in/;https://stjosephs.ac.in/index.html,medium
+schools,540171893,way,12.9412326,80.1369274,MIT ground,college,,,,,,,,medium
+schools,549670582,way,13.1014828,80.1958137,Singaram Pillai Hr Sec School,school,,,,,,,,medium
+schools,556748273,way,13.2981986,80.1589839,instituitional,school,,,,,,,,medium
+schools,589722657,way,12.8965498,80.2181867,Babaji School Play Ground,school,,Babaji Vidhyaharam,,,,,,medium
+schools,631591467,way,12.9476484,80.1390563,Instrumentation Engineering - New Block,college,,,,,,,,medium
+schools,631591470,way,12.9484635,80.140389,Department of Electonics Engineering - New Block,college,,,,,,,,medium
+schools,634149700,way,13.0654453,80.1108251,Unnamed,college,,,,,,,,medium
+schools,654102235,way,12.8958176,80.1192291,Unnamed,school,,,,,,,,medium
+schools,667782539,way,13.0839451,80.1715976,Unnamed,school,,,,,,,,medium
+schools,670053470,way,13.0338289,80.1600654,Porur Government High School,school,,,,,,,,medium
+schools,670974351,way,12.9918967,80.1861982,Kendriya Vidyalaya,school,,,,,,,,medium
+schools,678656931,way,13.1263492,80.0273418,Dasar High School,school,,,,,,,,medium
+schools,678656933,way,13.1251593,80.0271766,Dasar High School Ground,school,,,,,,,,medium
+schools,718914045,way,12.8234395,80.0423596,SRM University Building,university,,,,,,,,medium
+schools,729229034,way,12.8780134,79.9968852,RRASE College of Engineering,college,,,,,,,https://www.rrase.com/,medium
+schools,729237712,way,12.8711826,79.9961272,Dhaanish Ahmed College of Engineering,college,,,,,,,https://www.dhaanish.in/,medium
+schools,730963732,way,13.0346708,80.2279862,SRI MB JAIN HIGHER SECONDARY SCHOOL,school,,,,,,,,medium
+schools,730963742,way,13.0345935,80.2286341,Shri Shankarlal Sundarbai Shasun Jain College for Women,college,,,,,,+91 44 2432 8506,https://shasuncollege.edu.in,medium
+schools,740106806,way,12.9602285,80.0574939,SAIRAM Engineering college,college,,,,,,,https://sairam.edu.in/,medium
+schools,740106807,way,12.9583273,80.0589019,Sri Sairam Siddha Medical College & Research Centre,college,,,,,,,http://www.sairamsiddha.edu.in,medium
+schools,740146569,way,12.9608062,80.0540147,Sri Sairam Institute of Technology,college,,,,,,,https://sairamit.edu.in,medium
+schools,740619001,way,12.9624263,80.0599402,Sri Sairam Polytechnic College,college,,,,,,,http://www.sairampoly.edu.in,medium
+schools,765366835,way,13.0851058,80.2441326,Sindhi Model Senior Secondary School,school,,,,,,,http://www.sindhimodel.in,medium
+schools,767650347,way,12.9949444,80.0863038,Unnamed,school,,,,,,,,medium
+schools,772410450,way,12.8617243,80.137036,Tagore Dental College And Hospital,college,,,,,,,https://www.tagoredentalcollege.com/,medium
+schools,773797940,way,12.8324788,80.1405978,Tamil Nadu Physical Education And Sports University,college,,,,,,,,medium
+schools,775868429,way,13.0000371,80.2469301,Central Polytechnic College,college,,,,,,+91 44 2254 2666,http://cptchennai.ac.in/,medium
+schools,792345466,way,13.0813686,80.2394153,Chinmaya Vidyalaya (Tapovanam),school,,,,,,,,medium
+schools,812843987,way,13.0548843,80.1936343,Unnamed,school,,,,,,,,medium
+schools,817452165,way,13.1149567,80.1474079,TI Matriculation Higher Secondary School,school,,,,,,+91 44 2658 3266,https://tischool.org/,medium
+schools,819430701,way,12.959405,80.1456693,Sri Chaitanya School,school,,,,,,,,medium
+schools,819696783,way,13.0711113,80.2206728,Unnamed,school,,,,,,,,medium
+schools,837413171,way,13.0172432,80.2686919,Unnamed,school,,,,,,,,medium
+schools,842358375,way,13.1194194,80.1593257,Nathella Vidyodaya,school,,,,,,,,medium
+schools,843529201,way,13.1195167,80.15496,Mahaganesa Government School,school,,,,,,,,medium
+schools,895994093,way,12.8380315,80.1319996,Unnamed,school,,,,,,,,medium
+schools,895994094,way,12.8382712,80.1318454,Unnamed,school,,,,,,,,medium
+schools,938699837,way,12.9735113,80.2092014,Sunshine Senior Secondary School,school,,Rays Educational Trust,,,,+91 94442 38420,https://www.sunshineschool.in/,medium
+schools,943797892,way,12.965156,80.1692906,Unnamed,school,,,,,,,,medium
+schools,952339546,way,12.9235875,79.8675071,Maharishi International Residential School,school,,,,,,,https://www.maharishiirschennai.com/,medium
+schools,969993574,way,13.0887467,80.1818235,D.A.V Boys School,school,,,,,,,,medium
+schools,970633580,way,13.0889701,80.1900207,Chennai Public School,school,,,,,,,,medium
+schools,970633585,way,13.0865607,80.1801087,Spartan Group of Schools,school,,,,,,,,medium
+schools,970634106,way,13.0877779,80.1792164,D.A.V Girls school,school,,,,,,,,medium
+schools,985482164,way,13.0832627,80.1643263,Green Valley School,school,,,,,,044-43551126,,medium
+schools,1017039658,way,12.8385323,79.91327,Unnamed,college,,,,,,,,medium
+schools,1017189238,way,13.2922821,80.0589162,Unnamed,college,,,,,,,,medium
+schools,1019183969,way,12.9261512,80.1986737,Government High School Grounds,school,,,,,,,,medium
+schools,1019657132,way,12.9212988,80.122133,Unnamed,college,,,,,,,,medium
+schools,1019657146,way,12.9216689,80.1221257,Quadrangle,college,,,,,,,,medium
+schools,1031073053,way,13.0819496,80.1979848,KV sports ground,school,,Kendriya vidyalaya anna nagar,,,,,,medium
+schools,1034057832,way,12.9291728,80.1824619,Government School,school,,Government of Tamil Nadu,,,,,,medium
+schools,1035172089,way,12.9297035,80.1114437,Unnamed,school,,,,,,,,medium
+schools,1040570518,way,13.1201586,79.9956098,Perumalpattu Government Primary School,school,,,,,,,,medium
+schools,1058741742,way,13.1369996,79.8919317,Thiruvallur Medical College,college,,,,,,,,medium
+schools,1066918384,way,12.8889018,80.2091679,Government Arts and Science College Perumbakkam,college,,,,,,,,medium
+schools,1066918385,way,12.8881159,80.2086558,Government Industrial Training Institute Perumbakkam,college,,,,,,,,medium
+schools,1066918399,way,12.8857646,80.2104745,Perumbakkam Higher Secondary School,school,,,,,,,,medium
+schools,1067160183,way,12.8735085,80.2205283,Sathyabama Institute of Science and Technology,university,,,,,,,https://www.sathyabama.ac.in/,medium
+schools,1067904862,way,12.8663407,80.2204799,Jeppiaar Engineering College,college,,,,,,,https://jeppiaarcollege.org/jeppiaar/,medium
+schools,1074246086,way,13.1844927,80.3162737,Sagaya Madha Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,1075657697,way,13.1787022,80.1290525,Saint Michaels Polytechnic College,college,,,,,,,,medium
+schools,1080350743,way,12.9553554,80.1360144,Tagore College of Arts and Science,college,,,,,,+91 44 22418061,https://www.tcas.net.in/,medium
+schools,1080350745,way,12.9562414,80.1456204,SDNB Vaishnav College For Women,college,,,,,,+91 44 2265 5450,http://www.sdnbvc.com/,medium
+schools,1082035631,way,13.1309554,80.146963,Sri Venkateswara Chakra School,school,,,,,,,,medium
+schools,1091003545,way,13.1000674,80.2537527,Shri Ram Universal School,school,,,,,,,,medium
+schools,1104424886,way,13.0957443,80.2897857,Muthialpet Higher Secondary School,school,,,,,,,,medium
+schools,1116172429,way,13.0904227,80.2868605,St. Columbans Anglo-Indian Matriculation School,school,,,,,,+91 44 2538 1686,https://stcolumbansaihsschool.org/,medium
+schools,1116172431,way,13.0895978,80.287335,St. Mary's Anglo-Indian Higher Secondary School,school,,,,,,,,medium
+schools,1116186789,way,13.096881,80.2900414,Dr. Rathnavelu Subramaniam Muthialpet Girls Higher Secondary School,school,,,,,,,,medium
+schools,1116272501,way,13.0988347,80.2932792,B.S. Nursery and Primary School,school,,,,,,,,medium
+schools,1119129563,way,13.1382754,79.9989319,Bhajarang Engineering College,college,,,,,,,,medium
+schools,1122111817,way,13.087576,80.28571,Dr Ambedkar Law College,college,,,,,,,,medium
+schools,1122563581,way,13.110074,80.2439951,"R Square Academy for Tnpsc, Tnusrb SI, Tet, Police, Ssc, Rrb, Bank Exam Coaching Centre",university,,,,,,,https://www.rsquareacademy.in,medium
+schools,1135430982,way,13.0998842,80.2859003,Dominic Savio Matriculation School,school,,,,,,,,medium
+schools,1136670234,way,13.0984494,80.2889183,"Chennai Middle School, Ramasamy Street",school,,,,,,,,medium
+schools,1136682578,way,13.0971264,80.2901184,Dr.Rathinavel Subramanian Muthialpet Girls Higher Secondary School,school,,,,,,,,medium
+schools,1147266480,way,13.1005681,80.2906501,M. Ellappa Chettiar Aided Primary School,school,,,,,,,,medium
+schools,1147283499,way,13.1010897,80.2912977,Dr. Rajamanickanar Memorial Nursery and Primary School,school,,,,,,,,medium
+schools,1147473112,way,13.1024716,80.2886905,K. Ramiah Chetty A.R.C. Girl's Higher Secondary School,school,,,,,,+91 44 4211 9427,https://krcarcschools.com/about.php,medium
+schools,1147474036,way,13.1025111,80.2882344,MSB Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,1149331619,way,12.9600946,80.2430339,Bharath Dass Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,1149362735,way,12.9631813,80.235019,Montfort Matriculation School,school,,,,,,,,medium
+schools,1149837903,way,12.896976,80.1465465,Unnamed,school,,,,,,,,medium
+schools,1154910969,way,13.2647526,80.1059504,J.N.N Institute of Engineering,college,,,,,,,,medium
+schools,1155133570,way,13.104472,80.2843271,Chennai Middle School,school,,,,,,,,medium
+schools,1169602546,way,13.1037922,80.2782914,Vivekananda Centenary Girls Higher Secondary School,school,,,,,,,,medium
+schools,1172338148,way,13.0996789,79.7532284,Unnamed,school,,,,,,,,medium
+schools,1172399083,way,13.1037782,80.2750407,Sri Ramakrishna Math National School,school,,,,,,,,medium
+schools,1172638604,way,13.1118716,80.2578859,Sriram Vidhya Mandir School,school,,,,,,,,medium
+schools,1172639331,way,13.1185931,80.2571739,Annai Vailankanni Matriculation School,school,,,,,,,,medium
+schools,1174462632,way,13.0931522,80.2790783,The Hindu Theological Higher Secondary School,school,,,,,,,,medium
+schools,1174507990,way,13.0931804,80.2784721,The Madras Progressive Union Higher Secondary School,school,,,,,,,,medium
+schools,1176840421,way,13.0960669,80.280292,The Saivite Middle School and T.T.V. Higher Secondary School,school,,,,,,,,medium
+schools,1176848828,way,13.0954814,80.2800718,Ganeshbai Galada Jain Girls Higher Secondary School,school,,,,,,,,medium
+schools,1178017210,way,13.0964026,80.2789718,CSI Middle School,school,,,,,,,,medium
+schools,1178725427,way,13.0935351,80.2803887,K.T.C.T Girls Primary & Higher Secondary School,school,,,,,,,,medium
+schools,1178725431,way,13.0939396,80.280468,Shree Jethmal Tikamchand Chajed Jain Mission High School,school,,,,,,,,medium
+schools,1180950683,way,13.0902792,80.2816663,S.K.P.D Boys Primary School and Higher Secondary School,school,,,,,,,,medium
+schools,1185635267,way,12.7923451,80.1878744,"Indian Institute Of Technology, Thaiyur",college,,,,,,,,medium
+schools,1185723790,way,12.7619647,80.1585491,Unnamed,school,,,,,,,,medium
+schools,1185833562,way,12.7631865,80.1080688,Apollo Arts and Science College Chennai,college,,,,,,,,medium
+schools,1188088349,way,12.971406,80.0438269,Chennai Institute Of Technology,college,,,,,,,https://www.citchennai.edu.in/,medium
+schools,1200036869,way,13.006209,80.0267659,Footwear Design and Development Institute,college,,,,,,,,medium
+schools,1200055141,way,13.0350532,80.0119952,Apollo College of Education,college,,,,,,,,medium
+schools,1201843780,way,13.0590013,79.9114751,Unnamed,school,,,,,,,,medium
+schools,1202245460,way,13.1678833,80.2125316,Sri Venkateswara Public School,school,,,,,,,,medium
+schools,1202517159,way,12.8598253,80.1693189,Christwood School,school,,,,,,,,medium
+schools,1206543401,way,12.9623713,79.8976794,Jeppiaar Maamallan Engineering College,college,,,,,,,,medium
+schools,1231867882,way,13.1531198,79.8573596,TELC Kabis Higher Secondary School,school,,,,,,,,medium
+schools,1232377050,way,13.1387334,79.8715876,Sri Venkateswara College of Engineering & Technology,college,,,,,,,,medium
+schools,1236156930,way,13.0387136,80.0744763,SKR Engineering College,college,,,,,,,,medium
+schools,1237138893,way,12.8957152,80.1553243,Annai Arul Public School,school,,,,,,,,medium
+schools,1237674824,way,13.1029082,80.2815504,Government Muslim High School,school,,,,,,,,medium
+schools,1237744463,way,13.1010225,80.2863136,St. Gabriel's Higher Secondary School,school,,,,,,,,medium
+schools,1237744470,way,13.1004544,80.2862277,Don Bosco Nursery & Primary School,school,,,,,,,,medium
+schools,1239088646,way,13.1025852,80.2861933,Bishop Corrie Anglo-Indian Higher Secondary School,school,,,,,,,,medium
+schools,1239353112,way,13.0991294,80.2850251,St. Anne's Girls Higher Secondary School / St. Francis Xavier's Primary School / St. Anne's Convent,school,,,,,,,,medium
+schools,1239353120,way,13.0989461,80.2855722,St. Francis Xavier Anglo-Indian Higher Secondary School,school,,,,,,,,medium
+schools,1239353122,way,13.0983664,80.2851306,Unnamed,school,,,,,,,,medium
+schools,1239369341,way,13.0978847,80.2860648,Chennai Urdu Middle School,school,,,,,,,,medium
+schools,1239369342,way,13.0983467,80.2861633,Unnamed,school,,,,,,,,medium
+schools,1241283253,way,13.0983182,80.2844095,Shri Sarathy Vidyalaya Nursery and Primary School,school,,,,,,,,medium
+schools,1256940335,way,13.2614203,80.0265209,Amrita Vishwa Vidyapeetham,university,,Mata Amritanandamayi Math,,,,,https://www.amrita.edu/campus/chennai,medium
+schools,1262525428,way,12.839088,80.1734893,Unnamed,school,,,,,,,,medium
+schools,1273388344,way,13.1769044,80.0978744,Veltech University,university,,,,,,,,medium
+schools,1273388345,way,13.1762018,80.0979859,Unnamed,university,,,,,,,,medium
+schools,1273388346,way,13.1753746,80.097447,Unnamed,university,,,,,,,,medium
+schools,1273388347,way,13.1758134,80.097088,Unnamed,university,,,,,,,,medium
+schools,1273388348,way,13.1742818,80.0974836,Unnamed,university,,,,,,,,medium
+schools,1273388349,way,13.1739081,80.0972717,Unnamed,university,,,,,,,,medium
+schools,1273388350,way,13.1736666,80.0980143,Unnamed,university,,,,,,,,medium
+schools,1290391858,way,13.2628007,80.0288985,Unnamed,school,,,,,,,,medium
+schools,1300666561,way,12.8541398,80.2384474,Amet University,university,,,,,,,,medium
+schools,1314581960,way,13.0803052,80.2230732,Dr.B.M. Sundaravadanan Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,1314584110,way,13.0772327,80.2244586,Girls Higher Secondary School,school,,,,,,,,medium
+schools,1314660931,way,13.0765234,80.2235869,Chennai Middle School,school,,,,,,,,medium
+schools,1323805507,way,12.9775609,80.2179159,Sri chaitanya techno school,school,,,,,,,,medium
+schools,1323806867,way,12.9758765,80.2230577,Bethel Matriculation hr sec school,school,,,,,,,,medium
+schools,1338989730,way,13.0156686,80.1560737,Ology School Ground,school,,,,,,,,medium
+schools,1353938227,way,12.9662704,80.2418081,Unnamed,school,,,,,,,,medium
+schools,1354435845,way,12.9436831,80.2321112,Unnamed,school,,,,,,,,medium
+schools,1354435861,way,12.9418664,80.2035005,Unnamed,school,,,,,,,,medium
+schools,1354435862,way,12.9397928,80.2151848,Unnamed,school,,,,,,,,medium
+schools,1354435885,way,12.9419284,80.2119139,Unnamed,school,,,,,,,,medium
+schools,1354443590,way,12.953783,80.2046586,Unnamed,school,,,,,,,,medium
+schools,1358364849,way,12.7973471,80.0258387,Saint Joseph’s Matriculation Higher Secondary School,school,,,,,,,https://stjosephschoolmmngr.com/,medium
+schools,1358843508,way,12.8808047,80.0781353,"Government Higher Secondary School, Otteri",school,,,,,,,,medium
+schools,1358843511,way,12.8811629,80.0771367,Unnamed,school,,,,,,,,medium
+schools,1360872904,way,12.7948105,80.0281321,"Government Higher Secondary School, Maraimalai Nagar",school,,,,,,,,medium
+schools,1360872915,way,12.7978834,80.0248728,Government Primary School,school,,,,,,,,medium
+schools,1373636175,way,12.9547011,80.2384979,Unnamed,school,,,,,,,,medium
+schools,1373636348,way,12.9509727,80.2346458,St. George Matric Higher Secondary School,school,,,,,,,,medium
+schools,1373636360,way,12.9495327,80.2416581,Government Higher Secondary School,school,,,,,,,,medium
+schools,1373821405,way,12.9461567,80.256816,Unnamed,school,,,,,,,,medium
+schools,1381324100,way,13.0951233,79.8016946,Unnamed,school,,,,,,,,medium
+schools,1391072849,way,12.956514,79.8540613,St. Anne's Primary School,school,,,,,,,,medium
+schools,1391073972,way,12.9353344,79.8736638,Morning Star Matriculation School,school,,,,,,,,medium
+schools,1391073982,way,12.935579,79.8750942,St. Vincent's Matriculation School,school,,,,,,,,medium
+schools,1391073986,way,12.9337933,79.8740995,Bon Secours College Of Nursing,college,,,,,,,,medium
+schools,1395181326,way,13.2878248,80.2558896,Shree Chandraprabhu Jain College - Minjur,college,,,,,,,,medium
+schools,1408241420,way,13.2206104,80.3192294,St. Joseph's Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,1409359125,way,12.9455165,80.2078467,Jerusalem College of Engineering,university,,,,,,,,medium
+schools,1409767940,way,12.8361021,80.2180724,Mohamed Sathak AJ College of Engineering,university,,,,,,,,medium
+schools,1425739385,way,13.041574,80.2636677,Ramakrishna Mission Residential High School,school,,,,,,,,medium
+schools,1425997303,way,12.9175564,79.9341865,Montfort Senior Secondary School Theresapuram,school,,,,,,,,medium
+schools,1425997314,way,12.9157694,79.9341346,Little Flower Higher Secondary School Theresapuram,school,,,,,,,,medium
+schools,1427101125,way,12.8906094,79.8762958,Jeppiaar Institute of Technology and St. Anthony's School,school,,,,,,,,medium
+schools,1427638126,way,12.9544809,79.9231885,Gratia Nursery and Primary School,school,,,,,,,,medium
+schools,1431403474,way,12.9644691,79.948051,St. Mary's Matriculation Higher Secondary School,school,,,,,,,,medium
+schools,1444733268,way,12.9050271,80.2113879,Central Institute of Classical Tamil,university,,,,,,,,medium

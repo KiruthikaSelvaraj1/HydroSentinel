@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "generated": "2025-11-06T07:59:21.955586",
+    "total_events": 6,
+    "date_range": "2005-2023",
+    "source": "Compiled from IMD, TNSDMA, news archives"
+  },
+  "events": [
+    {
+      "id": 1,
+      "date": "2015-12-01",
+      "event_name": "Chennai Floods 2015",
+      "description": "Worst floods in 100 years. Caused by northeast monsoon depression",
+      "rainfall_mm": 494,
+      "duration_days": 7,
+      "affected_population": 1800000,
+      "casualties": 500,
+      "economic_damage_inr_crores": 20000,
+      "severity": "critical",
+      "trigger": "Northeast monsoon depression over Bay of Bengal",
+      "affected_areas": [
+        "Adyar",
+        "Velachery",
+        "Tambaram",
+        "Pallavaram",
+        "Kotturpuram",
+        "Nandanam",
+        "Saidapet",
+        "T Nagar",
+        "Anna Nagar",
+        "Madipakkam"
+      ],
+      "max_water_depth_m": 3.5,
+      "recovery_days": 30,
+      "sources": [
+        "https://en.wikipedia.org/wiki/2015_South_Indian_floods",
+        "IMD Chennai Report 2015",
+        "Tamil Nadu State Disaster Management Authority"
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2021-11-11",
+      "event_name": "Northeast Monsoon 2021",
+      "description": "Heavy rainfall during northeast monsoon",
+      "rainfall_mm": 210,
+      "duration_days": 3,
+      "affected_population": 450000,
+      "casualties": 35,
+      "economic_damage_inr_crores": 2500,
+      "severity": "high",
+      "trigger": "Northeast monsoon low pressure",
+      "affected_areas": [
+        "Madhavaram",
+        "Manali",
+        "Perambur",
+        "Anna Nagar",
+        "Puzhuthivakkam",
+        "Mudichur",
+        "Palavakkam"
+      ],
+      "max_water_depth_m": 2.0,
+      "recovery_days": 7,
+      "sources": [
+        "The Hindu - November 2021 reports",
+        "Chennai Corporation flood reports"
+      ]
+    },
+    {
+      "id": 3,
+      "date": "2023-12-04",
+      "event_name": "Cyclone Michaung",
+      "description": "Severe cyclonic storm crossing north Tamil Nadu coast",
+      "rainfall_mm": 320,
+      "duration_days": 4,
+      "affected_population": 850000,
+      "casualties": 17,
+      "economic_damage_inr_crores": 8000,
+      "severity": "high",
+      "trigger": "Cyclone Michaung from Bay of Bengal",
+      "affected_areas": [
+        "Velachery",
+        "Pallikaranai",
+        "Chromepet",
+        "Porur",
+        "ECR coastal areas",
+        "OMR IT corridor",
+        "Sholinganallur"
+      ],
+      "max_water_depth_m": 2.8,
+      "recovery_days": 12,
+      "sources": [
+        "IMD Cyclone Warning 2023",
+        "https://en.wikipedia.org/wiki/Cyclone_Michaung",
+        "Tamil Nadu Revenue Department"
+      ]
+    },
+    {
+      "id": 4,
+      "date": "2017-11-09",
+      "event_name": "November Floods 2017",
+      "description": "Flash floods in central Chennai",
+      "rainfall_mm": 165,
+      "duration_days": 2,
+      "affected_population": 200000,
+      "casualties": 12,
+      "economic_damage_inr_crores": 1200,
+      "severity": "medium",
+      "trigger": "Intense monsoon spell",
+      "affected_areas": [
+        "T Nagar",
+        "Nungambakkam",
+        "Saidapet",
+        "Kodambakkam"
+      ],
+      "max_water_depth_m": 1.5,
+      "recovery_days": 5,
+      "sources": [
+        "The Hindu archives",
+        "Chennai Corporation reports"
+      ]
+    },
+    {
+      "id": 5,
+      "date": "2020-11-27",
+      "event_name": "Cyclone Nivar",
+      "description": "Very severe cyclonic storm",
+      "rainfall_mm": 287,
+      "duration_days": 3,
+      "affected_population": 600000,
+      "casualties": 28,
+      "economic_damage_inr_crores": 5000,
+      "severity": "high",
+      "trigger": "Cyclone Nivar landfall near Chennai",
+      "affected_areas": [
+        "Sholinganallur",
+        "OMR",
+        "ECR Coastal Areas",
+        "Neelankarai",
+        "Injambakkam",
+        "Thiruvanmiyur"
+      ],
+      "max_water_depth_m": 2.3,
+      "recovery_days": 10,
+      "sources": [
+        "IMD Cyclone Report 2020",
+        "https://en.wikipedia.org/wiki/Cyclone_Nivar"
+      ]
+    },
+    {
+      "id": 6,
+      "date": "2005-11-14",
+      "event_name": "Floods 2005",
+      "description": "Northeast monsoon floods",
+      "rainfall_mm": 320,
+      "duration_days": 5,
+      "affected_population": 500000,
+      "casualties": 75,
+      "economic_damage_inr_crores": 3000,
+      "severity": "high",
+      "trigger": "Depression in Bay of Bengal",
+      "affected_areas": [
+        "North Chennai",
+        "Ambattur",
+        "Avadi",
+        "Poonamallee"
+      ],
+      "max_water_depth_m": 2.5,
+      "recovery_days": 15,
+      "sources": [
+        "Chennai Corporation archives",
+        "TNSDMA historical records"
+      ]
+    }
+  ],
+  "rainfall_patterns": {
+    "2015": {
+      "November": [
+        340,
+        480,
+        345,
+        220,
+        186
+      ],
+      "December": [
+        494,
+        286,
+        95,
+        42,
+        28
+      ]
+    },
+    "2021": {
+      "November": [
+        65,
+        128,
+        210,
+        185,
+        98
+      ]
+    },
+    "2023": {
+      "December": [
+        85,
+        165,
+        320,
+        245,
+        110
+      ]
+    }
+  }
+}

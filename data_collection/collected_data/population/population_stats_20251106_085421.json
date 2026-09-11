@@ -1,0 +1,14 @@
+{
+  "total_population": 64824286,
+  "grid_cells": 1242,
+  "resolution_km": 1.11,
+  "avg_density_per_km2": 42361,
+  "max_density_per_km2": 152638,
+  "high_density_cells": 957,
+  "coverage": {
+    "lat_min": 12.81,
+    "lat_max": 13.24,
+    "lon_min": 80.03,
+    "lon_max": 80.39
+  }
+}

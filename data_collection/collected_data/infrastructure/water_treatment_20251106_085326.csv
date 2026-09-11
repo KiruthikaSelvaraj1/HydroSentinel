@@ -1,0 +1,30 @@
+category,osm_id,osm_type,lat,lon,name,amenity,healthcare,operator,capacity,beds,emergency,phone,website,priority
+water_treatment,3917186157,node,12.9888036,80.1169183,STW,,,,,,,,,medium
+water_treatment,5318580030,node,13.0828414,80.1973044,Pump Room,,,,,,,,,medium
+water_treatment,12458763849,node,13.1844599,80.3132513,Kazhivu Neeretrum Nisha am,,,Cmwssb,,,,,,medium
+water_treatment,29200043,way,13.1385849,80.2615665,Old Kodungaiyur Sewage Treatment Plant,,,,,,,,,medium
+water_treatment,29200051,way,13.1472496,80.2604267,New Kodungaiyur Sewage Treatment Plant,,,,,,,,,medium
+water_treatment,30835048,way,13.0662282,80.200102,Koyambedu Water Treatment Plant,,,,,,,,,medium
+water_treatment,30973300,way,13.090247,80.2340759,Kilpauk Water Works,,,,,,,,,medium
+water_treatment,33020613,way,13.0345573,80.1937703,Metro Water Sewage Treatment Plant,,,,,,,,,medium
+water_treatment,102663579,way,13.1482337,80.2750585,Unnamed,,,,,,,,,medium
+water_treatment,102663603,way,13.1474519,80.2696023,Unnamed,,,,,,,,,medium
+water_treatment,131425286,way,12.9572257,80.2339153,Perungudi Sewage Treatment Plant,,,,,,,,,medium
+water_treatment,138307549,way,13.1599538,80.1937708,STP,,,,,,,,,medium
+water_treatment,217940542,way,13.1165732,80.2612537,Unnamed,,,,,,,,,medium
+water_treatment,386017808,way,13.2040106,80.2994924,Unnamed,,,,,,,,,medium
+water_treatment,386017976,way,13.2037943,80.2990872,Unnamed,,,,,,,,,medium
+water_treatment,386394733,way,13.160568,80.1927022,Unnamed,,,,,,,,,medium
+water_treatment,386394757,way,13.1605875,80.1932964,Unnamed,,,,,,,,,medium
+water_treatment,386394876,way,13.1606138,80.1938362,Unnamed,,,,,,,,,medium
+water_treatment,386394877,way,13.1612445,80.1927012,Unnamed,,,,,,,,,medium
+water_treatment,386394904,way,13.1612458,80.193265,Unnamed,,,,,,,,,medium
+water_treatment,625564658,way,13.1700928,80.2829128,Madras Fertilizers Pond,,,,,,,,,medium
+water_treatment,736275616,way,12.9090363,80.2250005,Unnamed,,,,,,,,,medium
+water_treatment,840880642,way,13.1542831,80.2870808,Unnamed,,,,,,,,,medium
+water_treatment,840880644,way,13.1449628,80.2789094,Unnamed,,,,,,,,,medium
+water_treatment,1035168094,way,13.1093531,80.1047489,Unnamed,,,,,,,,,medium
+water_treatment,1232617260,way,12.9013822,80.2369819,Unnamed,,,,,,,,,medium
+water_treatment,1254707189,way,12.9892527,80.2405427,Sewage Treatment Plant,,,,,,,,,medium
+water_treatment,1425994790,way,12.9110966,79.9227008,Unnamed,,,,,,,,,medium
+water_treatment,1427638120,way,12.9513813,79.9241191,Sriperumbudur Sewage Treatment Plant,,,,,,,,,medium

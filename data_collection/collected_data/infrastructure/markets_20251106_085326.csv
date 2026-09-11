@@ -1,0 +1,60 @@
+category,osm_id,osm_type,lat,lon,name,amenity,healthcare,operator,capacity,beds,emergency,phone,website,priority
+markets,303283947,node,13.0833302,80.272561,Lily Pond Shopping Complex,,,,,,,,,medium
+markets,366848592,node,13.0686635,80.2572129,Alsa Mall Shopping Complex,,,,,,,,,medium
+markets,1926734878,node,13.0211473,80.2235173,Abdul Razaak Market (Vegatables),marketplace,,,,,,,,medium
+markets,2091847090,node,12.9287669,80.1139459,Vasanth & Co,marketplace,,,,,,,,medium
+markets,2296730807,node,13.0748904,80.2695735,Chintadripet Market,marketplace,,,,,,,,medium
+markets,4308319797,node,13.024373,80.2126484,Fish Market,marketplace,,,,,,,,medium
+markets,4407798965,node,13.0396517,80.2428361,Chella Mall,,,,,,,,,medium
+markets,4912560424,node,12.9283338,80.1165141,viveks home needs shop,,,viveks,,,,,,medium
+markets,5744866581,node,13.0690491,80.2570006,Cisons Complex,,,,,,,,,medium
+markets,6326683088,node,13.0369935,80.2300553,Unnamed,marketplace,,,,,,,,medium
+markets,8869350454,node,13.03833,80.1617888,Unnamed,,,,,,,,,medium
+markets,8869350458,node,13.0379485,80.161715,Unnamed,,,,,,,,,medium
+markets,11004086240,node,12.7966727,80.2234624,Bhagawan Fish Market,marketplace,,,,,,,,medium
+markets,12458790368,node,13.1792042,80.3072051,Wimco Nagar Vegitable Vendor Market,marketplace,,,,,,,,medium
+markets,12458790369,node,13.1789342,80.3074984,TKS Private Fish Market,marketplace,,,,,,,,medium
+markets,28152559,way,13.0553609,80.2498341,Ispahani Centre,,,,,,,,,medium
+markets,28503859,way,13.054683,80.2491937,Apex Plaza,,,,,,,,,medium
+markets,29267290,way,13.0429061,80.2738836,Chennai Citi Center Mall,,,,,,,,,medium
+markets,30835027,way,13.0676927,80.1959598,Koyambedu Fruit and Vegetable Market,marketplace,,,,,,,,medium
+markets,30835037,way,13.0677429,80.1989027,Koyambedu Flower Market,marketplace,,,,,,,,medium
+markets,154030370,way,13.0586501,80.2641949,எக்ஸ்பிரஸ் அவென்யூ மால்,,,,,,,,https://www.expressavenue.in/,medium
+markets,156250605,way,13.0386183,80.2491883,Alwapet Market,marketplace,,,,,,,,medium
+markets,194858897,way,12.9482688,80.2001726,hariom harwares,marketplace,,,,,,,,medium
+markets,208572083,way,13.0343374,80.2688471,Unnamed,marketplace,,,,,,,,medium
+markets,209514724,way,13.0415183,80.2323799,Unnamed,marketplace,,,,,,,,medium
+markets,211864545,way,13.0595258,80.2722104,Zam Bazaar Market,marketplace,,,,,,,,medium
+markets,214148769,way,13.021227,80.2235544,Abdul Razaak Vegatable Market,marketplace,,,,,,,,medium
+markets,214188227,way,13.0208727,80.2235011,Unnamed,marketplace,,,,,,,,medium
+markets,214711575,way,13.0750908,80.2698431,Fish Market,marketplace,,,,,,,,medium
+markets,217653500,way,13.0911513,80.2913922,Burma Bazaar,marketplace,,,,,,,,medium
+markets,217736826,way,13.0364681,80.2276278,Mambalam Vegetable Market,marketplace,,,,,,,,medium
+markets,217845089,way,13.0844503,80.2791239,Unnamed,marketplace,,,,,,,,medium
+markets,217849598,way,13.0853679,80.2793111,Unnamed,marketplace,,,,,,,,medium
+markets,217864798,way,13.1227746,80.2906414,Unnamed,marketplace,,,,,,,,medium
+markets,217878789,way,13.0980447,80.2615139,Unnamed,marketplace,,,,,,,,medium
+markets,223937121,way,12.9843331,80.1884174,Nanganallur Market,marketplace,,,,,,,,medium
+markets,334478862,way,13.0214236,80.2240153,Sri Karaneeswarar Fish Market,marketplace,,,,,,,,medium
+markets,355458015,way,13.0735047,80.221429,Ampa Skywalk,,,,,,,,,medium
+markets,355637768,way,13.0508716,80.2094947,Nexus Vijaya Forum Mall,,,,,,,,,medium
+markets,393560243,way,13.0734821,80.221547,Ampa Skywalk,,,,,,,,,medium
+markets,396824231,way,12.9719457,80.2203449,Unnamed,,,,,,,,,medium
+markets,397069326,way,12.9619719,80.2586897,Palavakkam Fish Market,marketplace,,,,,,,,medium
+markets,397069327,way,12.9619912,80.2585751,"Palavakkam PDS Center (Ration SHOP) ,TNSCC",marketplace,,,,,,,,medium
+markets,397072801,way,12.969852,80.2576458,kottivakkam seafood Market,marketplace,,,,,,,,medium
+markets,477836333,way,13.0429762,80.2334008,Total mall,,,,,,,+51665767,www.totalmall.com,medium
+markets,634144271,way,13.0810799,80.1966648,VR Chennai,,,,,,,,,medium
+markets,634538011,way,12.8504351,80.2255898,VIVIRA Mall,,,,,,,7010232735,https://viviramall.com/,medium
+markets,635188365,way,13.1005226,80.1902013,Saravana Stores Padi,,,,,,,,,medium
+markets,836871761,way,13.1166447,80.0640464,Avadi Municipality Fish Market,marketplace,,,,,,,,medium
+markets,1021334105,way,13.0704127,80.1932379,Koyambedu Market,marketplace,,,,,,,,medium
+markets,1035172085,way,12.925671,80.1160089,Unnamed,marketplace,,,,,,,,medium
+markets,1040126396,way,12.8359504,80.2295833,Chennai Marina Mall,,,,,,,,,medium
+markets,1080629454,way,13.0631646,80.2858128,Marina Beach Market,marketplace,,,,,,,,medium
+markets,1128509238,way,13.061635,80.261095,Spencer Plaza,,,,,,,,,medium
+markets,1132414645,way,12.9931142,80.2177194,Palladium,,,,,,,04461343088,https://www.palladiumchennai.com/,medium
+markets,1241327269,way,13.0982154,80.2821655,Seven Wells Market,marketplace,,,,,,,,medium
+markets,1357704397,way,13.0347043,80.2793966,Modern Fish Market,marketplace,,Greater Chennai Corporation,,,,,,medium
+markets,1373636316,way,12.9496402,80.2404693,BSR Mall,,,,,,,,,medium
+markets,1391072850,way,12.9474528,79.858671,Matha Shopping Complex,,,,,,,,,medium
